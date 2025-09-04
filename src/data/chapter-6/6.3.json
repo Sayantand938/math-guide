@@ -1,0 +1,593 @@
+{
+  "title": "Let's workout- 6.3",
+  "chapter": "Chapter 6: ALGEBRAIC OPERATIONS",
+  "questions": [
+    {
+      "question_no": "1",
+      "content": "Let's find values of the following mentally-",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "$3a \\times 4b = \\underline{\\qquad}$",
+          "solution": [
+            "To multiply $3a$ and $4b$, we multiply the numerical coefficients and the variables separately.",
+            "Numerical part: $3 \\times 4 = 12$.",
+            "Variable part: $a \\times b = ab$.",
+            "Combining them, we get $12ab$.",
+            "Answer: $12ab$"
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "$12ab \\div 3a = \\underline{\\qquad}$",
+          "solution": [
+            "To divide $12ab$ by $3a$, we divide the numerical coefficients and the variables separately.",
+            "Numerical part: $12 \\div 3 = 4$.",
+            "Variable part: $ab \\div a = b$.",
+            "Combining them, we get $4b$.",
+            "Answer: $4b$"
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "$12ab \\div \\underline{\\qquad} = 4ab$",
+          "solution": [
+            "Let the blank be $x$. The equation is $12ab \\div x = 4ab$.",
+            "To find $x$, we can rearrange the equation: $x = 12ab \\div 4ab$.",
+            "Numerical part: $12 \\div 4 = 3$.",
+            "Variable part: $ab \\div ab = 1$.",
+            "So, $x = 3$.",
+            "Answer: $3$"
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "$(-x^2) \\times x = \\underline{\\qquad}$",
+          "solution": [
+            "Using the law of exponents, $a^m \\times a^n = a^{m+n}$.",
+            "Here, we have $-x^2 \\times x^1$.",
+            "The result is $-x^{2+1} = -x^3$.",
+            "Answer: $-x^3$"
+          ]
+        },
+        {
+          "sub_question_no": "(v)",
+          "content": "$9x^2 \\div 3x^2 = \\underline{\\qquad}$",
+          "solution": [
+            "To divide $9x^2$ by $3x^2$, we divide the numerical coefficients and the variables separately.",
+            "Numerical part: $9 \\div 3 = 3$.",
+            "Variable part: $x^2 \\div x^2 = 1$.",
+            "Combining them, we get $3 \\times 1 = 3$.",
+            "Answer: $3$"
+          ]
+        },
+        {
+          "sub_question_no": "(vi)",
+          "content": "$x^2 \\times x^2 = \\underline{\\qquad}$",
+          "solution": [
+            "Using the law of exponents, $a^m \\times a^n = a^{m+n}$.",
+            "Here, we have $x^2 \\times x^2$.",
+            "The result is $x^{2+2} = x^4$.",
+            "Answer: $x^4$"
+          ]
+        },
+        {
+          "sub_question_no": "(vii)",
+          "content": "$x^2 \\times \\underline{\\qquad} = 1$",
+          "solution": [
+            "Let the blank be $y$. The equation is $x^2 \\times y = 1$.",
+            "To find $y$, we can rearrange the equation: $y = 1 \\div x^2$.",
+            "This can be written as $x^{-2}$.",
+            "Answer: $x^{-2}$ or $\\frac{1}{x^2}$"
+          ]
+        },
+        {
+          "sub_question_no": "(viii)",
+          "content": "$0 \\div ab = \\underline{\\qquad}$",
+          "solution": [
+            "Zero divided by any non-zero number is zero.",
+            "Given that $a$ and $b$ are not zero, $ab$ is not zero.",
+            "Therefore, $0 \\div ab = 0$.",
+            "Answer: $0$"
+          ]
+        },
+        {
+          "sub_question_no": "(ix)",
+          "content": "$4a^2b^2c^2 \\times \\underline{\\qquad} = 0$",
+          "solution": [
+            "Let the blank be $x$. The equation is $4a^2b^2c^2 \\times x = 0$.",
+            "For the product of two numbers to be zero, at least one of them must be zero.",
+            "Since $a,b,c$ are not zero, $4a^2b^2c^2$ is not zero.",
+            "Therefore, $x$ must be $0$.",
+            "Answer: $0$"
+          ]
+        },
+        {
+          "sub_question_no": "(x)",
+          "content": "$3ab \\div \\underline{\\qquad} = a$",
+          "solution": [
+            "Let the blank be $x$. The equation is $3ab \\div x = a$.",
+            "To find $x$, we can rearrange the equation: $x = 3ab \\div a$.",
+            "$x = (3/1) \\times (a/a) \\times b = 3b$.",
+            "Answer: $3b$"
+          ]
+        },
+        {
+          "sub_question_no": "(xi)",
+          "content": "$x^0 \\times y = \\underline{\\qquad}$",
+          "solution": [
+            "Any non-zero number raised to the power of 0 is 1. So, $x^0 = 1$.",
+            "The expression becomes $1 \\times y$.",
+            "The result is $y$.",
+            "Answer: $y$"
+          ]
+        },
+        {
+          "sub_question_no": "(xii)",
+          "content": "$x \\div 0 = \\underline{\\qquad}$",
+          "solution": [
+            "Division by zero is undefined in mathematics.",
+            "Answer: Undefined"
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "2",
+      "content": "Let's multiply -",
+      "sub_questions": [
+        {
+          "sub_question_no": "(a)",
+          "content": "$2x^2 \\times (-3y) \\times 6z$",
+          "solution": [
+            "First, multiply the numerical coefficients: $2 \\times (-3) \\times 6 = -36$.",
+            "Then, multiply the variables: $x^2 \\times y \\times z = x^2yz$.",
+            "Combine the results: $-36x^2yz$.",
+            "Answer: $-36x^2yz$"
+          ]
+        },
+        {
+          "sub_question_no": "(b)",
+          "content": "$7xy^2 \\times 8x^2y \\times xy$",
+          "solution": [
+            "First, multiply the numerical coefficients: $7 \\times 8 \\times 1 = 56$.",
+            "Then, multiply the variables by adding their exponents: $(x^1 \\cdot x^2 \\cdot x^1) \\times (y^2 \\cdot y^1 \\cdot y^1) = x^{1+2+1}y^{2+1+1} = x^4y^4$.",
+            "Combine the results: $56x^4y^4$.",
+            "Answer: $56x^4y^4$"
+          ]
+        },
+        {
+          "sub_question_no": "(c)",
+          "content": "$(-3a^2) \\times (4a^2b) \\times (-2)$",
+          "solution": [
+            "First, multiply the numerical coefficients: $(-3) \\times 4 \\times (-2) = 24$.",
+            "Then, multiply the variables: $(a^2 \\cdot a^2) \\times b = a^{2+2}b = a^4b$.",
+            "Combine the results: $24a^4b$.",
+            "Answer: $24a^4b$"
+          ]
+        },
+        {
+          "sub_question_no": "(d)",
+          "content": "$(-2mn) \\times \\frac{1}{6}m^2n^2 \\times 13m^4n^4$",
+          "solution": [
+            "First, multiply the numerical coefficients: $-2 \\times \\frac{1}{6} \\times 13 = -\\frac{26}{6} = -\\frac{13}{3}$.",
+            "Then, multiply the variables: $(m^1 \\cdot m^2 \\cdot m^4) \\times (n^1 \\cdot n^2 \\cdot n^4) = m^{1+2+4}n^{1+2+4} = m^7n^7$.",
+            "Combine the results: $-\\frac{13}{3}m^7n^7$.",
+            "Answer: $-\\frac{13}{3}m^7n^7$"
+          ]
+        },
+        {
+          "sub_question_no": "(e)",
+          "content": "$\\frac{2}{3}x^2y \\times \\frac{3}{5}xy^2$",
+          "solution": [
+            "First, multiply the numerical coefficients: $\\frac{2}{3} \\times \\frac{3}{5} = \\frac{6}{15} = \\frac{2}{5}$.",
+            "Then, multiply the variables: $(x^2 \\cdot x) \\times (y \\cdot y^2) = x^{2+1}y^{1+2} = x^3y^3$.",
+            "Combine the results: $\\frac{2}{5}x^3y^3$.",
+            "Answer: $\\frac{2}{5}x^3y^3$"
+          ]
+        },
+        {
+          "sub_question_no": "(f)",
+          "content": "$(-\\frac{18}{5}x^2z) \\times (-\\frac{25}{6}xz^2y)$",
+          "solution": [
+            "First, multiply the numerical coefficients: $(-\\frac{18}{5}) \\times (-\\frac{25}{6}) = \\frac{18 \\times 25}{5 \\times 6} = 3 \\times 5 = 15$.",
+            "Then, multiply the variables: $(x^2 \\cdot x) \\times y \\times (z \\cdot z^2) = x^{2+1}yz^{1+2} = x^3yz^3$.",
+            "Combine the results: $15x^3yz^3$.",
+            "Answer: $15x^3yz^3$"
+          ]
+        },
+        {
+          "sub_question_no": "(g)",
+          "content": "$(-\\frac{3}{5}s^2t) \\times (\\frac{15}{7}stu) \\times (\\frac{7}{9}su^2)$",
+          "solution": [
+            "First, multiply the numerical coefficients: $(-\\frac{3}{5}) \\times (\\frac{15}{7}) \\times (\\frac{7}{9}) = -\\frac{3 \\times 15 \\times 7}{5 \\times 7 \\times 9} = -\\frac{3 \\times 3}{9} = -1$.",
+            "Then, multiply the variables: $(s^2 \\cdot s \\cdot s) \\times (t \\cdot t) \\times (u \\cdot u^2) = s^{2+1+1}t^{1+1}u^{1+2} = s^4t^2u^3$.",
+            "Combine the results: $-s^4t^2u^3$.",
+            "Answer: $-s^4t^2u^3$"
+          ]
+        },
+        {
+          "sub_question_no": "(h)",
+          "content": "$(\\frac{4}{3}x^2yz) \\times (\\frac{1}{3}y^2zx) \\times (-6xyz^2)$",
+          "solution": [
+            "First, multiply the numerical coefficients: $\\frac{4}{3} \\times \\frac{1}{3} \\times (-6) = -\\frac{24}{9} = -\\frac{8}{3}$.",
+            "Then, multiply the variables: $(x^2 \\cdot x \\cdot x) \\times (y \\cdot y^2 \\cdot y) \\times (z \\cdot z \\cdot z^2) = x^{2+1+1}y^{1+2+1}z^{1+1+2} = x^4y^4z^4$.",
+            "Combine the results: $-\\frac{8}{3}x^4y^4z^4$.",
+            "Answer: $-\\frac{8}{3}x^4y^4z^4$"
+          ]
+        },
+        {
+          "sub_question_no": "(i)",
+          "content": "$4a(3a + 7b)$",
+          "solution": [
+            "Use the distributive property: $m(p+q) = mp + mq$.",
+            "$4a(3a + 7b) = (4a \\times 3a) + (4a \\times 7b)$",
+            "$= 12a^2 + 28ab$.",
+            "Answer: $12a^2 + 28ab$"
+          ]
+        },
+        {
+          "sub_question_no": "(j)",
+          "content": "$8a^2 \\times (2a + 5b)$",
+          "solution": [
+            "Use the distributive property: $m(p+q) = mp + mq$.",
+            "$8a^2(2a + 5b) = (8a^2 \\times 2a) + (8a^2 \\times 5b)$",
+            "$= 16a^3 + 40a^2b$.",
+            "Answer: $16a^3 + 40a^2b$"
+          ]
+        },
+        {
+          "sub_question_no": "(k)",
+          "content": "$-17x^2 \\times (3x - 4)$",
+          "solution": [
+            "Use the distributive property: $m(p-q) = mp - mq$.",
+            "$-17x^2(3x - 4) = (-17x^2 \\times 3x) - (-17x^2 \\times 4)$",
+            "$= -51x^3 - (-68x^2)$",
+            "$= -51x^3 + 68x^2$.",
+            "Answer: $-51x^3 + 68x^2$"
+          ]
+        },
+        {
+          "sub_question_no": "(l)",
+          "content": "$\\frac{2}{3}abc(a^2 + b^2 - 3c^2)$",
+          "solution": [
+            "Use the distributive property.",
+            "$\\frac{2}{3}abc(a^2 + b^2 - 3c^2) = (\\frac{2}{3}abc \\times a^2) + (\\frac{2}{3}abc \\times b^2) - (\\frac{2}{3}abc \\times 3c^2)$",
+            "$= \\frac{2}{3}a^3bc + \\frac{2}{3}ab^3c - 2abc^3$.",
+            "Answer: $\\frac{2}{3}a^3bc + \\frac{2}{3}ab^3c - 2abc^3$"
+          ]
+        },
+        {
+          "sub_question_no": "(m)",
+          "content": "$2 \\times 5x(10x^2y - 100xy^2)$",
+          "solution": [
+            "First, multiply the terms outside the parenthesis: $2 \\times 5x = 10x$.",
+            "Now, use the distributive property with $10x$.",
+            "$10x(10x^2y - 100xy^2) = (10x \\times 10x^2y) - (10x \\times 100xy^2)$",
+            "$= 100x^3y - 1000x^2y^2$.",
+            "Answer: $100x^3y - 1000x^2y^2$"
+          ]
+        },
+        {
+          "sub_question_no": "(n)",
+          "content": "$(2x + 3y)(5x - y)$",
+          "solution": [
+            "Use the FOIL method (First, Outer, Inner, Last).",
+            "$= (2x \\times 5x) + (2x \\times -y) + (3y \\times 5x) + (3y \\times -y)$",
+            "$= 10x^2 - 2xy + 15xy - 3y^2$",
+            "Combine the like terms ($-2xy$ and $15xy$):",
+            "$= 10x^2 + 13xy - 3y^2$.",
+            "Answer: $10x^2 + 13xy - 3y^2$"
+          ]
+        },
+        {
+          "sub_question_no": "(o)",
+          "content": "$(a^2 - b^2)(2b - 6a)$",
+          "solution": [
+            "Use the distributive property to multiply the two binomials.",
+            "$= a^2(2b - 6a) - b^2(2b - 6a)$",
+            "$= (a^2 \\times 2b) - (a^2 \\times 6a) - (b^2 \\times 2b) - (b^2 \\times -6a)$",
+            "$= 2a^2b - 6a^3 - 2b^3 + 6ab^2$.",
+            "Answer: $-6a^3 + 2a^2b + 6ab^2 - 2b^3$"
+          ]
+        },
+        {
+          "sub_question_no": "(p)",
+          "content": "$(x + 2)(3x + 1)$",
+          "solution": [
+            "Use the FOIL method (First, Outer, Inner, Last).",
+            "$= (x \\times 3x) + (x \\times 1) + (2 \\times 3x) + (2 \\times 1)$",
+            "$= 3x^2 + x + 6x + 2$",
+            "Combine the like terms ($x$ and $6x$):",
+            "$= 3x^2 + 7x + 2$.",
+            "Answer: $3x^2 + 7x + 2$"
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "3",
+      "content": "",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "Seema planted 3x saplings in a row. In 2x such rows let's find how many saplings Seema can plant.",
+          "solution": [
+            "Number of saplings in one row = $3x$.",
+            "Number of rows = $2x$.",
+            "Total number of saplings = (Number of saplings in one row) × (Number of rows).",
+            "Total saplings = $3x \\times 2x = 6x^2$.",
+            "Answer: Seema can plant $6x^2$ saplings."
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "The length of a rectangle is (4x+1) m and its breadth is 3x m. Let's calculate the area of the rectangle.",
+          "solution": [
+            "Length of the rectangle = $(4x + 1)$ m.",
+            "Breadth of the rectangle = $3x$ m.",
+            "Area of a rectangle = Length × Breadth.",
+            "Area = $(4x + 1) \\times 3x$.",
+            "$= (4x \\times 3x) + (1 \\times 3x)$",
+            "$= 12x^2 + 3x$ sq m.",
+            "Answer: The area of the rectangle is $(12x^2 + 3x)$ sq m."
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "Presently, the price of a dozen of bananas has increased by ₹6. If the previous price of a dozen of bananas was ₹x, let's find the cost of 2x dozen of bananas.",
+          "solution": [
+            "Previous price of one dozen bananas = ₹x.",
+            "Price increase = ₹6.",
+            "Present price of one dozen bananas = ₹$(x + 6)$.",
+            "Number of dozens to be bought = $2x$.",
+            "Total cost = (Present price per dozen) × (Number of dozens).",
+            "Total cost = $(x + 6) \\times 2x = 2x(x+6) = 2x^2 + 12x$.",
+            "Answer: The cost of 2x dozen bananas is ₹$(2x^2 + 12x)$."
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "Let's find the area of a square whose each side is 7x cm.",
+          "solution": [
+            "Side of the square = $7x$ cm.",
+            "Area of a square = (side)². ",
+            "Area = $(7x)^2 = 7x \\times 7x = 49x^2$ sq cm.",
+            "Answer: The area of the square is $49x^2$ sq cm."
+          ]
+        },
+        {
+          "sub_question_no": "(v)",
+          "content": "The area of a rectangle is 8x² sq units. If its length is 4x units, let's find its breadth.",
+          "solution": [
+            "Area of the rectangle = $8x^2$ sq units.",
+            "Length of the rectangle = $4x$ units.",
+            "Area = Length × Breadth.",
+            "So, Breadth = Area ÷ Length.",
+            "Breadth = $8x^2 \\div 4x = \\frac{8x^2}{4x} = 2x$ units.",
+            "Answer: The breadth of the rectangle is $2x$ units."
+          ]
+        },
+        {
+          "sub_question_no": "(vi)",
+          "content": "Sushobhan sold 729y⁴ number of kites in 9y days. Let's find the number of kites sold in average per day.",
+          "solution": [
+            "Total number of kites sold = $729y^4$.",
+            "Total number of days = $9y$.",
+            "Average number of kites sold per day = (Total kites) ÷ (Total days).",
+            "Average = $729y^4 \\div 9y = \\frac{729y^4}{9y} = 81y^{4-1} = 81y^3$.",
+            "Answer: The average number of kites sold per day is $81y^3$."
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "4",
+      "content": "Let's divide the first algebraic expression by the second algebraic expression in the following pairs of algebraic numbers :",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "$8x^3b, x^2b$",
+          "solution": [
+            "We need to calculate $8x^3b \\div x^2b$.",
+            "$= \\frac{8x^3b}{x^2b}$",
+            "$= 8x^{3-2}b^{1-1} = 8x^1b^0 = 8x$.",
+            "Answer: $8x$"
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "$-9xy^3, xy$",
+          "solution": [
+            "We need to calculate $-9xy^3 \\div xy$.",
+            "$= \\frac{-9xy^3}{xy}$",
+            "$= -9x^{1-1}y^{3-1} = -9x^0y^2 = -9y^2$.",
+            "Answer: $-9y^2$"
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "$-15x^2yz^2, -x^2yz^2$",
+          "solution": [
+            "We need to calculate $-15x^2yz^2 \\div (-x^2yz^2)$.",
+            "$= \\frac{-15x^2yz^2}{-x^2yz^2}$",
+            "The negative signs cancel out. The variables also cancel out.",
+            "$= 15$.",
+            "Answer: $15$"
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "$21l^3m^3n^3, -4lmn$",
+          "solution": [
+            "We need to calculate $21l^3m^3n^3 \\div (-4lmn)$.",
+            "$= \\frac{21l^3m^3n^3}{-4lmn}$",
+            "$= -\\frac{21}{4}l^{3-1}m^{3-1}n^{3-1} = -\\frac{21}{4}l^2m^2n^2$.",
+            "Answer: $-\\frac{21}{4}l^2m^2n^2$"
+          ]
+        },
+        {
+          "sub_question_no": "(v)",
+          "content": "$(5a^2 - 7ab^2), a$",
+          "solution": [
+            "We need to calculate $(5a^2 - 7ab^2) \\div a$.",
+            "$= \\frac{5a^2 - 7ab^2}{a}$",
+            "Divide each term by $a$: $\\frac{5a^2}{a} - \\frac{7ab^2}{a}$.",
+            "$= 5a - 7b^2$.",
+            "Answer: $5a - 7b^2$"
+          ]
+        },
+        {
+          "sub_question_no": "(vi)",
+          "content": "$(-48x^9 + 12x^6), 3x^3$",
+          "solution": [
+            "We need to calculate $(-48x^9 + 12x^6) \\div 3x^3$.",
+            "$= \\frac{-48x^9 + 12x^6}{3x^3}$",
+            "Divide each term by $3x^3$: $\\frac{-48x^9}{3x^3} + \\frac{12x^6}{3x^3}$.",
+            "$= -16x^{9-3} + 4x^{6-3} = -16x^6 + 4x^3$.",
+            "Answer: $-16x^6 + 4x^3$"
+          ]
+        },
+        {
+          "sub_question_no": "(vii)",
+          "content": "$15m^2n + 20m^3n^2, 5mn$",
+          "solution": [
+            "We need to calculate $(15m^2n + 20m^3n^2) \\div 5mn$.",
+            "$= \\frac{15m^2n + 20m^3n^2}{5mn}$",
+            "Divide each term by $5mn$: $\\frac{15m^2n}{5mn} + \\frac{20m^3n^2}{5mn}$.",
+            "$= 3m^{2-1}n^{1-1} + 4m^{3-1}n^{2-1} = 3m + 4m^2n$.",
+            "Answer: $3m + 4m^2n$"
+          ]
+        },
+        {
+          "sub_question_no": "(viii)",
+          "content": "$36a^5b^2 - 24a^2b^5, -4a^2b^2$",
+          "solution": [
+            "We need to calculate $(36a^5b^2 - 24a^2b^5) \\div (-4a^2b^2)$.",
+            "$= \\frac{36a^5b^2 - 24a^2b^5}{-4a^2b^2}$",
+            "Divide each term by $-4a^2b^2$: $\\frac{36a^5b^2}{-4a^2b^2} - \\frac{24a^2b^5}{-4a^2b^2}$.",
+            "$= -9a^{5-2}b^{2-2} + 6a^{2-2}b^{5-2} = -9a^3 + 6b^3$.",
+            "Answer: $-9a^3 + 6b^3$"
+          ]
+        },
+        {
+          "sub_question_no": "(ix)",
+          "content": "$3pqr + 6p^2qr^2 - 9p^3q^2r^2, -3pqr$",
+          "solution": [
+            "We need to calculate $(3pqr + 6p^2qr^2 - 9p^3q^2r^2) \\div (-3pqr)$.",
+            "$= \\frac{3pqr}{-3pqr} + \\frac{6p^2qr^2}{-3pqr} - \\frac{9p^3q^2r^2}{-3pqr}$",
+            "$= -1 - 2p^{2-1}q^{1-1}r^{2-1} + 3p^{3-1}q^{2-1}r^{2-1}$",
+            "$= -1 - 2pr + 3p^2qr$.",
+            "Answer: $-1 - 2pr + 3p^2qr$"
+          ]
+        },
+        {
+          "sub_question_no": "(x)",
+          "content": "$m^4n^2 + m^3n^3 - m^2n^4, -m^2n^2$",
+          "solution": [
+            "We need to calculate $(m^4n^2 + m^3n^3 - m^2n^4) \\div (-m^2n^2)$.",
+            "$= \\frac{m^4n^2}{-m^2n^2} + \\frac{m^3n^3}{-m^2n^2} - \\frac{m^2n^4}{-m^2n^2}$",
+            "$= -m^{4-2}n^{2-2} - m^{3-2}n^{3-2} + m^{2-2}n^{4-2}$",
+            "$= -m^2 - mn + n^2$.",
+            "Answer: $-m^2 - mn + n^2$"
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "5",
+      "content": "Let us simplify the following -",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "$a(b - c) + b(c - a) + c(a - b)$",
+          "solution": [
+            "Expand each term using the distributive property:",
+            "$= (ab - ac) + (bc - ba) + (ca - cb)$",
+            "Rearrange the terms to group like terms:",
+            "$= ab - ac + bc - ab + ac - bc$",
+            "$= (ab - ab) + (-ac + ac) + (bc - bc)$",
+            "$= 0 + 0 + 0 = 0$.",
+            "Answer: $0$"
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "$a(b - c) - b(c - a) - c(a - b)$",
+          "solution": [
+            "Expand each term:",
+            "$= (ab - ac) - (bc - ba) - (ca - cb)$",
+            "Distribute the negative signs:",
+            "$= ab - ac - bc + ba - ca + cb$",
+            "$= ab - ac - bc + ab - ac + bc$",
+            "Group like terms:",
+            "$= (ab + ab) + (-ac - ac) + (-bc + bc)$",
+            "$= 2ab - 2ac$.",
+            "Answer: $2ab - 2ac$"
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "$x(x + 4) + 2x(x - 3) - 3x^2$",
+          "solution": [
+            "Expand each term:",
+            "$= (x^2 + 4x) + (2x^2 - 6x) - 3x^2$",
+            "Remove the parentheses:",
+            "$= x^2 + 4x + 2x^2 - 6x - 3x^2$",
+            "Group like terms:",
+            "$= (x^2 + 2x^2 - 3x^2) + (4x - 6x)$",
+            "$= 0x^2 - 2x = -2x$.",
+            "Answer: $-2x$"
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "$3x^2 + x(x + 2) - 3x(2x + 1)$",
+          "solution": [
+            "Expand the terms in parentheses:",
+            "$= 3x^2 + (x^2 + 2x) - (6x^2 + 3x)$",
+            "Remove the parentheses, distributing the negative sign:",
+            "$= 3x^2 + x^2 + 2x - 6x^2 - 3x$",
+            "Group like terms:",
+            "$= (3x^2 + x^2 - 6x^2) + (2x - 3x)$",
+            "$= -2x^2 - x$.",
+            "Answer: $-2x^2 - x$"
+          ]
+        },
+        {
+          "sub_question_no": "(v)",
+          "content": "$(a + b)(a - b) + (b + c)(b - c) + (c + a)(c - a)$",
+          "solution": [
+            "Use the difference of squares formula: $(x+y)(x-y) = x^2 - y^2$.",
+            "The expression becomes:",
+            "$= (a^2 - b^2) + (b^2 - c^2) + (c^2 - a^2)$",
+            "Remove the parentheses:",
+            "$= a^2 - b^2 + b^2 - c^2 + c^2 - a^2$",
+            "Group like terms:",
+            "$= (a^2 - a^2) + (-b^2 + b^2) + (-c^2 + c^2)$",
+            "$= 0 + 0 + 0 = 0$.",
+            "Answer: $0$"
+          ]
+        },
+        {
+          "sub_question_no": "(vi)",
+          "content": "$(a^2 + b^2)(a^2 - b^2) + (b^2 + c^2)(b^2 - c^2) + (c^2 + a^2)(c^2 - a^2)$",
+          "solution": [
+            "Use the difference of squares formula: $(x+y)(x-y) = x^2 - y^2$.",
+            "For the first term, let $x=a^2$ and $y=b^2$. So, $(a^2+b^2)(a^2-b^2) = (a^2)^2 - (b^2)^2 = a^4 - b^4$.",
+            "Similarly, the second term is $(b^2)^2 - (c^2)^2 = b^4 - c^4$.",
+            "And the third term is $(c^2)^2 - (a^2)^2 = c^4 - a^4$.",
+            "The expression becomes:",
+            "$= (a^4 - b^4) + (b^4 - c^4) + (c^4 - a^4)$",
+            "Remove the parentheses:",
+            "$= a^4 - b^4 + b^4 - c^4 + c^4 - a^4$",
+            "Group like terms:",
+            "$= (a^4 - a^4) + (-b^4 + b^4) + (-c^4 + c^4)$",
+            "$= 0 + 0 + 0 = 0$.",
+            "Answer: $0$"
+          ]
+        }
+      ]
+    }
+  ]
+}

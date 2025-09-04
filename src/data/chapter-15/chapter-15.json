@@ -1,0 +1,321 @@
+{
+  "title": "Let's workout- 15",
+  "chapter": "Chapter : 15",
+  "questions": [
+    {
+      "question_no": "1",
+      "content": "On Saturday, I was cycling at a speed of 13 km/hr. I covered a certain distance in 2 hrs. On Sunday cycling at the same time at a speed of 11 km/hr. I covered certain distance. Let us find out on which day I could travel distance more in 2 hours and how much? Hence, keeping time constant, try to find a relation between speed and distance (direct or inverse proportion)",
+      "solution": [
+        "First, let's calculate the distance covered on Saturday.",
+        "Speed on Saturday = $13$ km/hr.",
+        "Time = $2$ hrs.",
+        "Distance on Saturday = Speed × Time = $13 \\times 2 = 26$ km.",
+        "Next, let's calculate the distance covered on Sunday.",
+        "Speed on Sunday = $11$ km/hr.",
+        "Time = $2$ hrs.",
+        "Distance on Sunday = Speed × Time = $11 \\times 2 = 22$ km.",
+        "Comparing the distances, $26$ km > $22$ km. So, I travelled more distance on Saturday.",
+        "The difference in distance = $26 - 22 = 4$ km.",
+        "Relation: Since the time is constant (2 hours), the distance covered is directly proportional to the speed (Distance = Speed × Constant Time). This means a higher speed results in a greater distance covered.",
+        "Answer: I travelled 4 km more on Saturday. The relation between speed and distance is a direct proportion when time is constant."
+      ]
+    },
+    {
+      "question_no": "2",
+      "content": "On Monday, I went to market cycling at a speed of 12km/hr. But on Tuesday I went to market cycling at a speed of 15 km/hr. If the distance between my house and market is 2 km, then let's us find, on which day I took less time to reach the market. Hence, keeping distance same, let's form a relation between speed and time required (direct or inverse proportion).",
+      "solution": [
+        "First, let's calculate the time taken on Monday.",
+        "Distance = $2$ km.",
+        "Speed on Monday = $12$ km/hr.",
+        "Time on Monday = Distance / Speed = $2 / 12 = 1/6$ hr.",
+        "Converting to minutes: $(1/6) \\times 60 = 10$ minutes.",
+        "Next, let's calculate the time taken on Tuesday.",
+        "Distance = $2$ km.",
+        "Speed on Tuesday = $15$ km/hr.",
+        "Time on Tuesday = Distance / Speed = $2 / 15$ hr.",
+        "Converting to minutes: $(2/15) \\times 60 = 8$ minutes.",
+        "Comparing the times, $8$ minutes < $10$ minutes. So, I took less time on Tuesday.",
+        "Relation: Since the distance is constant (2 km), the time required is inversely proportional to the speed (Time = Constant Distance / Speed). This means a higher speed results in less time taken.",
+        "Answer: I took less time on Tuesday. The relation between speed and time is an inverse proportion when distance is constant."
+      ]
+    },
+    {
+      "question_no": "3",
+      "content": "Keeping speed constant, let's find the relation between time and distance [let's prepare a story and find the relation]",
+      "solution": [
+        "Story: A car is travelling at a constant speed of 60 km/hr.",
+        "In 1 hour, the distance covered is $60 \\times 1 = 60$ km.",
+        "In 2 hours, the distance covered is $60 \\times 2 = 120$ km.",
+        "In 3 hours, the distance covered is $60 \\times 3 = 180$ km.",
+        "Observation: As the travel time increases, the distance covered also increases proportionally.",
+        "Relation: The formula is Distance = Speed × Time. Since speed is constant, Distance is directly proportional to Time.",
+        "Answer: When speed is constant, distance is in direct proportion with time."
+      ]
+    },
+    {
+      "question_no": "4",
+      "content": "I covered a distance of 12 km in 40 min in a bus. Let's find the speed of the bus in km/hr.",
+      "solution": [
+        "Distance = $12$ km.",
+        "Time = $40$ minutes.",
+        "To find the speed in km/hr, we must convert the time to hours.",
+        "Time in hours = $40 / 60 = 2/3$ hr.",
+        "Speed = Distance / Time = $12 / (2/3)$ km/hr.",
+        "Speed = $12 \\times (3/2) = 18$ km/hr.",
+        "Answer: The speed of the bus is 18 km/hr."
+      ]
+    },
+    {
+      "question_no": "5",
+      "content": "A train of length 100m, moving with a speed of 60km/hr. passes a tree. How long will it take to do so, lets calculate.",
+      "solution": [
+        "To pass a tree (a point object), the train must cover a distance equal to its own length.",
+        "Distance = Length of train = $100$ m.",
+        "Speed = $60$ km/hr.",
+        "We need to convert the speed to m/s to match the distance unit.",
+        "Speed in m/s = $60 \\times (1000 / 3600) = 60 \\times (5/18) = 50/3$ m/s.",
+        "Time = Distance / Speed = $100 / (50/3)$ seconds.",
+        "Time = $100 \\times (3/50) = 2 \\times 3 = 6$ seconds.",
+        "Answer: It will take 6 seconds."
+      ]
+    },
+    {
+      "question_no": "6",
+      "content": "Moving with a uniform speed a taxi travels 217 km. Let us calculate how much time it would take to cover a distance of 273 km. (Mention the relation to calculate). [Note: The problem seems to be missing information. Assuming the taxi covers 217 km in 6 hours and 12 minutes based on a likely typo.]",
+      "solution": [
+        "Assuming the given information is that the taxi covers 217 km in 6 hours 12 minutes.",
+        "Distance 1 ($D_1$) = 217 km.",
+        "Time 1 ($T_1$) = 6 hrs 12 min = $6 + 12/60 = 6 + 1/5 = 31/5$ hours.",
+        "First, let's find the speed of the taxi.",
+        "Speed = $D_1 / T_1 = 217 / (31/5) = 217 \\times 5 / 31 = 7 \\times 5 = 35$ km/hr.",
+        "Now, we need to find the time taken to cover 273 km.",
+        "Distance 2 ($D_2$) = 273 km.",
+        "Time 2 ($T_2$) = $D_2$ / Speed = $273 / 35 = 7.8$ hours.",
+        "Convert 0.8 hours to minutes: $0.8 \\times 60 = 48$ minutes.",
+        "So, the time is 7 hours 48 minutes.",
+        "Relation: Since the speed is uniform, the distance travelled is directly proportional to the time taken. The relation is $D_1/T_1 = D_2/T_2$.",
+        "Answer: It would take 7 hours 48 minutes."
+      ]
+    },
+    {
+      "question_no": "7",
+      "content": "Today, Ayanda of our locality covered a distance of 100 km in 2 hrs 5 min. on his motorbike. But Shibuda covered the same distance on his cycle in 6 hrs 40 min. Let's write the ratio of their speeds.",
+      "solution": [
+        "First, calculate Ayanda's speed.",
+        "Distance = 100 km.",
+        "Time for Ayanda = 2 hrs 5 min = $2 + 5/60 = 2 + 1/12 = 25/12$ hrs.",
+        "Ayanda's Speed = Distance / Time = $100 / (25/12) = 100 \\times 12 / 25 = 4 \\times 12 = 48$ km/hr.",
+        "Next, calculate Shibuda's speed.",
+        "Distance = 100 km.",
+        "Time for Shibuda = 6 hrs 40 min = $6 + 40/60 = 6 + 2/3 = 20/3$ hrs.",
+        "Shibuda's Speed = Distance / Time = $100 / (20/3) = 100 \\times 3 / 20 = 5 \\times 3 = 15$ km/hr.",
+        "Now, find the ratio of their speeds (Ayanda's speed : Shibuda's speed).",
+        "Ratio = $48 : 15$.",
+        "Simplify the ratio by dividing both sides by their greatest common divisor, which is 3.",
+        "Ratio = $16 : 5$.",
+        "Answer: The ratio of their speeds is 16:5."
+      ]
+    },
+    {
+      "question_no": "8",
+      "content": "Moving with a uniform speed a railway wagon covers a distance of 49.5 km. in 2hrs 45 min. How long it will take to reach a station situated at a distance of 58.5 km.",
+      "solution": [
+        "Since the speed is uniform, distance is directly proportional to time. We can use the formula $D_1/T_1 = D_2/T_2$.",
+        "Given: $D_1 = 49.5$ km, $D_2 = 58.5$ km.",
+        "Time 1 ($T_1$) = 2 hrs 45 min = $2 + 45/60 = 2 + 3/4 = 11/4$ hours.",
+        "We need to find Time 2 ($T_2$).",
+        "$49.5 / (11/4) = 58.5 / T_2$.",
+        "$T_2 = 58.5 \\times (11/4) / 49.5$.",
+        "$T_2 = (58.5 \\times 11) / (49.5 \\times 4)$.",
+        "To simplify, $58.5/49.5 = 585/495 = 13/11$.",
+        "$T_2 = (13/11) \\times (11/4) = 13/4$ hours.",
+        "Convert to hours and minutes: $13/4$ hours = $3 \\frac{1}{4}$ hours = 3 hours and 15 minutes.",
+        "Answer: It will take 3 hours 15 minutes."
+      ]
+    },
+    {
+      "question_no": "9",
+      "content": "My uncle went to Panchla on his motorbike, worked there for an hour and returned home after 3hrs 30 min. If he maintained a uniform speed of 40 km per hour, let us find the distance of Panchla from his home.",
+      "solution": [
+        "Total time from leaving home to returning = 3 hrs 30 min.",
+        "Time spent working = 1 hour.",
+        "Total travel time (to Panchla and back) = 3 hrs 30 min - 1 hr = 2 hrs 30 min.",
+        "Convert travel time to hours: 2.5 hours.",
+        "Let the distance from home to Panchla be 'd' km.",
+        "The total distance travelled = $d$ (going) + $d$ (returning) = $2d$ km.",
+        "Speed = 40 km/hr.",
+        "Using the formula Distance = Speed × Time:",
+        "$2d = 40 \\times 2.5$.",
+        "$2d = 100$.",
+        "$d = 50$ km.",
+        "Answer: The distance of Panchla from his home is 50 km."
+      ]
+    },
+    {
+      "question_no": "10",
+      "content": "A bus left Kolkata at 7:30 AM and without halting any where on its way reached Digha at 12 noon. If the uniform speed of the bus is 45 km/hour, let us find the distance of Digha from Kolkata.",
+      "solution": [
+        "Departure time = 7:30 AM.",
+        "Arrival time = 12:00 Noon.",
+        "Total travel time = 12:00 - 7:30 = 4 hours and 30 minutes.",
+        "Convert time to hours: 4.5 hours.",
+        "Speed = 45 km/hr.",
+        "Distance = Speed × Time = $45 \\times 4.5$.",
+        "$45 \\times 4.5 = 45 \\times (9/2) = 405 / 2 = 202.5$ km.",
+        "Answer: The distance of Digha from Kolkata is 202.5 km."
+      ]
+    },
+    {
+      "question_no": "11",
+      "content": "A 70 m long train runs at a speed of 75 km/hr. Let us calculate how long it would take to pass a platform of length 105 metre.",
+      "solution": [
+        "To pass a platform, the total distance the train must cover is its own length plus the length of the platform.",
+        "Total Distance = Length of Train + Length of Platform = $70 + 105 = 175$ m.",
+        "Speed = $75$ km/hr.",
+        "Convert speed to m/s: $75 \\times (5/18) = 125/6$ m/s.",
+        "Time = Total Distance / Speed = $175 / (125/6) = 175 \\times 6 / 125$.",
+        "Time = $(7 \\times 25 \\times 6) / (5 \\times 25) = 42/5 = 8.4$ seconds.",
+        "Answer: It would take 8.4 seconds."
+      ]
+    },
+    {
+      "question_no": "12",
+      "content": "A 90 m long train takes 25 sec to pass a pole. Let me calculate the speed of the train in km/hr.",
+      "solution": [
+        "To pass a pole, the distance covered is the length of the train.",
+        "Distance = 90 m.",
+        "Time = 25 sec.",
+        "Speed in m/s = Distance / Time = $90 / 25 = 18/5$ m/s.",
+        "To convert speed from m/s to km/hr, we multiply by $18/5$.",
+        "Speed in km/hr = $(18/5) \\times (18/5) = 324/25 = 12.96$ km/hr.",
+        "Answer: The speed of the train is 12.96 km/hr."
+      ]
+    },
+    {
+      "question_no": "13",
+      "content": "To pass a bridge of length 250m a train of length 150m took 30 sec. Let's calculate to find how long will this train take to pass a 130 m long platform.",
+      "solution": [
+        "First, find the speed of the train using the information about passing the bridge.",
+        "Total distance to pass the bridge = Length of Train + Length of Bridge = $150 + 250 = 400$ m.",
+        "Time taken = 30 sec.",
+        "Speed = Distance / Time = $400 / 30 = 40/3$ m/s.",
+        "Now, use this speed to find the time to pass the platform.",
+        "Total distance to pass the platform = Length of Train + Length of Platform = $150 + 130 = 280$ m.",
+        "Time = Distance / Speed = $280 / (40/3) = 280 \\times 3 / 40 = 7 \\times 3 = 21$ seconds.",
+        "Answer: The train will take 21 seconds to pass the platform."
+      ]
+    },
+    {
+      "question_no": "14",
+      "content": "A passenger in a train found that the train took 15 sec to pass the platform. If the speed of the train is 60 km perhour, let us find the length of the platform.",
+      "solution": [
+        "When a passenger in a train times the passing of a platform, the distance covered by the train during that time is equal to the length of the platform.",
+        "Time = 15 sec.",
+        "Speed = 60 km/hr.",
+        "Convert speed to m/s: $60 \\times (5/18) = 50/3$ m/s.",
+        "Length of Platform = Speed × Time = $(50/3) \\times 15$.",
+        "Length of Platform = $50 \\times 5 = 250$ m.",
+        "Answer: The length of the platform is 250 m."
+      ]
+    },
+    {
+      "question_no": "15",
+      "content": "A train takes 4 sec to pass a telegraph post and 20 sec to pass a 264 m long bridge. Let us find the length of the train and also its speed.",
+      "solution": [
+        "Let the length of the train be L meters and its speed be S m/s.",
+        "Case 1: Passing a telegraph post. Distance = L. Time = 4s. So, $L = 4S$ (Equation 1).",
+        "Case 2: Passing a bridge. Distance = L + 264. Time = 20s. So, $L + 264 = 20S$ (Equation 2).",
+        "Substitute the value of L from Equation 1 into Equation 2:",
+        "$4S + 264 = 20S$.",
+        "$264 = 20S - 4S = 16S$.",
+        "$S = 264 / 16 = 16.5$ m/s.",
+        "Now, find the length L using Equation 1:",
+        "$L = 4 \\times 16.5 = 66$ meters.",
+        "Answer: The length of the train is 66 m and its speed is 16.5 m/s (or 59.4 km/hr)."
+      ]
+    },
+    {
+      "question_no": "16",
+      "content": "A train passes two bridge of lengths 210m and 122m in 25 sec and 17 sec respectively. Let us calculate the length and speed of the train.",
+      "solution": [
+        "Let the length of the train be L meters and its speed be S m/s.",
+        "Case 1: Passing first bridge. Distance = L + 210. Time = 25s. So, $L + 210 = 25S$ (Equation 1).",
+        "Case 2: Passing second bridge. Distance = L + 122. Time = 17s. So, $L + 122 = 17S$ (Equation 2).",
+        "Subtract Equation 2 from Equation 1:",
+        "$(L + 210) - (L + 122) = 25S - 17S$.",
+        "$88 = 8S$.",
+        "$S = 11$ m/s.",
+        "Substitute the value of S into Equation 2:",
+        "$L + 122 = 17 \\times 11 = 187$.",
+        "$L = 187 - 122 = 65$ meters.",
+        "Answer: The length of the train is 65 m and its speed is 11 m/s (or 39.6 km/hr)."
+      ]
+    },
+    {
+      "question_no": "17",
+      "content": "A 100m long train, remaining at a speed of 48 km/hr passes a tunnel in 21sec. Let's calculate the length of the tunnel.",
+      "solution": [
+        "Length of train = 100 m.",
+        "Speed = 48 km/hr. Convert to m/s: $48 \\times (5/18) = 40/3$ m/s.",
+        "Time to pass tunnel = 21 sec.",
+        "Let the length of the tunnel be T meters.",
+        "Total distance covered = Length of Train + Length of Tunnel = $100 + T$.",
+        "Using Distance = Speed × Time:",
+        "$100 + T = (40/3) \\times 21$.",
+        "$100 + T = 40 \\times 7 = 280$.",
+        "$T = 280 - 100 = 180$ meters.",
+        "Answer: The length of the tunnel is 180 m."
+      ]
+    },
+    {
+      "question_no": "18",
+      "content": "A train takes 10sec to pass a man standing on the platform 150m long and passes the platform in 22sec. Let us calculate the length and speed of the train.",
+      "solution": [
+        "Let the length of the train be L meters and its speed be S m/s.",
+        "Case 1: Passing a man. Distance = L. Time = 10s. So, $L = 10S$ (Equation 1).",
+        "Case 2: Passing the platform. Distance = L + 150. Time = 22s. So, $L + 150 = 22S$ (Equation 2).",
+        "Substitute the value of L from Equation 1 into Equation 2:",
+        "$10S + 150 = 22S$.",
+        "$150 = 22S - 10S = 12S$.",
+        "$S = 150 / 12 = 12.5$ m/s.",
+        "Now, find the length L using Equation 1:",
+        "$L = 10 \\times 12.5 = 125$ meters.",
+        "Answer: The length of the train is 125 m and its speed is 12.5 m/s (or 45 km/hr)."
+      ]
+    },
+    {
+      "question_no": "19",
+      "content": "Two trains of length []m and []m are approaching each other in two tracks side by side at speeds of []km/hr. and []km/hr. Let us find, after meeting each other, how long will they take to pass each other. [let's put numbers ourselves.]",
+      "solution": [
+        "Let's choose the following numbers:",
+        "Length of first train ($L_1$) = 120 m.",
+        "Length of second train ($L_2$) = 130 m.",
+        "Speed of first train ($S_1$) = 54 km/hr.",
+        "Speed of second train ($S_2$) = 36 km/hr.",
+        "Since the trains are approaching each other, their speeds add up. This is the relative speed.",
+        "Relative Speed = $S_1 + S_2 = 54 + 36 = 90$ km/hr.",
+        "Convert relative speed to m/s: $90 \\times (5/18) = 5 \\times 5 = 25$ m/s.",
+        "The total distance to cover for them to pass each other is the sum of their lengths.",
+        "Total Distance = $L_1 + L_2 = 120 + 130 = 250$ m.",
+        "Time to pass = Total Distance / Relative Speed = $250 / 25 = 10$ seconds.",
+        "Answer: With the chosen numbers, it will take 10 seconds for the trains to pass each other."
+      ]
+    },
+    {
+      "question_no": "20",
+      "content": "A goods train 250m long is running at a speed of 33km/hr. Behind it another mail train 200m long and running at a speed of 60km/hr. It is running in same direction on a different track & after meeting the goods train overpasses it. Let us find how long will the mail train take to overpass the goods train.",
+      "solution": [
+        "Since the trains are moving in the same direction, we use the difference in their speeds for the relative speed.",
+        "Speed of mail train ($S_m$) = 60 km/hr.",
+        "Speed of goods train ($S_g$) = 33 km/hr.",
+        "Relative Speed = $S_m - S_g = 60 - 33 = 27$ km/hr.",
+        "Convert relative speed to m/s: $27 \\times (5/18) = 3 \\times 5 / 2 = 7.5$ m/s.",
+        "The total distance the mail train must cover to overpass the goods train is the sum of their lengths.",
+        "Total Distance = Length of mail train + Length of goods train = $200 + 250 = 450$ m.",
+        "Time to overpass = Total Distance / Relative Speed = $450 / 7.5$.",
+        "Time = $4500 / 75 = 60$ seconds.",
+        "Answer: The mail train will take 60 seconds (or 1 minute) to overpass the goods train."
+      ]
+    }
+  ]
+}

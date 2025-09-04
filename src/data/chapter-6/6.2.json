@@ -1,0 +1,515 @@
+{
+  "title": "Let's work out - 6.2",
+  "chapter": "Chapter 6: ALGEBRAIC OPERATIONS",
+  "questions": [
+    {
+      "question_no": "1",
+      "content": "Let's calculate mentally -",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "$5x + 3x$",
+          "solution": [
+            "The terms $5x$ and $3x$ are like terms.",
+            "To add them, we add their coefficients: $5 + 3 = 8$.",
+            "So, $5x + 3x = 8x$.",
+            "Answer: $8x$"
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "$9y - 3y$",
+          "solution": [
+            "The terms $9y$ and $3y$ are like terms.",
+            "To subtract them, we subtract their coefficients: $9 - 3 = 6$.",
+            "So, $9y - 3y = 6y$.",
+            "Answer: $6y$"
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "$-4y + 7y$",
+          "solution": [
+            "The terms $-4y$ and $7y$ are like terms.",
+            "To add them, we add their coefficients: $-4 + 7 = 3$.",
+            "So, $-4y + 7y = 3y$.",
+            "Answer: $3y$"
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "$-10x - 2x$",
+          "solution": [
+            "The terms $-10x$ and $-2x$ are like terms.",
+            "To combine them, we add their coefficients: $-10 + (-2) = -12$.",
+            "So, $-10x - 2x = -12x$.",
+            "Answer: $-12x$"
+          ]
+        },
+        {
+          "sub_question_no": "(v)",
+          "content": "$3a + 4a - 2a$",
+          "solution": [
+            "All terms are like terms.",
+            "We combine their coefficients: $3 + 4 - 2 = 7 - 2 = 5$.",
+            "So, $3a + 4a - 2a = 5a$.",
+            "Answer: $5a$"
+          ]
+        },
+        {
+          "sub_question_no": "(vi)",
+          "content": "$-7x - 2x + 5x$",
+          "solution": [
+            "All terms are like terms.",
+            "We combine their coefficients: $-7 - 2 + 5 = -9 + 5 = -4$.",
+            "So, $-7x - 2x + 5x = -4x$.",
+            "Answer: $-4x$"
+          ]
+        },
+        {
+          "sub_question_no": "(vii)",
+          "content": "$6p - 2p + 3p$",
+          "solution": [
+            "All terms are like terms.",
+            "We combine their coefficients: $6 - 2 + 3 = 4 + 3 = 7$.",
+            "So, $6p - 2p + 3p = 7p$.",
+            "Answer: $7p$"
+          ]
+        },
+        {
+          "sub_question_no": "(viii)",
+          "content": "$4x^2 - 2x^2 - 3x^2 + x^2$",
+          "solution": [
+            "All terms are like terms with variable part $x^2$.",
+            "We combine their coefficients: $4 - 2 - 3 + 1$.",
+            "$= 2 - 3 + 1 = -1 + 1 = 0$.",
+            "So, the result is $0x^2 = 0$.",
+            "Answer: $0$"
+          ]
+        },
+        {
+          "sub_question_no": "(ix)",
+          "content": "$5a^2b - 2a^2b - 3a^2b + 8a^2b$",
+          "solution": [
+            "All terms are like terms with variable part $a^2b$.",
+            "We combine their coefficients: $5 - 2 - 3 + 8$.",
+            "$= 3 - 3 + 8 = 0 + 8 = 8$.",
+            "So, the result is $8a^2b$.",
+            "Answer: $8a^2b$"
+          ]
+        },
+        {
+          "sub_question_no": "(x)",
+          "content": "$3x^2 - 6x^2 - 2x^2 - x^2 + 6x^2$",
+          "solution": [
+            "All terms are like terms with variable part $x^2$.",
+            "We combine their coefficients: $3 - 6 - 2 - 1 + 6$.",
+            "$= -3 - 2 - 1 + 6 = -5 - 1 + 6 = -6 + 6 = 0$.",
+            "So, the result is $0x^2 = 0$.",
+            "Answer: $0$"
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "2",
+      "content": "",
+      "sub_questions": [
+        {
+          "sub_question_no": "(a)",
+          "content": "My age is 'x' years. Pallabi is 2 years elder than me. Let's find the sum of our ages.",
+          "solution": [
+            "My age = $x$ years.",
+            "Pallabi's age = My age + 2 = $(x + 2)$ years.",
+            "Sum of our ages = My age + Pallabi's age.",
+            "$= x + (x + 2) = x + x + 2 = 2x + 2$ years.",
+            "Answer: The sum of our ages is $(2x + 2)$ years."
+          ]
+        },
+        {
+          "sub_question_no": "(b)",
+          "content": "Today I made 'x' number of flower garlands. Mir made 6 more than twice the number of garlands I made. In total, how many garlands we two have made.",
+          "solution": [
+            "Number of garlands I made = $x$.",
+            "Twice the number of garlands I made = $2x$.",
+            "Number of garlands Mir made = $2x + 6$.",
+            "Total number of garlands = Garlands I made + Garlands Mir made.",
+            "$= x + (2x + 6) = x + 2x + 6 = 3x + 6$.",
+            "Answer: In total, we have made $(3x + 6)$ garlands."
+          ]
+        },
+        {
+          "sub_question_no": "(f)",
+          "content": "Today Ratul bought guava for ₹x, apple for ₹(x+15) and cucumber for ₹(2x+3). Let's find, how much money did Ratul spent today on fruits.",
+          "solution": [
+            "Cost of guava = ₹$x$.",
+            "Cost of apple = ₹$(x+15)$.",
+            "Cost of cucumber = ₹$(2x+3)$.",
+            "Total money spent = Cost of guava + Cost of apple + Cost of cucumber.",
+            "$= x + (x+15) + (2x+3)$",
+            "$= x + x + 15 + 2x + 3$",
+            "Group like terms: $(x+x+2x) + (15+3) = 4x + 18$.",
+            "Answer: Ratul spent ₹$(4x + 18)$."
+          ]
+        },
+        {
+          "sub_question_no": "(g)",
+          "content": "Last year Firoza was present in school for x days. Firoza's friend Mohini was present for (3x+13) days. Let's find out last year how many days was Mohini present in school more than Firoz.",
+          "solution": [
+            "Days Firoza was present = $x$.",
+            "Days Mohini was present = $3x+13$.",
+            "To find how many more days Mohini was present, we subtract Firoza's days from Mohini's days.",
+            "Difference = (Mohini's days) - (Firoza's days).",
+            "$= (3x+13) - x = 3x - x + 13 = 2x + 13$.",
+            "Answer: Mohini was present for $(2x + 13)$ more days."
+          ]
+        },
+        {
+          "sub_question_no": "(h)",
+          "content": "Today, Dipuda sold (2x+19) newspapers. But yesterday he sold (5x-8) newspapers. Let's find, how many newspapers did Dipuda sold today more than yesterday.",
+          "solution": [
+            "Newspapers sold today = $2x+19$.",
+            "Newspapers sold yesterday = $5x-8$.",
+            "To find how many more newspapers were sold today, we subtract yesterday's sales from today's sales.",
+            "Difference = (Today's sales) - (Yesterday's sales).",
+            "$= (2x+19) - (5x-8) = 2x + 19 - 5x + 8$.",
+            "Group like terms: $(2x-5x) + (19+8) = -3x + 27$.",
+            "Answer: Dipuda sold $(27 - 3x)$ more newspapers today."
+          ]
+        },
+        {
+          "sub_question_no": "(i)",
+          "content": "Pareshbabu earns ₹8x per month. But he spends ₹(3x-15) per month. Let's find the amount of money he saves per month.",
+          "solution": [
+            "Monthly earnings = ₹$8x$.",
+            "Monthly spending = ₹$(3x-15)$.",
+            "Monthly savings = Earnings - Spending.",
+            "$= 8x - (3x-15) = 8x - 3x + 15$.",
+            "$= 5x + 15$.",
+            "Answer: Pareshbabu saves ₹$(5x + 15)$ per month."
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "3",
+      "content": "Let's add :",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "$3a+b; 2a+4b; 5a-b$",
+          "solution": [
+            "We need to find the sum of the three expressions: $(3a+b) + (2a+4b) + (5a-b)$.",
+            "Group the like terms together: $(3a+2a+5a) + (b+4b-b)$.",
+            "Add the coefficients of 'a': $3+2+5 = 10$. So, we have $10a$.",
+            "Add the coefficients of 'b': $1+4-1 = 4$. So, we have $4b$.",
+            "The sum is $10a + 4b$.",
+            "Answer: $10a + 4b$"
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "$5a-4; 2a+3; 2a-4$",
+          "solution": [
+            "We need to find the sum: $(5a-4) + (2a+3) + (2a-4)$.",
+            "Group the like terms: $(5a+2a+2a) + (-4+3-4)$.",
+            "Combine the 'a' terms: $5+2+2 = 9a$.",
+            "Combine the constant terms: $-4+3-4 = -1-4 = -5$.",
+            "The sum is $9a - 5$.",
+            "Answer: $9a - 5$"
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "$6a^2+7a+3; 9a^2-2a+7; 4a^2-2a+9$",
+          "solution": [
+            "We need to find the sum: $(6a^2+7a+3) + (9a^2-2a+7) + (4a^2-2a+9)$.",
+            "Group the like terms: $(6a^2+9a^2+4a^2) + (7a-2a-2a) + (3+7+9)$.",
+            "Combine the $a^2$ terms: $6+9+4 = 19a^2$.",
+            "Combine the 'a' terms: $7-2-2 = 3a$.",
+            "Combine the constant terms: $3+7+9 = 19$.",
+            "The sum is $19a^2 + 3a + 19$.",
+            "Answer: $19a^2 + 3a + 19$"
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "$2a^2b+5b^2a+7; 3a^2b-2b^2a+6; 8a^2b-b^2a+9$",
+          "solution": [
+            "We need to find the sum: $(2a^2b+5ab^2+7) + (3a^2b-2ab^2+6) + (8a^2b-ab^2+9)$. Note that $b^2a$ is same as $ab^2$.",
+            "Group like terms: $(2a^2b+3a^2b+8a^2b) + (5ab^2-2ab^2-ab^2) + (7+6+9)$.",
+            "Combine the $a^2b$ terms: $2+3+8 = 13a^2b$.",
+            "Combine the $ab^2$ terms: $5-2-1 = 2ab^2$.",
+            "Combine the constant terms: $7+6+9 = 22$.",
+            "The sum is $13a^2b + 2ab^2 + 22$.",
+            "Answer: $13a^2b + 2ab^2 + 22$"
+          ]
+        },
+        {
+          "sub_question_no": "(v)",
+          "content": "$4xy+5x+7y; -4xy-y-3x; 3xy-3y+2x$",
+          "solution": [
+            "We need to find the sum: $(4xy+5x+7y) + (-4xy-y-3x) + (3xy-3y+2x)$.",
+            "Group like terms: $(4xy-4xy+3xy) + (5x-3x+2x) + (7y-y-3y)$.",
+            "Combine the $xy$ terms: $4-4+3 = 3xy$.",
+            "Combine the $x$ terms: $5-3+2 = 4x$.",
+            "Combine the $y$ terms: $7-1-3 = 3y$.",
+            "The sum is $3xy + 4x + 3y$.",
+            "Answer: $3xy + 4x + 3y$"
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "4",
+      "content": "Let's subtract :",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "$(2x+3y)$ from $(8x+6y)$",
+          "solution": [
+            "The expression is $(8x+6y) - (2x+3y)$.",
+            "Distribute the negative sign: $8x+6y - 2x - 3y$.",
+            "Group like terms: $(8x-2x) + (6y-3y)$.",
+            "Combine the terms: $6x + 3y$.",
+            "Answer: $6x + 3y$"
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "$(m^2-2)$ from $(-3m^2+2m+2)$",
+          "solution": [
+            "The expression is $(-3m^2+2m+2) - (m^2-2)$.",
+            "Distribute the negative sign: $-3m^2+2m+2 - m^2 + 2$.",
+            "Group like terms: $(-3m^2-m^2) + 2m + (2+2)$.",
+            "Combine the terms: $-4m^2 + 2m + 4$.",
+            "Answer: $-4m^2 + 2m + 4$"
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "$(8x+4y+7)$ from $(2x+3y)$",
+          "solution": [
+            "The expression is $(2x+3y) - (8x+4y+7)$.",
+            "Distribute the negative sign: $2x+3y - 8x - 4y - 7$.",
+            "Group like terms: $(2x-8x) + (3y-4y) - 7$.",
+            "Combine the terms: $-6x - y - 7$.",
+            "Answer: $-6x - y - 7$"
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "$(5a^2+2a-1)$ from $(-9a^2+3a+2)$",
+          "solution": [
+            "The expression is $(-9a^2+3a+2) - (5a^2+2a-1)$.",
+            "Distribute the negative sign: $-9a^2+3a+2 - 5a^2 - 2a + 1$.",
+            "Group like terms: $(-9a^2-5a^2) + (3a-2a) + (2+1)$.",
+            "Combine the terms: $-14a^2 + a + 3$.",
+            "Answer: $-14a^2 + a + 3$"
+          ]
+        },
+        {
+          "sub_question_no": "(v)",
+          "content": "$(-2x^2+3y^2)$ from $x$",
+          "solution": [
+            "The expression is $x - (-2x^2+3y^2)$.",
+            "Distribute the negative sign: $x + 2x^2 - 3y^2$.",
+            "There are no like terms to combine. We can write it in standard form.",
+            "Result: $2x^2 + x - 3y^2$.",
+            "Answer: $2x^2 + x - 3y^2$"
+          ]
+        },
+        {
+          "sub_question_no": "(vi)",
+          "content": "$(2x^2+xy+3y^2)$ from $(3x^2+5xy)$",
+          "solution": [
+            "The expression is $(3x^2+5xy) - (2x^2+xy+3y^2)$.",
+            "Distribute the negative sign: $3x^2+5xy - 2x^2 - xy - 3y^2$.",
+            "Group like terms: $(3x^2-2x^2) + (5xy-xy) - 3y^2$.",
+            "Combine the terms: $x^2 + 4xy - 3y^2$.",
+            "Answer: $x^2 + 4xy - 3y^2$"
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "5",
+      "content": "Let us Simplify the following:",
+      "sub_questions": [
+        {
+          "sub_question_no": "(a)",
+          "content": "$17x^2y - 3xy^2 + 14x^2y + 2xy^2$",
+          "solution": [
+            "Group the like terms: $(17x^2y + 14x^2y) + (-3xy^2 + 2xy^2)$.",
+            "Combine the $x^2y$ terms: $17+14 = 31x^2y$.",
+            "Combine the $xy^2$ terms: $-3+2 = -1xy^2 = -xy^2$.",
+            "The simplified expression is $31x^2y - xy^2$.",
+            "Answer: $31x^2y - xy^2$"
+          ]
+        },
+        {
+          "sub_question_no": "(b)",
+          "content": "$-5b + 18a + 6b - 2a$",
+          "solution": [
+            "Group the like terms: $(18a - 2a) + (-5b + 6b)$.",
+            "Combine the 'a' terms: $18-2 = 16a$.",
+            "Combine the 'b' terms: $-5+6 = 1b = b$.",
+            "The simplified expression is $16a + b$.",
+            "Answer: $16a + b$"
+          ]
+        },
+        {
+          "sub_question_no": "(c)",
+          "content": "$4m^2+3n^2 - (6m^2+7n^2)$",
+          "solution": [
+            "Distribute the negative sign: $4m^2+3n^2 - 6m^2 - 7n^2$.",
+            "Group the like terms: $(4m^2 - 6m^2) + (3n^2 - 7n^2)$.",
+            "Combine the terms: $-2m^2 - 4n^2$.",
+            "Answer: $-2m^2 - 4n^2$"
+          ]
+        },
+        {
+          "sub_question_no": "(d)",
+          "content": "$a-b-(b-a)$",
+          "solution": [
+            "Distribute the negative sign: $a-b-b+a$.",
+            "Group the like terms: $(a+a) + (-b-b)$.",
+            "Combine the terms: $2a - 2b$.",
+            "Answer: $2a - 2b$"
+          ]
+        },
+        {
+          "sub_question_no": "(e)",
+          "content": "$(6p-4q+2r) + (2p+3q-4r)$",
+          "solution": [
+            "Group the like terms: $(6p+2p) + (-4q+3q) + (2r-4r)$.",
+            "Combine the terms: $8p - q - 2r$.",
+            "Answer: $8p - q - 2r$"
+          ]
+        },
+        {
+          "sub_question_no": "(f)",
+          "content": "$-x+y+z - (2x-3y+z)$",
+          "solution": [
+            "Distribute the negative sign: $-x+y+z - 2x+3y-z$.",
+            "Group the like terms: $(-x-2x) + (y+3y) + (z-z)$.",
+            "Combine the terms: $-3x + 4y + 0z = -3x + 4y$.",
+            "Answer: $-3x + 4y$"
+          ]
+        },
+        {
+          "sub_question_no": "(g)",
+          "content": "$(x^2+2x-5) + (3x^2-8x+5)$",
+          "solution": [
+            "Group the like terms: $(x^2+3x^2) + (2x-8x) + (-5+5)$.",
+            "Combine the terms: $4x^2 - 6x + 0 = 4x^2 - 6x$.",
+            "Answer: $4x^2 - 6x$"
+          ]
+        },
+        {
+          "sub_question_no": "(h)",
+          "content": "$(7x^2-3x+3) - (2x^2-13x-7)$",
+          "solution": [
+            "Distribute the negative sign: $7x^2-3x+3 - 2x^2+13x+7$.",
+            "Group the like terms: $(7x^2-2x^2) + (-3x+13x) + (3+7)$.",
+            "Combine the terms: $5x^2 + 10x + 10$.",
+            "Answer: $5x^2 + 10x + 10$"
+          ]
+        },
+        {
+          "sub_question_no": "(i)",
+          "content": "$6a-2b-ab - (3a+b-ab) + 2ab-b+a$",
+          "solution": [
+            "First, distribute the negative sign: $6a-2b-ab - 3a-b+ab + 2ab-b+a$.",
+            "Group the like terms: $(6a-3a+a) + (-2b-b-b) + (-ab+ab+2ab)$.",
+            "Combine the 'a' terms: $6-3+1 = 4a$.",
+            "Combine the 'b' terms: $-2-1-1 = -4b$.",
+            "Combine the 'ab' terms: $-1+1+2 = 2ab$.",
+            "The simplified expression is $4a - 4b + 2ab$.",
+            "Answer: $4a - 4b + 2ab$"
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "6",
+      "content": "Ramu had ₹(13x²+x-3). He spent ₹(4x²-3x-12). Let's find, how much money Ramu has got.",
+      "solution": [
+        "To find the money left, we subtract the amount spent from the initial amount.",
+        "Money left = (Initial amount) - (Amount spent)",
+        "$= (13x^2+x-3) - (4x^2-3x-12)$",
+        "$= 13x^2+x-3 - 4x^2+3x+12$",
+        "Group like terms: $(13x^2-4x^2) + (x+3x) + (-3+12)$",
+        "$= 9x^2 + 4x + 9$.",
+        "Answer: Ramu has ₹$(9x^2 + 4x + 9)$ left."
+      ]
+    },
+    {
+      "question_no": "7",
+      "content": "The length of three sides of a triangle are (x+4) cm, (2x+1) cm, and (4x-8) cm, Let's find the perimeter of the triangle.",
+      "solution": [
+        "The perimeter of a triangle is the sum of its three sides.",
+        "Perimeter = $(x+4) + (2x+1) + (4x-8)$.",
+        "Group like terms: $(x+2x+4x) + (4+1-8)$.",
+        "Combine the terms: $7x - 3$.",
+        "Answer: The perimeter of the triangle is $(7x - 3)$ cm."
+      ]
+    },
+    {
+      "question_no": "8",
+      "content": "How much must be added to $-8x^2+8x+1$ to get $-14x^2+11x-3$",
+      "solution": [
+        "Let the required expression be $P$.",
+        "Then, $(-8x^2+8x+1) + P = -14x^2+11x-3$.",
+        "$P = (-14x^2+11x-3) - (-8x^2+8x+1)$.",
+        "$P = -14x^2+11x-3 + 8x^2-8x-1$.",
+        "Group like terms: $(-14x^2+8x^2) + (11x-8x) + (-3-1)$.",
+        "$P = -6x^2 + 3x - 4$.",
+        "Answer: $-6x^2 + 3x - 4$ must be added."
+      ]
+    },
+    {
+      "question_no": "9",
+      "content": "Let's find, what must be subtracted from $-11x-7y-9z$ to get $-7x+3y-5z$.",
+      "solution": [
+        "Let the required expression be $P$.",
+        "Then, $(-11x-7y-9z) - P = -7x+3y-5z$.",
+        "$P = (-11x-7y-9z) - (-7x+3y-5z)$.",
+        "$P = -11x-7y-9z + 7x-3y+5z$.",
+        "Group like terms: $(-11x+7x) + (-7y-3y) + (-9z+5z)$.",
+        "$P = -4x - 10y - 4z$.",
+        "Answer: $-4x - 10y - 4z$ must be subtracted."
+      ]
+    },
+    {
+      "question_no": "10",
+      "content": "How much is the sum of $(3x^2+4x)$ and $(5x^2-x)$ more than $(3x-5x^2)$, let's calculate.",
+      "solution": [
+        "First, find the sum of the first two expressions:",
+        "Sum = $(3x^2+4x) + (5x^2-x) = 3x^2+5x^2+4x-x = 8x^2+3x$.",
+        "Now, find how much this sum is more than the third expression by subtracting the third expression from the sum.",
+        "Difference = $(8x^2+3x) - (3x-5x^2)$.",
+        "$= 8x^2+3x - 3x+5x^2$.",
+        "Group like terms: $(8x^2+5x^2) + (3x-3x)$.",
+        "$= 13x^2 + 0 = 13x^2$.",
+        "Answer: The sum is $13x^2$ more."
+      ]
+    },
+    {
+      "question_no": "11",
+      "content": "Let's subtract the sum of $(x^2-9x)$ and $(-2x^2+3x+5)$ from the sum of $(5+9x)$ and $(6-7x+4x^2)$.",
+      "solution": [
+        "First, find the sum of $(x^2-9x)$ and $(-2x^2+3x+5)$:",
+        "Sum 1 = $(x^2-9x) + (-2x^2+3x+5) = x^2-2x^2-9x+3x+5 = -x^2-6x+5$.",
+        "Next, find the sum of $(5+9x)$ and $(6-7x+4x^2)$:",
+        "Sum 2 = $(5+9x) + (6-7x+4x^2) = 4x^2+9x-7x+5+6 = 4x^2+2x+11$.",
+        "Finally, subtract Sum 1 from Sum 2:",
+        "Result = $(4x^2+2x+11) - (-x^2-6x+5)$.",
+        "$= 4x^2+2x+11 + x^2+6x-5$.",
+        "Group like terms: $(4x^2+x^2) + (2x+6x) + (11-5)$.",
+        "$= 5x^2 + 8x + 6$.",
+        "Answer: $5x^2 + 8x + 6$"
+      ]
+    }
+  ]
+}
