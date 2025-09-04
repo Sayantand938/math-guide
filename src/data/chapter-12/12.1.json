@@ -1,0 +1,557 @@
+{
+  "title": "Let's work out - 12.1",
+  "chapter": "Chapter 12: ALGEBRAIC FORMULAE",
+  "questions": [
+    {
+      "question_no": "1",
+      "content": "Which one of the following is equal to the product of $ (a+b) \\times (a+b) $?",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "$ a^{2}+b^{2} $",
+          "is_correct": false,
+          "solution": [
+            "The expression is $ (a+b) \\times (a+b) $ which is the definition of squaring the term $(a+b)$.",
+            "Therefore, $ (a+b) \\times (a+b) = (a+b)^{2} $.",
+            "Option (ii) is the correct answer."
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "$ (a+b)^{2} $",
+          "is_correct": true,
+          "solution": [
+            "The expression $ (a+b) \\times (a+b) $ means multiplying the term $(a+b)$ by itself.",
+            "By definition, any number or expression multiplied by itself is the square of that number or expression.",
+            "Thus, $ (a+b) \\times (a+b) = (a+b)^{2} $.",
+            "This is the correct option."
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "$ 2(a+b) $",
+          "is_correct": false,
+          "solution": [
+            "The expression is $ (a+b) \\times (a+b) $, which is equal to $ (a+b)^{2} $.",
+            "The expression $ 2(a+b) $ is equal to $ (a+b) + (a+b) $, not their product.",
+            "Therefore, this option is incorrect."
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "$ 4ab $",
+          "is_correct": false,
+          "solution": [
+            "The expression is $ (a+b) \\times (a+b) = (a+b)^{2} = a^2+2ab+b^2 $.",
+            "The expression $ 4ab $ is part of the identity $ (a+b)^2 - (a-b)^2 = 4ab $.",
+            "Clearly, $ (a+b)^2 \\neq 4ab $ unless a and b have specific values.",
+            "Therefore, this option is incorrect."
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "2",
+      "content": "Let's find, which of the following will be the value for k satisfying the identity $ (x+7)^{2}=x^{2}+14x+k $",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "14",
+          "is_correct": false,
+          "solution": [
+            "Expand the left side of the identity: $ (x+7)^{2} $.",
+            "Using the formula $ (a+b)^2 = a^2+2ab+b^2 $, with $a=x$ and $b=7$.",
+            "$ (x+7)^{2} = x^2 + 2(x)(7) + 7^2 = x^2 + 14x + 49 $.",
+            "Comparing this to the given identity $ x^{2}+14x+k $, we see that $ k=49 $.",
+            "Therefore, this option is incorrect. Option (ii) is correct."
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "49",
+          "is_correct": true,
+          "solution": [
+            "We are given the identity $ (x+7)^{2}=x^{2}+14x+k $.",
+            "Let's expand the left side using the formula $ (a+b)^2 = a^2+2ab+b^2 $, where $a=x$ and $b=7$.",
+            "$ (x+7)^{2} = x^2 + 2(x)(7) + 7^2 $.",
+            "$ = x^2 + 14x + 49 $.",
+            "Now, we compare this result with the right side of the given identity: $ x^2 + 14x + 49 = x^{2}+14x+k $.",
+            "By comparing the constant terms, we find that $ k = 49 $.",
+            "This is the correct option."
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "7",
+          "is_correct": false,
+          "solution": [
+            "Expand the left side of the identity: $ (x+7)^{2} $.",
+            "Using the formula $ (a+b)^2 = a^2+2ab+b^2 $, with $a=x$ and $b=7$.",
+            "$ (x+7)^{2} = x^2 + 2(x)(7) + 7^2 = x^2 + 14x + 49 $.",
+            "Comparing this to the given identity $ x^{2}+14x+k $, we see that $ k=49 $.",
+            "Therefore, this option is incorrect. Option (ii) is correct."
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "None of these",
+          "is_correct": false,
+          "solution": [
+            "As calculated in the other options, the value of k is 49.",
+            "Since 49 is one of the options, this option is incorrect."
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "3",
+      "content": "Which one of the following algebraic expression must be added to $ a^{2}+b^{2} $ so that the sum is a perfect square. Let's find.",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "$ 4ab $",
+          "is_correct": false,
+          "solution": [
+            "A perfect square has the form $ (a+b)^2 = a^2+2ab+b^2 $ or $ (a-b)^2 = a^2-2ab+b^2 $.",
+            "If we add $4ab$ to $a^2+b^2$, we get $a^2+4ab+b^2$, which is not a perfect square of a binomial.",
+            "Therefore, this option is incorrect."
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "$ -4ab $",
+          "is_correct": false,
+          "solution": [
+            "A perfect square has the form $ (a+b)^2 = a^2+2ab+b^2 $ or $ (a-b)^2 = a^2-2ab+b^2 $.",
+            "If we add $-4ab$ to $a^2+b^2$, we get $a^2-4ab+b^2$, which is not a perfect square of a binomial.",
+            "Therefore, this option is incorrect."
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "$ 2ab $ or $ -2ab $",
+          "is_correct": true,
+          "solution": [
+            "We want to make $ a^{2}+b^{2} $ a perfect square.",
+            "The formula for a perfect square is $ (a+b)^2 = a^2+2ab+b^2 $ or $ (a-b)^2 = a^2-2ab+b^2 $.",
+            "Case 1: To get $ (a+b)^2 $, we start with $ a^2+b^2 $ and need to add $ 2ab $. The sum is $ a^2+2ab+b^2 = (a+b)^2 $.",
+            "Case 2: To get $ (a-b)^2 $, we start with $ a^2+b^2 $ and need to add $ -2ab $. The sum is $ a^2-2ab+b^2 = (a-b)^2 $.",
+            "Thus, we must add either $ 2ab $ or $ -2ab $.",
+            "This is the correct option."
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "0",
+          "is_correct": false,
+          "solution": [
+            "If we add 0 to $ a^2+b^2 $, the expression remains $ a^2+b^2 $, which is not a perfect square of a binomial in general.",
+            "Therefore, this option is incorrect."
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "4",
+      "content": "If $ (a+b)^{2}=a^{2}+6a+9 $, let's find, which of the following is the positive value for b.",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "9",
+          "is_correct": false,
+          "solution": [
+            "The right side of the equation is $ a^{2}+6a+9 $. This is a perfect square: $ a^2 + 2(a)(3) + 3^2 = (a+3)^2 $.",
+            "So, $ (a+b)^2 = (a+3)^2 $. This implies $ b=3 $.",
+            "Comparing the expansion $ (a+b)^2 = a^2+2ab+b^2 $ with $ a^2+6a+9 $, we get $ b^2=9 $, so $ b = \\pm 3 $. And $ 2ab = 6a $, so $ b=3 $.",
+            "The value is 3. This option is incorrect."
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "6",
+          "is_correct": false,
+          "solution": [
+            "The right side of the equation is $ a^{2}+6a+9 $. This is a perfect square: $ a^2 + 2(a)(3) + 3^2 = (a+3)^2 $.",
+            "So, $ (a+b)^2 = (a+3)^2 $. This implies $ b=3 $.",
+            "Comparing the expansion $ (a+b)^2 = a^2+2ab+b^2 $ with $ a^2+6a+9 $, we get $ 2ab=6a $, which implies $ b=3 $.",
+            "This option is incorrect."
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "3",
+          "is_correct": true,
+          "solution": [
+            "We are given $ (a+b)^{2}=a^{2}+6a+9 $.",
+            "The right side of the equation, $ a^{2}+6a+9 $, can be recognized as a perfect square.",
+            "We can write it as $ a^2 + 2(a)(3) + 3^2 $, which is the expansion of $ (a+3)^2 $.",
+            "So, the equation becomes $ (a+b)^2 = (a+3)^2 $.",
+            "By comparing the terms inside the parentheses, we can conclude that $ b=3 $.",
+            "Alternatively, expand $ (a+b)^2 $ to get $ a^2 + 2ab + b^2 $.",
+            "Comparing $ a^2 + 2ab + b^2 $ with $ a^{2}+6a+9 $, we get two equations: $ 2ab = 6a $ and $ b^2=9 $.",
+            "From $ 2ab=6a $, we get $ b=3 $. From $ b^2=9 $, we get $ b = \\pm 3 $.",
+            "The value that satisfies both is $ b=3 $. Since the question asks for the positive value, the answer is 3.",
+            "This is the correct option."
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "-3",
+          "is_correct": false,
+          "solution": [
+            "From the analysis in the other options, we found that $ b=3 $ is the value that satisfies the identity.",
+            "While $(-3)^2 = 9$, the middle term would become $ 2a(-3) = -6a $, which contradicts the given expression $ a^2+6a+9 $.",
+            "Therefore, this option is incorrect."
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "5",
+      "content": "Let's find, which one of the following numbers when added to $ x^{2}+ \\frac{1}{4}x $ makes it a perfect square.",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "$ \\frac{1}{8} $",
+          "is_correct": false,
+          "solution": [
+            "To make $ x^{2}+ \\frac{1}{4}x $ a perfect square, we need to complete the square.",
+            "The expression is of the form $ a^2 + 2ab $, where $ a=x $.",
+            "So, $ 2ab = 2(x)b = \\frac{1}{4}x $.",
+            "This gives $ 2b = \\frac{1}{4} $, so $ b = \\frac{1}{8} $.",
+            "The term to be added is $ b^2 $, not $ b $. So we must add $ (\\frac{1}{8})^2 = \\frac{1}{64} $.",
+            "Therefore, this option is incorrect."
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "$ -\\frac{1}{64} $",
+          "is_correct": false,
+          "solution": [
+            "To complete the square for an expression $ a^2+2ab $, we must add $ b^2 $. The term $ b^2 $ is always positive.",
+            "Adding a negative number would not complete the square for $ (a+b)^2 $ or $ (a-b)^2 $.",
+            "Therefore, this option is incorrect."
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "$ \\frac{1}{64} $",
+          "is_correct": true,
+          "solution": [
+            "We want to make $ x^{2}+ \\frac{1}{4}x $ a perfect square by adding a number.",
+            "This expression matches the first two terms of the expansion $ (a+b)^2 = a^2 + 2ab + b^2 $.",
+            "Let $ a^2 = x^2 $, so $ a=x $.",
+            "Let $ 2ab = \\frac{1}{4}x $. Substituting $ a=x $, we get $ 2xb = \\frac{1}{4}x $.",
+            "Dividing by $ 2x $, we get $ b = \\frac{1}{8} $.",
+            "The number that must be added to complete the square is $ b^2 $.",
+            "So, we must add $ (\\frac{1}{8})^2 = \\frac{1}{64} $.",
+            "The resulting perfect square is $ x^2 + \\frac{1}{4}x + \\frac{1}{64} = (x + \\frac{1}{8})^2 $.",
+            "This is the correct option."
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "None of these",
+          "is_correct": false,
+          "solution": [
+            "As calculated in the other options, the number to be added is $ \\frac{1}{64} $.",
+            "Since $ \\frac{1}{64} $ is one of the options, this option is incorrect."
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "6",
+      "content": "Let's find, for which value or values of k, will the expression $ c^{2}+kc+\\frac{1}{9} $ be a perfect square.",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "Let's find what must be added or subtracted from $ 9p^{2}+ \\frac{1}{9p^{2}} $ to make it a perfect square.",
+          "solution": [
+            "The expression can be written as $ (3p)^2 + (\\frac{1}{3p})^2 $.",
+            "This is of the form $ a^2+b^2 $, where $ a=3p $ and $ b=\\frac{1}{3p} $.",
+            "To make it a perfect square, we need to add or subtract the term $ 2ab $.",
+            "Calculate $ 2ab = 2(3p)(\\frac{1}{3p}) = 2 $.",
+            "If we add 2, we get $ 9p^2 + 2 + \\frac{1}{9p^2} = (3p + \\frac{1}{3p})^2 $.",
+            "If we subtract 2, we get $ 9p^2 - 2 + \\frac{1}{9p^2} = (3p - \\frac{1}{3p})^2 $.",
+            "Therefore, we must add or subtract 2."
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "If $ (x-y)^{2}=4-4y+y^{2} $, then let's find the value of x.",
+          "solution": [
+            "We are given the identity $ (x-y)^{2}=4-4y+y^{2} $.",
+            "Let's analyze the right side of the equation: $ 4-4y+y^{2} $.",
+            "This can be rearranged as $ y^2 - 4y + 4 $.",
+            "This is a perfect square: $ y^2 - 2(y)(2) + 2^2 = (y-2)^2 $. It is also equal to $ (2-y)^2 $.",
+            "So the original equation becomes $ (x-y)^2 = (2-y)^2 $.",
+            "Taking the square root of both sides gives $ x-y = \\pm(2-y) $.",
+            "Case 1: $ x-y = (2-y) $. Adding y to both sides gives $ x=2 $.",
+            "Case 2: $ x-y = -(2-y) = -2+y $. Adding y to both sides gives $ x = -2+2y $. Since the identity must hold for any value of y, x cannot depend on y. Thus, this case is not a general solution.",
+            "The constant value for x that satisfies the identity is 2."
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "If $ (c-3)^{2}=c^{2}+kc+9 $ let's find the value of k.",
+          "solution": [
+            "We are given the identity $ (c-3)^{2}=c^{2}+kc+9 $.",
+            "Let's expand the left side using the formula $ (a-b)^2 = a^2 - 2ab + b^2 $.",
+            "Here, $ a=c $ and $ b=3 $.",
+            "$ (c-3)^2 = c^2 - 2(c)(3) + 3^2 = c^2 - 6c + 9 $.",
+            "Now we equate this to the right side of the given identity:",
+            "$ c^2 - 6c + 9 = c^2 + kc + 9 $.",
+            "By comparing the coefficients of the c term on both sides, we get $ -6c = kc $.",
+            "Therefore, $ k = -6 $."
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "7",
+      "content": "Let's simplify by using formula.",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "$ (2q-3z)^{2}-2(2q-3z)(q-3z)+(q-3z)^{2} $",
+          "solution": [
+            "The expression is of the form $ a^2 - 2ab + b^2 $, which is the expansion of $ (a-b)^2 $.",
+            "Here, let $ a = (2q-3z) $ and $ b = (q-3z) $.",
+            "The expression simplifies to $ (a-b)^2 = ((2q-3z) - (q-3z))^2 $.",
+            "Now, let's simplify the term inside the parenthesis: $ (2q-3z) - (q-3z) = 2q - 3z - q + 3z = q $.",
+            "So, the entire expression simplifies to $ q^2 $.",
+            "Answer: $ q^2 $"
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "$ (5p+2q-4r)^{2}+2(3p+2q-4r)(4r-2p-q)+(4r-2p-q)^{2} $",
+          "solution": [
+            "Note: There appears to be a typo in the problem statement provided. The first term $ (5p+2q-4r)^2 $ does not match the 'a' term in the $ 2ab $ part, which is $ (3p+2q-4r) $. Assuming the first term should be $ (3p+2q-4r)^2 $.",
+            "The corrected expression is $ (3p+2q-4r)^2 + 2(3p+2q-4r)(4r-2p-q) + (4r-2p-q)^2 $.",
+            "This is of the form $ a^2 + 2ab + b^2 $, which is the expansion of $ (a+b)^2 $.",
+            "Let $ a = (3p+2q-4r) $ and $ b = (4r-2p-q) $.",
+            "The expression simplifies to $ (a+b)^2 = ((3p+2q-4r) + (4r-2p-q))^2 $.",
+            "Simplify the term inside the parenthesis: $ 3p - 2p + 2q - q - 4r + 4r = p+q $.",
+            "So, the entire expression simplifies to $ (p+q)^2 $.",
+            "Answer: $ (p+q)^2 $"
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "8",
+      "content": "Let's express the following as a perfect square",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "$ 16a^{2}-40ac+25c^{2} $",
+          "solution": [
+            "The expression is $ 16a^{2}-40ac+25c^{2} $.",
+            "We can write the first and last terms as squares: $ 16a^2 = (4a)^2 $ and $ 25c^2 = (5c)^2 $.",
+            "The middle term is $ -40ac $, which can be written as $ -2 \\times (4a) \\times (5c) $.",
+            "So the expression is $ (4a)^2 - 2(4a)(5c) + (5c)^2 $.",
+            "This matches the formula $ x^2 - 2xy + y^2 = (x-y)^2 $, with $ x=4a $ and $ y=5c $.",
+            "Therefore, the perfect square is $ (4a-5c)^2 $.",
+            "Answer: $ (4a-5c)^2 $"
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "$ 4p^{2}-2p+\\frac{1}{4} $",
+          "solution": [
+            "The expression is $ 4p^{2}-2p+\\frac{1}{4} $.",
+            "We can write the first and last terms as squares: $ 4p^2 = (2p)^2 $ and $ \\frac{1}{4} = (\\frac{1}{2})^2 $.",
+            "The middle term is $ -2p $, which can be written as $ -2 \\times (2p) \\times (\\frac{1}{2}) $.",
+            "So the expression is $ (2p)^2 - 2(2p)(\\frac{1}{2}) + (\\frac{1}{2})^2 $.",
+            "This matches the formula $ x^2 - 2xy + y^2 = (x-y)^2 $, with $ x=2p $ and $ y=\\frac{1}{2} $.",
+            "Therefore, the perfect square is $ (2p-\\frac{1}{2})^2 $.",
+            "Answer: $ (2p-\\frac{1}{2})^2 $"
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "$ 1+\\frac{4}{a}+\\frac{4}{a^{2}} $",
+          "solution": [
+            "The expression is $ 1+\\frac{4}{a}+\\frac{4}{a^{2}} $.",
+            "We can write the first and last terms as squares: $ 1 = 1^2 $ and $ \\frac{4}{a^2} = (\\frac{2}{a})^2 $.",
+            "The middle term is $ \\frac{4}{a} $, which can be written as $ 2 \\times 1 \\times (\\frac{2}{a}) $.",
+            "So the expression is $ 1^2 + 2(1)(\\frac{2}{a}) + (\\frac{2}{a})^2 $.",
+            "This matches the formula $ x^2 + 2xy + y^2 = (x+y)^2 $, with $ x=1 $ and $ y=\\frac{2}{a} $.",
+            "Therefore, the perfect square is $ (1+\\frac{2}{a})^2 $.",
+            "Answer: $ (1+\\frac{2}{a})^2 $"
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "$ 9a^{2}+24ab+16b^{2} $",
+          "solution": [
+            "The expression is $ 9a^{2}+24ab+16b^{2} $.",
+            "We can write the first and last terms as squares: $ 9a^2 = (3a)^2 $ and $ 16b^2 = (4b)^2 $.",
+            "The middle term is $ 24ab $, which can be written as $ 2 \\times (3a) \\times (4b) $.",
+            "So the expression is $ (3a)^2 + 2(3a)(4b) + (4b)^2 $.",
+            "This matches the formula $ x^2 + 2xy + y^2 = (x+y)^2 $, with $ x=3a $ and $ y=4b $.",
+            "Therefore, the perfect square is $ (3a+4b)^2 $.",
+            "Answer: $ (3a+4b)^2 $"
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "9",
+      "content": "Let's express the following as a perfect square and hence find the values.",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "$ 64a^{2}+16a+1 $ When $ a=1 $",
+          "solution": [
+            "First, express $ 64a^{2}+16a+1 $ as a perfect square.",
+            "$ 64a^2 = (8a)^2 $ and $ 1 = 1^2 $.",
+            "The middle term is $ 16a = 2(8a)(1) $.",
+            "The expression is $ (8a)^2 + 2(8a)(1) + 1^2 = (8a+1)^2 $.",
+            "Now, substitute $ a=1 $ into the perfect square form.",
+            "Value = $ (8(1)+1)^2 = (8+1)^2 = 9^2 = 81 $.",
+            "Answer: Perfect square is $ (8a+1)^2 $, value is 81."
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "$ 25a^{2}-30ab+9b^{2} $ When $ a=3 $ & $ b=2 $",
+          "solution": [
+            "First, express $ 25a^{2}-30ab+9b^{2} $ as a perfect square.",
+            "$ 25a^2 = (5a)^2 $ and $ 9b^2 = (3b)^2 $.",
+            "The middle term is $ -30ab = -2(5a)(3b) $.",
+            "The expression is $ (5a)^2 - 2(5a)(3b) + (3b)^2 = (5a-3b)^2 $.",
+            "Now, substitute $ a=3 $ and $ b=2 $ into the perfect square form.",
+            "Value = $ (5(3)-3(2))^2 = (15-6)^2 = 9^2 = 81 $.",
+            "Answer: Perfect square is $ (5a-3b)^2 $, value is 81."
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "$ 64-\\frac{16}{p}+\\frac{1}{p^{2}} $ When $ p=-1 $",
+          "solution": [
+            "First, express $ 64-\\frac{16}{p}+\\frac{1}{p^{2}} $ as a perfect square.",
+            "$ 64 = 8^2 $ and $ \\frac{1}{p^2} = (\\frac{1}{p})^2 $.",
+            "The middle term is $ -\\frac{16}{p} = -2(8)(\\frac{1}{p}) $.",
+            "The expression is $ 8^2 - 2(8)(\\frac{1}{p}) + (\\frac{1}{p})^2 = (8-\\frac{1}{p})^2 $.",
+            "Now, substitute $ p=-1 $ into the perfect square form.",
+            "Value = $ (8-\\frac{1}{-1})^2 = (8+1)^2 = 9^2 = 81 $.",
+            "Answer: Perfect square is $ (8-\\frac{1}{p})^2 $, value is 81."
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "$ p^{2}q^{2}+10pqr+25r^{2} $ When $ p=2 $, $ q=-1 $ and $ r=36 $",
+          "solution": [
+            "First, express $ p^{2}q^{2}+10pqr+25r^{2} $ as a perfect square.",
+            "$ p^2q^2 = (pq)^2 $ and $ 25r^2 = (5r)^2 $.",
+            "The middle term is $ 10pqr = 2(pq)(5r) $.",
+            "The expression is $ (pq)^2 + 2(pq)(5r) + (5r)^2 = (pq+5r)^2 $.",
+            "Now, substitute $ p=2, q=-1, r=36 $ into the perfect square form.",
+            "Value = $ ((2)(-1) + 5(36))^2 = (-2 + 180)^2 = (178)^2 $.",
+            "$ 178^2 = 31684 $.",
+            "Answer: Perfect square is $ (pq+5r)^2 $, value is 31684."
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "10",
+      "content": "Let's apply, $ (a+b)^{2}+(a-b)^{2}=2(a^{2}+b^{2}) $ or $ (a+b)^{2}-(a-b)^{2}=4ab $ or $ ab=(\\frac{a+b}{2})^{2}-(\\frac{a-b}{2})^{2} $ to find the following",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "Let's find st and $ (s^{2}+t^{2}) $ when $ s+t=12 $ and $ s-t=8 $",
+          "solution": [
+            "To find st, we use the formula $ ab = \\frac{1}{4}((a+b)^2 - (a-b)^2) $.",
+            "$ st = \\frac{1}{4}((s+t)^2 - (s-t)^2) = \\frac{1}{4}(12^2 - 8^2) = \\frac{1}{4}(144 - 64) = \\frac{1}{4}(80) = 20 $.",
+            "To find $ s^2+t^2 $, we use the formula $ 2(a^2+b^2) = (a+b)^2 + (a-b)^2 $.",
+            "$ 2(s^2+t^2) = (s+t)^2 + (s-t)^2 = 12^2 + 8^2 = 144 + 64 = 208 $.",
+            "$ s^2+t^2 = \\frac{208}{2} = 104 $.",
+            "Answer: $ st=20 $, $ s^2+t^2=104 $"
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "Let's find $ 8xy(x^{2}+y^{2}) $ when $ (x+y)=5 $ and $ (x-y)=1 $",
+          "solution": [
+            "We can write $ 8xy(x^2+y^2) $ as $ (4xy) \\times (2(x^2+y^2)) $.",
+            "First, find $ 4xy $ using $ (x+y)^2 - (x-y)^2 = 4xy $.",
+            "$ 4xy = 5^2 - 1^2 = 25 - 1 = 24 $.",
+            "Next, find $ 2(x^2+y^2) $ using $ (x+y)^2 + (x-y)^2 = 2(x^2+y^2) $.",
+            "$ 2(x^2+y^2) = 5^2 + 1^2 = 25 + 1 = 26 $.",
+            "Now, multiply the two results: $ 8xy(x^2+y^2) = 24 \\times 26 $.",
+            "$ 24 \\times 26 = (25-1)(25+1) = 25^2 - 1^2 = 625 - 1 = 624 $.",
+            "Answer: 624"
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "Let's find $ \\frac{x^{2}+y^{2}}{2xy} $ when $ (x+y)=9 $ and $ (x-y)=5 $",
+          "solution": [
+            "We need to find the values of the numerator and denominator.",
+            "For the numerator, we find $ 2(x^2+y^2) = (x+y)^2 + (x-y)^2 = 9^2 + 5^2 = 81 + 25 = 106 $.",
+            "So, $ x^2+y^2 = \\frac{106}{2} = 53 $.",
+            "For the denominator, we find $ 4xy = (x+y)^2 - (x-y)^2 = 9^2 - 5^2 = 81 - 25 = 56 $.",
+            "So, $ 2xy = \\frac{56}{2} = 28 $.",
+            "The value of the expression is $ \\frac{x^2+y^2}{2xy} = \\frac{53}{28} $.",
+            "Answer: $ \\frac{53}{28} $"
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "Let's express 36 as the difference of two squares [Hints, $ 36=4 \\times 9 $ $ =(\\frac{4+9}{2})^{2}-(\\frac{4-9}{2})^{2} $]",
+          "solution": [
+            "We use the formula $ ab = (\\frac{a+b}{2})^2 - (\\frac{a-b}{2})^2 $.",
+            "To express 36, we need to find two numbers whose product is 36. Let's use the hint and choose $ a=9 $ and $ b=4 $.",
+            "$ 36 = 9 \\times 4 = (\\frac{9+4}{2})^2 - (\\frac{9-4}{2})^2 $.",
+            "$ = (\\frac{13}{2})^2 - (\\frac{5}{2})^2 $.",
+            "Alternatively, choose simpler factors like $ a=18, b=2 $.",
+            "$ 36 = 18 \\times 2 = (\\frac{18+2}{2})^2 - (\\frac{18-2}{2})^2 = (\\frac{20}{2})^2 - (\\frac{16}{2})^2 = 10^2 - 8^2 $.",
+            "Answer: $ (\\frac{13}{2})^2 - (\\frac{5}{2})^2 $ or $ 10^2 - 8^2 $"
+          ]
+        },
+        {
+          "sub_question_no": "(v)",
+          "content": "Let's express 44 as the difference of two squares.",
+          "solution": [
+            "We use the formula $ ab = (\\frac{a+b}{2})^2 - (\\frac{a-b}{2})^2 $.",
+            "We need to find two numbers whose product is 44. Let's choose factors with the same parity to avoid fractions. Let $ a=22 $ and $ b=2 $.",
+            "$ 44 = 22 \\times 2 = (\\frac{22+2}{2})^2 - (\\frac{22-2}{2})^2 $.",
+            "$ = (\\frac{24}{2})^2 - (\\frac{20}{2})^2 = 12^2 - 10^2 $.",
+            "Check: $ 144 - 100 = 44 $.",
+            "Answer: $ 12^2 - 10^2 $"
+          ]
+        },
+        {
+          "sub_question_no": "(vi)",
+          "content": "Let's express $ 8x^{2}+50y^{2} $ as the sum of two squares.",
+          "solution": [
+            "The expression is $ 8x^{2}+50y^{2} $.",
+            "First, factor out the common factor 2: $ 2(4x^2 + 25y^2) $.",
+            "We can write the terms inside the parenthesis as squares: $ 2((2x)^2 + (5y)^2) $.",
+            "This is of the form $ 2(a^2+b^2) $, with $ a=2x $ and $ b=5y $.",
+            "We use the identity $ 2(a^2+b^2) = (a+b)^2 + (a-b)^2 $.",
+            "Substituting our values for a and b, we get:",
+            "$ (2x+5y)^2 + (2x-5y)^2 $.",
+            "Answer: $ (2x+5y)^2 + (2x-5y)^2 $"
+          ]
+        },
+        {
+          "sub_question_no": "(vii)",
+          "content": "Let's express x as the difference of two squares.",
+          "solution": [
+            "We use the formula $ ab = (\\frac{a+b}{2})^2 - (\\frac{a-b}{2})^2 $.",
+            "To express x, we need to find two numbers whose product is x.",
+            "Let's choose $ a=x $ and $ b=1 $. Their product is $ x \\times 1 = x $.",
+            "Substitute these into the formula:",
+            "$ x = (\\frac{x+1}{2})^2 - (\\frac{x-1}{2})^2 $.",
+            "Answer: $ (\\frac{x+1}{2})^2 - (\\frac{x-1}{2})^2 $"
+          ]
+        }
+      ]
+    }
+  ]
+}

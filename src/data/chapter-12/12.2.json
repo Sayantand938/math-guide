@@ -1,0 +1,430 @@
+{
+  "title": "Let's work out - 12.2",
+  "chapter": "Chapter 12: ALGEBRAIC FORMULAE",
+  "questions": [
+    {
+      "question_no": "1",
+      "content": "Using the identity $(x+a)(x+b) = x^2 + (a+b)x + ab$, let's find the product of the following algebraic expressions.",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "$ (x+7)(x+1) $",
+          "solution": [
+            "We use the identity $(x+a)(x+b) = x^2 + (a+b)x + ab$.",
+            "Here, $a=7$ and $b=1$.",
+            "Therefore, $(x+7)(x+1) = x^2 + (7+1)x + (7)(1)$.",
+            "Simplifying gives: $x^2 + 8x + 7$.",
+            "Answer: $x^2 + 8x + 7$"
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "$ (x-8)(x-2) $",
+          "solution": [
+            "We use the identity $(x+a)(x+b) = x^2 + (a+b)x + ab$.",
+            "Here, $a=-8$ and $b=-2$.",
+            "Therefore, $(x-8)(x-2) = (x+(-8))(x+(-2))$.",
+            "$= x^2 + (-8-2)x + (-8)(-2)$.",
+            "Simplifying gives: $x^2 - 10x + 16$.",
+            "Answer: $x^2 - 10x + 16$"
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "$ (x+9)(x-6) $",
+          "solution": [
+            "We use the identity $(x+a)(x+b) = x^2 + (a+b)x + ab$.",
+            "Here, $a=9$ and $b=-6$.",
+            "Therefore, $(x+9)(x-6) = (x+9)(x+(-6))$.",
+            "$= x^2 + (9-6)x + (9)(-6)$.",
+            "Simplifying gives: $x^2 + 3x - 54$.",
+            "Answer: $x^2 + 3x - 54$"
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "$ (2x+1)(2x-1) $",
+          "solution": [
+            "Let $y = 2x$. The expression becomes $(y+1)(y-1)$.",
+            "We use the identity $(a+b)(a-b) = a^2 - b^2$.",
+            "Here, $a=y$ and $b=1$.",
+            "Therefore, $(y+1)(y-1) = y^2 - 1^2 = y^2 - 1$.",
+            "Substituting back $y = 2x$, we get $(2x)^2 - 1$.",
+            "Simplifying gives: $4x^2 - 1$.",
+            "Answer: $4x^2 - 1$"
+          ]
+        },
+        {
+          "sub_question_no": "(v)",
+          "content": "$ (xy-4)(xy+2) $",
+          "solution": [
+            "Let $z = xy$. The expression becomes $(z-4)(z+2)$.",
+            "We use the identity $(x+a)(x+b) = x^2 + (a+b)x + ab$.",
+            "Here, the variable is $z$, with $a=-4$ and $b=2$.",
+            "Therefore, $(z-4)(z+2) = z^2 + (-4+2)z + (-4)(2)$.",
+            "$= z^2 - 2z - 8$.",
+            "Substituting back $z = xy$, we get $(xy)^2 - 2(xy) - 8$.",
+            "Simplifying gives: $x^2y^2 - 2xy - 8$.",
+            "Answer: $x^2y^2 - 2xy - 8$"
+          ]
+        },
+        {
+          "sub_question_no": "(vi)",
+          "content": "$ (a^2+5)(a^2-4) $",
+          "solution": [
+            "Let $x = a^2$. The expression becomes $(x+5)(x-4)$.",
+            "We use the identity $(y+c)(y+d) = y^2 + (c+d)y + cd$.",
+            "Here, the variable is $x$, with $c=5$ and $d=-4$.",
+            "Therefore, $(x+5)(x-4) = x^2 + (5-4)x + (5)(-4)$.",
+            "$= x^2 + x - 20$.",
+            "Substituting back $x = a^2$, we get $(a^2)^2 + a^2 - 20$.",
+            "Simplifying gives: $a^4 + a^2 - 20$.",
+            "Answer: $a^4 + a^2 - 20$"
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "2",
+      "content": "Using formula, let's show that:",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "$ (2x+3y)^2 - (2x-3y)^2 = 24xy $",
+          "solution": [
+            "We use the formula $(a+b)^2 - (a-b)^2 = 4ab$.",
+            "Let $a = 2x$ and $b = 3y$.",
+            "L.H.S = $(2x+3y)^2 - (2x-3y)^2$.",
+            "Applying the formula: $4(2x)(3y)$.",
+            "$= 24xy$, which is equal to the R.H.S.",
+            "(Proved)"
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "$ (a+2b)^2 + (a-2b)^2 = 2(a^2+4b^2) $",
+          "solution": [
+            "We use the formula $(x+y)^2 + (x-y)^2 = 2(x^2+y^2)$.",
+            "Let $x=a$ and $y=2b$.",
+            "L.H.S = $(a+2b)^2 + (a-2b)^2$.",
+            "Applying the formula: $2(a^2 + (2b)^2)$.",
+            "$= 2(a^2+4b^2)$, which is equal to the R.H.S.",
+            "(Proved)"
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "$ (l+m)^2 = (l-m)^2 + 4lm $",
+          "solution": [
+            "We start from the R.H.S: $(l-m)^2 + 4lm$.",
+            "We know $(a-b)^2 = a^2 - 2ab + b^2$.",
+            "So, R.H.S = $(l^2 - 2lm + m^2) + 4lm$.",
+            "Combining like terms: $l^2 - 2lm + 4lm + m^2 = l^2 + 2lm + m^2$.",
+            "This is the expansion of $(l+m)^2$, which is the L.H.S.",
+            "(Proved)"
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "$ (2p-q)^2 = (2p+q)^2 - 8pq $",
+          "solution": [
+            "We start from the R.H.S: $(2p+q)^2 - 8pq$.",
+            "We know $(a+b)^2 = a^2+2ab+b^2$.",
+            "So, R.H.S = $((2p)^2 + 2(2p)(q) + q^2) - 8pq$.",
+            "$= (4p^2 + 4pq + q^2) - 8pq$.",
+            "Combining like terms: $4p^2 - 4pq + q^2$.",
+            "This is the expansion of $(2p-q)^2$, which is the L.H.S.",
+            "(Proved)"
+          ]
+        },
+        {
+          "sub_question_no": "(v)",
+          "content": "$ (3m+4n)^2 = (3m-4n)^2 + 48mn $",
+          "solution": [
+            "We start from the R.H.S: $(3m-4n)^2 + 48mn$.",
+            "We know $(a-b)^2 = a^2-2ab+b^2$.",
+            "So, R.H.S = $((3m)^2 - 2(3m)(4n) + (4n)^2) + 48mn$.",
+            "$= (9m^2 - 24mn + 16n^2) + 48mn$.",
+            "Combining like terms: $9m^2 + 24mn + 16n^2$.",
+            "This is the expansion of $(3m+4n)^2$, which is the L.H.S.",
+            "(Proved)"
+          ]
+        },
+        {
+          "sub_question_no": "(vi)",
+          "content": "$ (6x+7y)^2 - 84xy = 36x^2+49y^2 $",
+          "solution": [
+            "We start from the L.H.S: $(6x+7y)^2 - 84xy$.",
+            "We know $(a+b)^2 = a^2+2ab+b^2$.",
+            "So, L.H.S = $((6x)^2 + 2(6x)(7y) + (7y)^2) - 84xy$.",
+            "$= (36x^2 + 84xy + 49y^2) - 84xy$.",
+            "Combining like terms: $36x^2 + 49y^2$, which is the R.H.S.",
+            "(Proved)"
+          ]
+        },
+        {
+          "sub_question_no": "(vii)",
+          "content": "$ (3a-4b)^2 + 24ab = 9a^2+16b^2 $",
+          "solution": [
+            "We start from the L.H.S: $(3a-4b)^2 + 24ab$.",
+            "We know $(x-y)^2 = x^2-2xy+y^2$.",
+            "So, L.H.S = $((3a)^2 - 2(3a)(4b) + (4b)^2) + 24ab$.",
+            "$= (9a^2 - 24ab + 16b^2) + 24ab$.",
+            "Combining like terms: $9a^2 + 16b^2$, which is the R.H.S.",
+            "(Proved)"
+          ]
+        },
+        {
+          "sub_question_no": "(viii)",
+          "content": "$ (2a+\\frac{1}{a})^2 = (2a-\\frac{1}{a})^2+8 $",
+          "solution": [
+            "We start from the R.H.S: $(2a-\\frac{1}{a})^2+8$.",
+            "We know $(x-y)^2 = x^2-2xy+y^2$.",
+            "So, R.H.S = $((2a)^2 - 2(2a)(\\frac{1}{a}) + (\\frac{1}{a})^2) + 8$.",
+            "$= (4a^2 - 4 + \\frac{1}{a^2}) + 8$.",
+            "Combining like terms: $4a^2 + 4 + \\frac{1}{a^2}$.",
+            "This can be written as $(2a)^2 + 2(2a)(\\frac{1}{a}) + (\\frac{1}{a})^2$.",
+            "This is the expansion of $(2a+\\frac{1}{a})^2$, which is the L.H.S.",
+            "(Proved)"
+          ]
+        }
+      ]
+    },
+    {
+      "question_no": "3",
+      "content": "Using formula, let's solve each of the following problems:",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "Let's find the value of $x^2 + y^2$ when $x - y = 3$ and $xy = 28$.",
+          "solution": [
+            "We use the formula derived from $(x-y)^2$: $x^2+y^2 = (x-y)^2 + 2xy$.",
+            "Given, $x-y = 3$ and $xy = 28$.",
+            "Substitute the values: $x^2+y^2 = (3)^2 + 2(28)$.",
+            "$= 9 + 56$.",
+            "$= 65$.",
+            "Answer: 65"
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "Let's find the value of $ab$ when $a^2 + b^2 = 52$ and $a - b = 2$.",
+          "solution": [
+            "We use the formula $(a-b)^2 = a^2 + b^2 - 2ab$.",
+            "Given, $a^2+b^2 = 52$ and $a-b = 2$.",
+            "Substitute the values: $(2)^2 = 52 - 2ab$.",
+            "$4 = 52 - 2ab$.",
+            "Rearrange the equation: $2ab = 52 - 4$.",
+            "$2ab = 48$.",
+            "$ab = \\frac{48}{2} = 24$.",
+            "Answer: 24"
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "Let's find the value of $lm$ when $l^2+m^2 = 13$ and $l+m = 5$.",
+          "solution": [
+            "We use the formula $(l+m)^2 = l^2 + m^2 + 2lm$.",
+            "Given, $l^2+m^2 = 13$ and $l+m = 5$.",
+            "Substitute the values: $(5)^2 = 13 + 2lm$.",
+            "$25 = 13 + 2lm$.",
+            "Rearrange the equation: $2lm = 25 - 13$.",
+            "$2lm = 12$.",
+            "$lm = \\frac{12}{2} = 6$.",
+            "Answer: 6"
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "Let's find the value of $a^2+\\frac{1}{a^2}$ when $a+\\frac{1}{a}=4$.",
+          "solution": [
+            "Given, $a+\\frac{1}{a}=4$.",
+            "Square both sides: $(a+\\frac{1}{a})^2 = 4^2$.",
+            "Expand the left side: $a^2 + 2(a)(\\frac{1}{a}) + (\\frac{1}{a})^2 = 16$.",
+            "$a^2 + 2 + \\frac{1}{a^2} = 16$.",
+            "Subtract 2 from both sides: $a^2 + \\frac{1}{a^2} = 16 - 2$.",
+            "$a^2 + \\frac{1}{a^2} = 14$.",
+            "Answer: 14"
+          ]
+        },
+        {
+          "sub_question_no": "(v)",
+          "content": "Let's find the value of $a^2+\\frac{1}{a^2}$ when $a-\\frac{1}{a}=4$.",
+          "solution": [
+            "Given, $a-\\frac{1}{a}=4$.",
+            "Square both sides: $(a-\\frac{1}{a})^2 = 4^2$.",
+            "Expand the left side: $a^2 - 2(a)(\\frac{1}{a}) + (\\frac{1}{a})^2 = 16$.",
+            "$a^2 - 2 + \\frac{1}{a^2} = 16$.",
+            "Add 2 to both sides: $a^2 + \\frac{1}{a^2} = 16 + 2$.",
+            "$a^2 + \\frac{1}{a^2} = 18$.",
+            "Answer: 18"
+          ]
+        },
+        {
+          "sub_question_no": "(vi)",
+          "content": "If $5x + \\frac{1}{x} = 6$, let's show that $25x^2 + \\frac{1}{x^2} = 26$.",
+          "solution": [
+            "Given, $5x + \\frac{1}{x} = 6$.",
+            "Square both sides: $(5x + \\frac{1}{x})^2 = 6^2$.",
+            "Expand the left side: $(5x)^2 + 2(5x)(\\frac{1}{x}) + (\\frac{1}{x})^2 = 36$.",
+            "$25x^2 + 10 + \\frac{1}{x^2} = 36$.",
+            "Subtract 10 from both sides: $25x^2 + \\frac{1}{x^2} = 36 - 10$.",
+            "$25x^2 + \\frac{1}{x^2} = 26$.",
+            "(Proved)"
+          ]
+        },
+        {
+          "sub_question_no": "(vii)",
+          "content": "If $2x + \\frac{1}{x} = 5$, let's find the value of $4x^2 + \\frac{1}{x^2}$.",
+          "solution": [
+            "Given, $2x + \\frac{1}{x} = 5$.",
+            "Square both sides: $(2x + \\frac{1}{x})^2 = 5^2$.",
+            "Expand the left side: $(2x)^2 + 2(2x)(\\frac{1}{x}) + (\\frac{1}{x})^2 = 25$.",
+            "$4x^2 + 4 + \\frac{1}{x^2} = 25$.",
+            "Subtract 4 from both sides: $4x^2 + \\frac{1}{x^2} = 25 - 4$.",
+            "$4x^2 + \\frac{1}{x^2} = 21$.",
+            "Answer: 21"
+          ]
+        },
+        {
+          "sub_question_no": "(viii)",
+          "content": "If $\\frac{x}{y} + \\frac{y}{x} = 3$, let's find the value of $\\frac{x^2}{y^2} + \\frac{y^2}{x^2}$.",
+          "solution": [
+            "Given, $\\frac{x}{y} + \\frac{y}{x} = 3$.",
+            "Square both sides: $(\\frac{x}{y} + \\frac{y}{x})^2 = 3^2$.",
+            "Expand the left side: $(\\frac{x}{y})^2 + 2(\\frac{x}{y})(\\frac{y}{x}) + (\\frac{y}{x})^2 = 9$.",
+            "$\\frac{x^2}{y^2} + 2 + \\frac{y^2}{x^2} = 9$.",
+            "Subtract 2 from both sides: $\\frac{x^2}{y^2} + \\frac{y^2}{x^2} = 9 - 2$.",
+            "$\\frac{x^2}{y^2} + \\frac{y^2}{x^2} = 7$.",
+            "Answer: 7"
+          ]
+        },
+        {
+          "sub_question_no": "(ix)",
+          "content": "If $x^2 + y^2 = 4xy$, let's prove that $x^4 + y^4 = 14x^2y^2$.",
+          "solution": [
+            "Given, $x^2 + y^2 = 4xy$.",
+            "Square both sides: $(x^2 + y^2)^2 = (4xy)^2$.",
+            "Expand the left side: $(x^2)^2 + 2(x^2)(y^2) + (y^2)^2 = 16x^2y^2$.",
+            "$x^4 + 2x^2y^2 + y^4 = 16x^2y^2$.",
+            "Subtract $2x^2y^2$ from both sides: $x^4 + y^4 = 16x^2y^2 - 2x^2y^2$.",
+            "$x^4 + y^4 = 14x^2y^2$.",
+            "(Proved)"
+          ]
+        },
+        {
+          "sub_question_no": "(x)",
+          "content": "If $2a + \\frac{1}{3a} = 6$, then let's find the value of $4a^2 + \\frac{1}{9a^2}$.",
+          "solution": [
+            "Given, $2a + \\frac{1}{3a} = 6$.",
+            "Square both sides: $(2a + \\frac{1}{3a})^2 = 6^2$.",
+            "Expand the left side: $(2a)^2 + 2(2a)(\\frac{1}{3a}) + (\\frac{1}{3a})^2 = 36$.",
+            "$4a^2 + \\frac{4}{3} + \\frac{1}{9a^2} = 36$.",
+            "Subtract $\\frac{4}{3}$ from both sides: $4a^2 + \\frac{1}{9a^2} = 36 - \\frac{4}{3}$.",
+            "$4a^2 + \\frac{1}{9a^2} = \\frac{108 - 4}{3} = \\frac{104}{3}$.",
+            "Answer: $\\frac{104}{3}$"
+          ]
+        },
+        {
+          "sub_question_no": "(xi)",
+          "content": "If $5a + \\frac{1}{7a} = 5$, then let's find the value of $25a^2 + \\frac{1}{49a^2}$.",
+          "solution": [
+            "Given, $5a + \\frac{1}{7a} = 5$.",
+            "Square both sides: $(5a + \\frac{1}{7a})^2 = 5^2$.",
+            "Expand the left side: $(5a)^2 + 2(5a)(\\frac{1}{7a}) + (\\frac{1}{7a})^2 = 25$.",
+            "$25a^2 + \\frac{10}{7} + \\frac{1}{49a^2} = 25$.",
+            "Subtract $\\frac{10}{7}$ from both sides: $25a^2 + \\frac{1}{49a^2} = 25 - \\frac{10}{7}$.",
+            "$25a^2 + \\frac{1}{49a^2} = \\frac{175 - 10}{7} = \\frac{165}{7}$.",
+            "Answer: $\\frac{165}{7}$"
+          ]
+        },
+        {
+          "sub_question_no": "(xii)",
+          "content": "If $2x - \\frac{1}{x} = 4$, let's show that $x^2 + \\frac{1}{4x^2} = 5$.",
+          "solution": [
+            "Given, $2x - \\frac{1}{x} = 4$.",
+            "To get the desired terms, divide the equation by 2: $\\frac{1}{2}(2x - \\frac{1}{x}) = \\frac{4}{2}$.",
+            "This simplifies to $x - \\frac{1}{2x} = 2$.",
+            "Now, square both sides: $(x - \\frac{1}{2x})^2 = 2^2$.",
+            "Expand the left side: $x^2 - 2(x)(\\frac{1}{2x}) + (\\frac{1}{2x})^2 = 4$.",
+            "$x^2 - 1 + \\frac{1}{4x^2} = 4$.",
+            "Add 1 to both sides: $x^2 + \\frac{1}{4x^2} = 4 + 1$.",
+            "$x^2 + \\frac{1}{4x^2} = 5$.",
+            "(Proved)"
+          ]
+        },
+        {
+          "sub_question_no": "(xiii)",
+          "content": "If $m + \\frac{1}{m} = -p$, let's show that $m^2 + \\frac{1}{m^2} = p^2 - 2$.",
+          "solution": [
+            "Given, $m + \\frac{1}{m} = -p$.",
+            "Square both sides: $(m + \\frac{1}{m})^2 = (-p)^2$.",
+            "Expand the left side: $m^2 + 2(m)(\\frac{1}{m}) + (\\frac{1}{m})^2 = p^2$.",
+            "$m^2 + 2 + \\frac{1}{m^2} = p^2$.",
+            "Subtract 2 from both sides: $m^2 + \\frac{1}{m^2} = p^2 - 2$.",
+            "(Proved)"
+          ]
+        },
+        {
+          "sub_question_no": "(xiv)",
+          "content": "If $a^2 + b^2 = 5ab$, let's show that $\\frac{a^2}{b^2} + \\frac{b^2}{a^2} = 23$.",
+          "solution": [
+            "Given, $a^2 + b^2 = 5ab$.",
+            "Divide the entire equation by $ab$: $\\frac{a^2+b^2}{ab} = \\frac{5ab}{ab}$.",
+            "$\\frac{a}{b} + \\frac{b}{a} = 5$.",
+            "Now, square both sides: $(\\frac{a}{b} + \\frac{b}{a})^2 = 5^2$.",
+            "Expand the left side: $(\\frac{a}{b})^2 + 2(\\frac{a}{b})(\\frac{b}{a}) + (\\frac{b}{a})^2 = 25$.",
+            "$\\frac{a^2}{b^2} + 2 + \\frac{b^2}{a^2} = 25$.",
+            "Subtract 2 from both sides: $\\frac{a^2}{b^2} + \\frac{b^2}{a^2} = 25 - 2$.",
+            "$\\frac{a^2}{b^2} + \\frac{b^2}{a^2} = 23$.",
+            "(Proved)"
+          ]
+        },
+        {
+          "sub_question_no": "(xv)",
+          "content": "If $6x^2 - 1 = 4x$, let's show that $36x^2 + \\frac{1}{x^2} = 28$.",
+          "solution": [
+            "Given, $6x^2 - 1 = 4x$.",
+            "Divide the entire equation by $x$: $\\frac{6x^2}{x} - \\frac{1}{x} = \\frac{4x}{x}$.",
+            "This simplifies to $6x - \\frac{1}{x} = 4$.",
+            "Now, square both sides: $(6x - \\frac{1}{x})^2 = 4^2$.",
+            "Expand the left side: $(6x)^2 - 2(6x)(\\frac{1}{x}) + (\\frac{1}{x})^2 = 16$.",
+            "$36x^2 - 12 + \\frac{1}{x^2} = 16$.",
+            "Add 12 to both sides: $36x^2 + \\frac{1}{x^2} = 16 + 12$.",
+            "$36x^2 + \\frac{1}{x^2} = 28$.",
+            "(Proved)"
+          ]
+        },
+        {
+          "sub_question_no": "(xvi)",
+          "content": "If $m - \\frac{1}{m} = p - 2$, then let's show that $m^2 + \\frac{1}{m^2} = p^2 - 4p + 6$.",
+          "solution": [
+            "Given, $m - \\frac{1}{m} = p - 2$.",
+            "Square both sides: $(m - \\frac{1}{m})^2 = (p-2)^2$.",
+            "Expand both sides: $m^2 - 2(m)(\\frac{1}{m}) + (\\frac{1}{m})^2 = p^2 - 2(p)(2) + 2^2$.",
+            "$m^2 - 2 + \\frac{1}{m^2} = p^2 - 4p + 4$.",
+            "Add 2 to both sides: $m^2 + \\frac{1}{m^2} = p^2 - 4p + 4 + 2$.",
+            "$m^2 + \\frac{1}{m^2} = p^2 - 4p + 6$.",
+            "(Proved)"
+          ]
+        },
+        {
+          "sub_question_no": "(xvii)",
+          "content": "If $m - \\frac{1}{m-2} = 6$, then let's find the value of $(m-2)^2 + \\frac{1}{(m-2)^2}$.",
+          "solution": [
+            "Given, $m - \\frac{1}{m-2} = 6$.",
+            "Subtract 2 from both sides to create an $(m-2)$ term: $(m-2) - \\frac{1}{m-2} = 6 - 2$.",
+            "This simplifies to $(m-2) - \\frac{1}{m-2} = 4$.",
+            "Let $y = m-2$. The equation is now $y - \\frac{1}{y} = 4$.",
+            "Square both sides: $(y - \\frac{1}{y})^2 = 4^2$.",
+            "Expand the left side: $y^2 - 2(y)(\\frac{1}{y}) + (\\frac{1}{y})^2 = 16$.",
+            "$y^2 - 2 + \\frac{1}{y^2} = 16$.",
+            "Add 2 to both sides: $y^2 + \\frac{1}{y^2} = 18$.",
+            "Substitute back $y = m-2$: $(m-2)^2 + \\frac{1}{(m-2)^2} = 18$.",
+            "Answer: 18"
+          ]
+        }
+      ]
+    }
+  ]
+}
