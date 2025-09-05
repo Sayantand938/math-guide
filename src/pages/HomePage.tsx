@@ -1,3 +1,4 @@
+// File: src/pages/HomePage.tsx
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Card, CardHeader, CardTitle } from '@/components/ui/card';
@@ -10,11 +11,14 @@ const HomePage = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // Simulate network delay for showing skeleton
-    setTimeout(() => {
-      setBooks(getBooks());
+    const loadBooks = async () => {
+      const booksData = await getBooks();
+      setBooks(booksData);
       setLoading(false);
-    }, 300); 
+    };
+
+    // Simulate delay for a smoother loading experience
+    setTimeout(() => loadBooks(), 300);
   }, []);
 
   if (loading) {

@@ -1,9 +1,10 @@
-import booksData from '@/data/books.json';
+// File: src/lib/data-service.ts
 
-// --- Type Definitions ---
+// --- Type Definitions (add Exercise to Chapter) ---
 export interface Chapter {
   sl: number;
   title: string;
+  exercises?: string[]; // Array of exercise IDs, e.g., ["12.1", "12.2"]
 }
 
 export interface Book {
@@ -14,65 +15,63 @@ export interface Book {
 }
 
 export interface Exercise {
-  id: string; // e.g., "12.1"
-  bookId: string; // e.g., "ganitprabha"
-  chapterId: string; // e.g., "12"
+  id: string;
+  bookId: string;
+  chapterId: string;
 }
 
-const books: Book[] = booksData;
 
-// --- Book Data ---
-export function getBooks(): Book[] {
-  return books;
+// --- Data Fetching & Caching ---
+let booksCache: Book[] | null = null;
+
+/**
+ * Fetches the list of all books from the public directory.
+ * Caches the result to avoid repeated network requests.
+ */
+export async function getBooks(): Promise<Book[]> {
+  if (booksCache) {
+    return booksCache;
+  }
+  try {
+    const response = await fetch('/books/books.json');
+    if (!response.ok) throw new Error("Failed to fetch books index.");
+    const data: Book[] = await response.json();
+    booksCache = data;
+    return data;
+  } catch (error) {
+    console.error(error);
+    return []; // Return empty array on error
+  }
 }
 
-export function getBookById(bookId: string | undefined): Book | undefined {
+/**
+ * Gets a single book by its ID.
+ */
+export async function getBookById(bookId: string | undefined): Promise<Book | undefined> {
   if (!bookId) return undefined;
+  const books = await getBooks();
   return books.find(b => b.id === bookId);
 }
 
-
-// --- Chapter Data ---
-export function getChapters(bookId: string | undefined): Chapter[] {
-  const book = getBookById(bookId);
-  return book ? book.chapters : [];
-}
-
-export function getChapterById(bookId: string | undefined, chapterId: string | undefined): Chapter | undefined {
-  const book = getBookById(bookId);
+/**
+ * Gets a single chapter by its book ID and chapter ID (serial number).
+ */
+export async function getChapterById(bookId: string | undefined, chapterId: string | undefined): Promise<Chapter | undefined> {
+  const book = await getBookById(bookId);
   if (!book || !chapterId) return undefined;
   return book.chapters.find(c => c.sl.toString() === chapterId);
 }
 
-
-// --- Exercise Data (Dynamic Discovery) ---
-const exerciseModules = import.meta.glob('/src/data/*/*/*.json');
-
-const allExercises: Exercise[] = Object.keys(exerciseModules).map(path => {
-  // Path is like "/src/data/ganitprabha/chapter-12/12.1.json"
-  const pathParts = path.split('/');
-  const fileName = pathParts.pop() as string; // "12.1.json"
-  const chapterDir = pathParts.pop() as string; // "chapter-12"
-  const bookId = pathParts.pop() as string; // "ganitprabha"
-
-  const chapterId = chapterDir.split('-')[1]; // "12"
-  const exerciseId = fileName.replace('.json', ''); // "12.1"
-
-  return { id: exerciseId, bookId: bookId, chapterId: chapterId };
-});
-
-export function getExercisesForChapter(bookId: string | undefined, chapterId: string | undefined): Exercise[] {
-  if (!bookId || !chapterId) return [];
+/**
+ * Gets the list of exercises for a given chapter.
+ */
+export function getExercisesForChapter(chapter: Chapter | undefined): string[] {
+  if (!chapter || !chapter.exercises) return [];
   
-  return allExercises
-    .filter(ex => ex.bookId === bookId && ex.chapterId === chapterId)
-    .sort((a, b) => {
-        // Sort numerically, e.g., 12.1, 12.2, 12.10
-        const aParts = a.id.split('.').map(Number);
-        const bParts = b.id.split('.').map(Number);
-        if (aParts[0] !== bParts[0]) return aParts[0] - bParts[0];
-        const aVal = aParts[1] ?? 0;
-        const bVal = bParts[1] ?? 0;
-        return aVal - bVal;
-    });
+  // Sort numerically, e.g., 12.1, 12.2, 12.10
+  return [...chapter.exercises].sort((a, b) => {
+      const aNum = parseFloat(a);
+      const bNum = parseFloat(b);
+      return aNum - bNum;
+  });
 }

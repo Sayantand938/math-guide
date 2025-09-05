@@ -1,3 +1,4 @@
+// File: src/pages/ExercisePage.tsx
 import { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
@@ -23,14 +24,16 @@ const ExercisePage = () => {
       setError(null);
       setExerciseData(null);
       try {
-        // Dynamic import path updated to include bookId
-        const data = await import(`../data/${bookId}/chapter-${chapterId}/${exerciseId}.json`);
-        setExerciseData(data.default || data);
+        const response = await fetch(`/books/${bookId}/chapter-${chapterId}/${exerciseId}.json`);
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        setExerciseData(data);
       } catch (err) {
         console.error("Failed to load exercise data:", err);
         setError('Failed to load exercise data. Please check the URL and try again.');
       } finally {
-        // Add a small artificial delay to prevent jarring flashes on fast networks
         setTimeout(() => setLoading(false), 300);
       }
     };

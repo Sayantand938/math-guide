@@ -1,27 +1,27 @@
+// File: src/pages/ChapterIndexPage.tsx
 import { useState, useEffect } from 'react';
 import { Link, useParams, NavLink } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
-import { getChapterById, getExercisesForChapter, type Chapter, type Exercise } from '@/lib/data-service';
+import { getChapterById, getExercisesForChapter, type Chapter } from '@/lib/data-service';
 import { ArrowLeft } from 'lucide-react';
 import ChapterIndexPageSkeleton from '@/components/skeletons/ChapterIndexPageSkeleton';
 
 const ChapterIndexPage = () => {
   const { bookId, chapterId } = useParams<{ bookId: string; chapterId: string }>();
   const [chapter, setChapter] = useState<Chapter | undefined>(undefined);
-  const [exercises, setExercises] = useState<Exercise[]>([]);
+  const [exercises, setExercises] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const loadData = () => {
-      const chapterData = getChapterById(bookId, chapterId);
+    const loadData = async () => {
+      const chapterData = await getChapterById(bookId, chapterId);
       if (chapterData) {
         setChapter(chapterData);
-        setExercises(getExercisesForChapter(bookId, chapterId));
+        setExercises(getExercisesForChapter(chapterData));
       }
       setLoading(false);
     };
     
-    // Simulate network delay
     setTimeout(loadData, 300);
   }, [bookId, chapterId]);
 
@@ -53,11 +53,11 @@ const ChapterIndexPage = () => {
       
       {exercises.length > 0 ? (
         <div className="flex flex-wrap gap-2">
-          {exercises.map((exercise) => (
-            <div key={exercise.id}>
+          {exercises.map((exerciseId) => (
+            <div key={exerciseId}>
               <Button asChild size="lg">
-                  <NavLink to={`/book/${bookId}/chapter/${chapter.sl}/${exercise.id}`}>
-                      {exercise.id}
+                  <NavLink to={`/book/${bookId}/chapter/${chapter.sl}/${exerciseId}`}>
+                      {exerciseId}
                   </NavLink>
               </Button>
             </div>

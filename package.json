@@ -4,8 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc -b && vite build",
+    "generate-index": "node scripts/generate-book-index.cjs",
+    "dev": "npm run generate-index && vite",
+    "build": "npm run generate-index && tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },

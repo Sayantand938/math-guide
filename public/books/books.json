@@ -1,0 +1,111 @@
+[
+  {
+    "id": "ganitprabha",
+    "class": 7,
+    "book": "Ganitprabha",
+    "chapters": [
+      {
+        "sl": 2,
+        "title": "Ratio",
+        "exercises": [
+          "2.1",
+          "2.2",
+          "2.3"
+        ]
+      },
+      {
+        "sl": 3,
+        "title": "Proportion",
+        "exercises": [
+          "3"
+        ]
+      },
+      {
+        "sl": 4,
+        "title": "Addition, Subtraction, Multiplication and Division of Integers",
+        "exercises": []
+      },
+      {
+        "sl": 5,
+        "title": "Concept of Index",
+        "exercises": []
+      },
+      {
+        "sl": 6,
+        "title": "Algebraic Operation",
+        "exercises": [
+          "6.2",
+          "6.3"
+        ]
+      },
+      {
+        "sl": 8,
+        "title": "Construction of Triangles",
+        "exercises": []
+      },
+      {
+        "sl": 9,
+        "title": "Concept of Congruency",
+        "exercises": []
+      },
+      {
+        "sl": 11,
+        "title": "Square Root of Fractions",
+        "exercises": []
+      },
+      {
+        "sl": 12,
+        "title": "Algebraic Formulae",
+        "exercises": [
+          "12.1",
+          "12.2",
+          "12.3"
+        ]
+      },
+      {
+        "sl": 14,
+        "title": "Properties of Triangles",
+        "exercises": []
+      },
+      {
+        "sl": 15,
+        "title": "Time and Distance",
+        "exercises": [
+          "15"
+        ]
+      },
+      {
+        "sl": 16,
+        "title": "Double Bar Graph",
+        "exercises": []
+      },
+      {
+        "sl": 17,
+        "title": "Area of Rectangles & Squares",
+        "exercises": []
+      },
+      {
+        "sl": 18,
+        "title": "Symmetry",
+        "exercises": []
+      },
+      {
+        "sl": 19,
+        "title": "Factorisation",
+        "exercises": []
+      },
+      {
+        "sl": 20,
+        "title": "Type of Quadrilateral",
+        "exercises": [
+          "chapter-20"
+        ]
+      },
+      {
+        "sl": 21,
+        "title": "Construction of Quadrilateral",
+        "exercises": []
+      }
+    ]
+  }
+]

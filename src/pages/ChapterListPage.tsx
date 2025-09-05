@@ -1,3 +1,4 @@
+// File: src/pages/ChapterListPage.tsx
 import { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { Card, CardHeader, CardTitle } from '@/components/ui/card';
@@ -12,10 +13,13 @@ const ChapterListPage = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    setTimeout(() => {
-      setBook(getBookById(bookId));
+    const loadBook = async () => {
+      const bookData = await getBookById(bookId);
+      setBook(bookData);
       setLoading(false);
-    }, 300);
+    };
+
+    setTimeout(() => loadBook(), 300);
   }, [bookId]);
 
   if (loading) {
