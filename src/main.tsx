@@ -4,6 +4,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './global.css';
 import App from './App.tsx'
 import HomePage from './pages/HomePage.tsx';
+import ChapterListPage from './pages/ChapterListPage.tsx';
 import ChapterIndexPage from './pages/ChapterIndexPage.tsx';
 import ExercisePage from './pages/ExercisePage.tsx';
 
@@ -17,11 +18,15 @@ const router = createBrowserRouter([
         element: <HomePage />,
       },
       {
-        path: 'chapter/:chapterId',
+        path: 'book/:bookId',
+        element: <ChapterListPage />,
+      },
+      {
+        path: 'book/:bookId/chapter/:chapterId',
         element: <ChapterIndexPage />,
       },
       {
-        path: 'chapter/:chapterId/:exerciseId',
+        path: 'book/:bookId/chapter/:chapterId/:exerciseId',
         element: <ExercisePage />,
       }
     ]

@@ -15,7 +15,7 @@ const ExercisePage = () => {
   const [exerciseData, setExerciseData] = useState<ExerciseData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const { chapterId, exerciseId } = useParams<{ chapterId: string; exerciseId: string }>();
+  const { bookId, chapterId, exerciseId } = useParams<{ bookId: string; chapterId: string; exerciseId: string }>();
 
   useEffect(() => {
     const fetchExercise = async () => {
@@ -23,8 +23,8 @@ const ExercisePage = () => {
       setError(null);
       setExerciseData(null);
       try {
-        // Dynamic import based on route params
-        const data = await import(`../data/chapter-${chapterId}/${exerciseId}.json`);
+        // Dynamic import path updated to include bookId
+        const data = await import(`../data/${bookId}/chapter-${chapterId}/${exerciseId}.json`);
         setExerciseData(data.default || data);
       } catch (err) {
         console.error("Failed to load exercise data:", err);
@@ -35,10 +35,10 @@ const ExercisePage = () => {
       }
     };
 
-    if (chapterId && exerciseId) {
+    if (bookId && chapterId && exerciseId) {
       fetchExercise();
     }
-  }, [chapterId, exerciseId]);
+  }, [bookId, chapterId, exerciseId]);
 
   if (loading) return <ExercisePageSkeleton />;
   if (error) return <div className="text-destructive">{error}</div>;
@@ -47,7 +47,7 @@ const ExercisePage = () => {
   return (
     <div>
       <Button asChild variant="ghost" className="mb-6 -ml-4">
-        <Link to={`/chapter/${chapterId}`}>
+        <Link to={`/book/${bookId}/chapter/${chapterId}`}>
           <ArrowLeft className="mr-2 h-4 w-4" />
           Back to Exercises
         </Link>

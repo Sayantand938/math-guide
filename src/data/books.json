@@ -1,0 +1,93 @@
+[
+  {
+    "id": "ganitprabha",
+    "class": 7,
+    "book": "Ganitprabha",
+    "chapters": [
+      {
+        "sl": 2,
+        "title": "Ratio"
+      },
+      {
+        "sl": 3,
+        "title": "Proportion"
+      },
+      {
+        "sl": 4,
+        "title": "Addition, Subtraction, Multiplication and Division of Integers"
+      },
+      {
+        "sl": 5,
+        "title": "Concept of Index"
+      },
+      {
+        "sl": 6,
+        "title": "Algebraic Operation"
+      },
+      {
+        "sl": 7,
+        "title": "Drawing Angles with Compass"
+      },
+      {
+        "sl": 8,
+        "title": "Construction of Triangles"
+      },
+      {
+        "sl": 9,
+        "title": "Concept of Congruency"
+      },
+      {
+        "sl": 10,
+        "title": "Approximation"
+      },
+      {
+        "sl": 11,
+        "title": "Square Root of Fractions"
+      },
+      {
+        "sl": 12,
+        "title": "Algebraic Formulae"
+      },
+      {
+        "sl": 13,
+        "title": "Concept of Parallel Lines and Transversal"
+      },
+      {
+        "sl": 14,
+        "title": "Properties of Triangles"
+      },
+      {
+        "sl": 15,
+        "title": "Time and Distance"
+      },
+      {
+        "sl": 16,
+        "title": "Double Bar Graph"
+      },
+      {
+        "sl": 17,
+        "title": "Area of Rectangles & Squares"
+      },
+      {
+        "sl": 18,
+        "title": "Symmetry"
+      },
+      {
+        "sl": 19,
+        "title": "Factorisation"
+      },
+      {
+        "sl": 20,
+        "title": "Type of Quadrilateral"
+      },
+      {
+        "sl": 21,
+        "title": "Construction of Quadrilateral"
+      },
+      {
+        "sl": 22,
+        "title": "Formation of Equation and its solutions"
+      }
+    ]
+  }
+]
