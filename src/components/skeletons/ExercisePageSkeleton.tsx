@@ -10,17 +10,25 @@ const ExercisePageSkeleton = () => {
         <Skeleton className="h-6 w-1/2" />
       </div>
 
-      {/* Skeleton for a few question cards */}
       <div className="space-y-6">
         {[...Array(3)].map((_, i) => (
           <Card key={i}>
             <CardHeader>
-              <Skeleton className="h-7 w-full" />
+              <div className="flex items-start gap-2">
+                <Skeleton className="h-7 w-12 flex-shrink-0" />
+                <Skeleton className="h-7 w-full" />
+              </div>
             </CardHeader>
             <CardContent>
               <div className="space-y-4">
-                <Skeleton className="h-16 w-full" />
-                <Skeleton className="h-10 w-full" />
+                <div className="p-4 border rounded-md">
+                   <Skeleton className="h-6 w-1/4 mb-4" />
+                   <Skeleton className="h-10 w-full" />
+                </div>
+                 <div className="p-4 border rounded-md">
+                   <Skeleton className="h-6 w-1/4 mb-4" />
+                   <Skeleton className="h-10 w-full" />
+                </div>
               </div>
             </CardContent>
           </Card>

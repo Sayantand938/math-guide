@@ -1,0 +1,249 @@
+{
+  "title": "Ganitprabha - VII",
+  "chapter": "Chapter 2: RATIO",
+  "questions": [
+   {
+      "question_no": "1",
+      "content": "Reduce the following ratios into their lowest form and let's find their inverse ratios.",
+      "sub_questions": [
+        {
+          "sub_question_no": "(a)",
+          "content": "12 : 15",
+          "solution": [
+            "The GCD of 12 and 15 is 3.",
+            "Lowest form: $\\frac{12}{3} : \\frac{15}{3} = 4 : 5$.",
+            "The inverse ratio of $a : b$ is $b : a$.",
+            "Inverse ratio: $5 : 4$.",
+            "Answer: Lowest form is $4 : 5$, Inverse ratio is $5 : 4$."
+          ]
+        },
+        {
+          "sub_question_no": "(b)",
+          "content": "36 : 54",
+          "solution": [
+            "The GCD of 36 and 54 is 18.",
+            "Lowest form: $\\frac{36}{18} : \\frac{54}{18} = 2 : 3$.",
+            "Inverse ratio: $3 : 2$.",
+            "Answer: Lowest form is $2 : 3$, Inverse ratio is $3 : 2$."
+          ]
+        },
+        {
+          "sub_question_no": "(c)",
+          "content": "75 : 120",
+          "solution": [
+            "The GCD of 75 and 120 is 15.",
+            "Lowest form: $\\frac{75}{15} : \\frac{120}{15} = 5 : 8$.",
+            "Inverse ratio: $8 : 5$.",
+            "Answer: Lowest form is $5 : 8$, Inverse ratio is $8 : 5$."
+          ]
+        },
+        {
+          "sub_question_no": "(d)",
+          "content": "169 : 221",
+          "solution": [
+            "The prime factorization of 169 is $13 \\times 13$.",
+            "Checking if 221 is divisible by 13: $221 \\div 13 = 17$.",
+            "The GCD of 169 and 221 is 13.",
+            "Lowest form: $\\frac{169}{13} : \\frac{221}{13} = 13 : 17$.",
+            "Inverse ratio: $17 : 13$.",
+            "Answer: Lowest form is $13 : 17$, Inverse ratio is $17 : 13$."
+          ]
+        },
+        {
+          "sub_question_no": "(e)",
+          "content": "9xy : 12xy",
+          "solution": [
+            "We can cancel the common term 'xy' from both parts.",
+            "The ratio becomes $9 : 12$. The GCD of 9 and 12 is 3.",
+            "Lowest form: $\\frac{9}{3} : \\frac{12}{3} = 3 : 4$.",
+            "Inverse ratio: $4 : 3$.",
+            "Answer: Lowest form is $3 : 4$, Inverse ratio is $4 : 3$."
+          ]
+        },
+        {
+          "sub_question_no": "(f)",
+          "content": "429 : 663",
+          "solution": [
+            "The GCD of 429 and 663 is 39. (Since $429=11 \\times 39$ and $663=17 \\times 39$).",
+            "Lowest form: $\\frac{429}{39} : \\frac{663}{39} = 11 : 17$.",
+            "Inverse ratio: $17 : 11$.",
+            "Answer: Lowest form is $11 : 17$, Inverse ratio is $17 : 11$."
+          ]
+        },
+        {
+          "sub_question_no": "(g)",
+          "content": "3b : 12c",
+          "solution": [
+            "The GCD of the numerical coefficients 3 and 12 is 3.",
+            "Lowest form: $\\frac{3b}{3} : \\frac{12c}{3} = b : 4c$.",
+            "Inverse ratio: $4c : b$.",
+            "Answer: Lowest form is $b : 4c$, Inverse ratio is $4c : b$."
+          ]
+        },
+        {
+          "sub_question_no": "(h)",
+          "content": "25xyz : 625xyz",
+          "solution": [
+            "We cancel the common term 'xyz'. The ratio becomes $25 : 625$.",
+            "The GCD of 25 and 625 is 25.",
+            "Lowest form: $\\frac{25}{25} : \\frac{625}{25} = 1 : 25$.",
+            "Inverse ratio: $25 : 1$.",
+            "Answer: Lowest form is $1 : 25$, Inverse ratio is $25 : 1$."
+          ]
+        }
+      ],
+      "solution": []
+    },
+    {
+      "question_no": "2",
+      "content": "Reduce the following into ratio of whole number and let's find their inverse ratio.",
+      "sub_questions": [
+        {
+          "sub_question_no": "(a)",
+          "content": "2.5 : 12.5",
+          "solution": [
+            "To remove decimals, multiply both parts by 10: $25 : 125$.",
+            "The GCD of 25 and 125 is 25.",
+            "Whole number ratio: $\\frac{25}{25} : \\frac{125}{25} = 1 : 5$.",
+            "Inverse ratio: $5 : 1$.",
+            "Answer: Whole number ratio is $1 : 5$, Inverse ratio is $5 : 1$."
+          ]
+        },
+        {
+          "sub_question_no": "(b)",
+          "content": "$\\frac{5}{8} : \\frac{7}{16}$",
+          "solution": [
+            "To convert to whole numbers, multiply by the LCM of denominators 8 and 16, which is 16.",
+            "$\\frac{5}{8} \\times 16 : \\frac{7}{16} \\times 16$.",
+            "Whole number ratio: $10 : 7$.",
+            "Inverse ratio: $7 : 10$.",
+            "Answer: Whole number ratio is $10 : 7$, Inverse ratio is $7 : 10$."
+          ]
+        },
+        {
+          "sub_question_no": "(c)",
+          "content": "0.7 : 0.49",
+          "solution": [
+            "To remove decimals, multiply both parts by 100: $70 : 49$.",
+            "The GCD of 70 and 49 is 7.",
+            "Whole number ratio: $\\frac{70}{7} : \\frac{49}{7} = 10 : 7$.",
+            "Inverse ratio: $7 : 10$.",
+            "Answer: Whole number ratio is $10 : 7$, Inverse ratio is $7 : 10$."
+          ]
+        },
+        {
+          "sub_question_no": "(d)",
+          "content": "$\\frac{2}{5} : \\frac{3}{4}$",
+          "solution": [
+            "Multiply by the LCM of denominators 5 and 4, which is 20.",
+            "$\\frac{2}{5} \\times 20 : \\frac{3}{4} \\times 20$.",
+            "Whole number ratio: $8 : 15$.",
+            "Inverse ratio: $15 : 8$.",
+            "Answer: Whole number ratio is $8 : 15$, Inverse ratio is $15 : 8$."
+          ]
+        },
+        {
+          "sub_question_no": "(e)",
+          "content": "22 : $4\\frac{5}{7}$",
+          "solution": [
+            "First, convert the mixed fraction to an improper fraction: $4\\frac{5}{7} = \\frac{(4 \\times 7) + 5}{7} = \\frac{33}{7}$.",
+            "The ratio is $22 : \\frac{33}{7}$.",
+            "Multiply by 7 to get whole numbers: $22 \\times 7 : \\frac{33}{7} \\times 7$, which is $154 : 33$.",
+            "The GCD of 154 and 33 is 11.",
+            "Whole number ratio: $\\frac{154}{11} : \\frac{33}{11} = 14 : 3$.",
+            "Inverse ratio: $3 : 14$.",
+            "Answer: Whole number ratio is $14 : 3$, Inverse ratio is $3 : 14$."
+          ]
+        },
+        {
+          "sub_question_no": "(f)",
+          "content": "$\\frac{7}{15} : \\frac{3}{20}$",
+          "solution": [
+            "Multiply by the LCM of denominators 15 and 20, which is 60.",
+            "$\\frac{7}{15} \\times 60 : \\frac{3}{20} \\times 60$.",
+            "Whole number ratio: $28 : 9$.",
+            "Inverse ratio: $9 : 28$.",
+            "Answer: Whole number ratio is $28 : 9$, Inverse ratio is $9 : 28$."
+          ]
+        },
+        {
+          "sub_question_no": "(g)",
+          "content": "$1\\frac{2}{5} : \\frac{7}{10}$",
+          "solution": [
+            "Convert the mixed fraction: $1\\frac{2}{5} = \\frac{7}{5}$. The ratio is $\\frac{7}{5} : \\frac{7}{10}$.",
+            "Multiply by the LCM of 5 and 10, which is 10.",
+            "$\\frac{7}{5} \\times 10 : \\frac{7}{10} \\times 10$, which is $14 : 7$.",
+            "The GCD of 14 and 7 is 7.",
+            "Whole number ratio: $\\frac{14}{7} : \\frac{7}{7} = 2 : 1$.",
+            "Inverse ratio: $1 : 2$.",
+            "Answer: Whole number ratio is $2 : 1$, Inverse ratio is $1 : 2$."
+          ]
+        },
+        {
+          "sub_question_no": "(h)",
+          "content": "4.4 : 5.61",
+          "solution": [
+            "To remove decimals, multiply by 100: $440 : 561$.",
+            "The GCD of 440 and 561 is 11. ($440=40 \\times 11$, $561=51 \\times 11$).",
+            "Whole number ratio: $\\frac{440}{11} : \\frac{561}{11} = 40 : 51$.",
+            "Inverse ratio: $51 : 40$.",
+            "Answer: Whole number ratio is $40 : 51$, Inverse ratio is $51 : 40$."
+          ]
+        }
+      ],
+      "solution": []
+    },
+    {
+      "question_no": "4",
+      "content": "Out of 100 sums, Rita could do 60 sums correctly. Out of 80 of those sums, Binoy could do 50 sums correctly. Let's express them in ratio to find, who got more sums correctly.",
+
+      "solution": [
+        "Rita's ratio of correct sums is $60 : 100$, or the fraction $\\frac{60}{100}$.",
+        "Simplifying Rita's ratio: $\\frac{60}{100} = \\frac{3}{5}$.",
+        "Binoy's ratio of correct sums is $50 : 80$, or the fraction $\\frac{50}{80}$.",
+        "Simplifying Binoy's ratio: $\\frac{50}{80} = \\frac{5}{8}$.",
+        "To compare the ratios $\\frac{3}{5}$ and $\\frac{5}{8}$, we find a common denominator, which is 40.",
+        "Rita's ratio: $\\frac{3}{5} = \\frac{3 \\times 8}{5 \\times 8} = \\frac{24}{40}$.",
+        "Binoy's ratio: $\\frac{5}{8} = \\frac{5 \\times 5}{8 \\times 5} = \\frac{25}{40}$.",
+        "Since $\\frac{25}{40} > \\frac{24}{40}$, Binoy got proportionally more sums correct.",
+        "Answer: Binoy got more sums correctly."
+      ]
+    },
+    {
+      "question_no": "5",
+      "content": "In this year's Madhymik examination out of 150 examinees of our school, 100 examinees passed with grade - A. In another nearby school out of 100 examinees, 80 examinees passed with grade - A. Let's find which school has got a better result getting grade - A, in this year's Madhyamik examination.",
+
+      "solution": [
+        "The ratio of grade-A students in our school is $100 : 150$, or the fraction $\\frac{100}{150}$.",
+        "Simplifying the fraction: $\\frac{100}{150} = \\frac{2}{3}$.",
+        "The ratio of grade-A students in the nearby school is $80 : 100$, or the fraction $\\frac{80}{100}$.",
+        "Simplifying the fraction: $\\frac{80}{100} = \\frac{4}{5}$.",
+        "To compare $\\frac{2}{3}$ and $\\frac{4}{5}$, we find a common denominator, which is 15.",
+        "Our school's ratio: $\\frac{2}{3} = \\frac{2 \\times 5}{3 \\times 5} = \\frac{10}{15}$.",
+        "Nearby school's ratio: $\\frac{4}{5} = \\frac{4 \\times 3}{5 \\times 3} = \\frac{12}{15}$.",
+        "Since $\\frac{12}{15} > \\frac{10}{15}$, the nearby school has a better result.",
+        "Answer: The nearby school has a better result."
+      ]
+    },
+    {
+      "question_no": "6",
+      "content": "The ratio of the costs of two houses is 4 : 3 and the cost of the second house is ₹4,20,000. Let's find the cost of the first house. If the cost of the first house was ₹70,000 more, then let's find the ratio of their costs.",
+
+      "solution": [
+        "Let the cost of the first house be $4x$ and the second house be $3x$.",
+        "Given the cost of the second house is ₹4,20,000.",
+        "So, $3x = 4,20,000$.",
+        "$x = \\frac{4,20,000}{3} = 1,40,000$.",
+        "The cost of the first house is $4x = 4 \\times 1,40,000 = ₹5,60,000$.",
+        "For the second part of the question, the condition 'if the cost of the first house was ₹70,000 more' is interpreted as 'if the cost of the first house was ₹70,000 more than the second house'.",
+        "New cost of the first house = Cost of second house + ₹70,000 = ₹4,20,000 + ₹70,000 = ₹4,90,000.",
+        "The cost of the second house remains ₹4,20,000.",
+        "The new ratio of their costs would be $4,90,000 : 4,20,000$.",
+        "Simplifying the ratio: $\\frac{490000}{420000} = \\frac{49}{42} = \\frac{7}{6}$.",
+        "The new ratio is $7 : 6$.",
+        "Answer: The cost of the first house is ₹5,60,000. The new ratio would be $7 : 6$."
+      ]
+    }
+  ]
+}
+ 

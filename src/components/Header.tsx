@@ -3,17 +3,32 @@ import { Link } from 'react-router-dom';
 import { Button } from './ui/button';
 import { Sun, Moon, Home } from 'lucide-react';
 
-const Header = () => {
-  const [theme, setTheme] = useState<'light' | 'dark'>('light');
+type Theme = 'light' | 'dark';
 
+const Header = () => {
+  // Initialize state from localStorage or system preference.
+  // This function runs only once when the component is first created.
+  const [theme, setTheme] = useState<Theme>(() => {
+    const storedTheme = localStorage.getItem('theme') as Theme | null;
+    if (storedTheme) {
+      return storedTheme;
+    }
+    // If no theme is stored, default to the user's system preference.
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  });
+
+  // This effect runs whenever the `theme` state changes.
   useEffect(() => {
     const root = window.document.documentElement;
     root.classList.remove('light', 'dark');
     root.classList.add(theme);
+
+    // Save the current theme choice to localStorage.
+    localStorage.setItem('theme', theme);
   }, [theme]);
 
   const toggleTheme = () => {
-    setTheme(theme === 'light' ? 'dark' : 'light');
+    setTheme(prevTheme => (prevTheme === 'light' ? 'dark' : 'light'));
   };
 
   return (

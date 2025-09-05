@@ -1,0 +1,205 @@
+{
+  "title": "Let's workout-3",
+  "chapter": "Chapter: 3",
+  "questions": [
+    {
+      "question_no": "1",
+      "content": "Let's complete the table given below -",
+      "solution": [
+        "To check if four numbers a, b, c, d are in proportion, we verify if the product of the extremes (a * d) is equal to the product of the means (b * c).",
+        "For 8, 10, 16, 20: Extremes: 8 * 20 = 160. Means: 10 * 16 = 160. They are equal, so it is proportional.",
+        "For 25, 30, 12, 15: Extremes: 25 * 15 = 375. Means: 30 * 12 = 360. They are not equal, so it is not proportional.",
+        "For 5, 7, 25, 35: Extremes: 5 * 35 = 175. Means: 7 * 25 = 175. They are equal, so it is proportional.",
+        "For 4, 10, 30, 18: Extremes: 4 * 18 = 72. Means: 10 * 30 = 300. They are not equal, so it is not proportional.",
+        "For 5, 10, 16, 20: Extremes: 5 * 20 = 100. Means: 10 * 16 = 160. They are not equal, so it is not proportional.",
+        "For 9, 15, 18, 30: Extremes: 9 * 30 = 270. Means: 15 * 18 = 270. They are equal, so it is proportional.",
+        "The completed table is:",
+        "| Four numbers    | proportional     | not proportional   |",
+        "|-----------------|------------------|--------------------|",
+        "| 8, 10, 16, 20   | 8, 10, 16, 20    |                    |",
+        "| 25, 30, 12, 15  |                  | 25, 30, 12, 15     |",
+        "| 5, 7, 25, 35    | 5, 7, 25, 35     |                    |",
+        "| 4, 10, 30, 18   |                  | 4, 10, 30, 18      |",
+        "| 5, 10, 16, 20   |                  | 5, 10, 16, 20      |",
+        "| 9, 15, 18, 30   | 9, 15, 18, 30    |                    |"
+      ]
+    },
+    {
+      "question_no": "2",
+      "content": "8 men can do a piece of work in 15 days. Let's find in how many days will 10 men finish the same work.",
+      "solution": [
+        "This is a problem of inverse proportion. If the number of men increases, the number of days to complete the work decreases.",
+        "Total work done is measured in man-days.",
+        "Total work = (Number of men) * (Number of days)",
+        "Total work = 8 men * 15 days = 120 man-days.",
+        "Now, we need to find the number of days for 10 men to do the same work.",
+        "Number of days = Total work / Number of men",
+        "Number of days = 120 / 10 = 12 days.",
+        "Answer: 10 men will finish the work in 12 days."
+      ]
+    },
+    {
+      "question_no": "3",
+      "content": "12 men had provision of food for 20 days. Let's find, if there are 40 men, how long will the provision last?",
+      "solution": [
+        "This is a problem of inverse proportion. If the number of men increases, the number of days the food provision will last decreases.",
+        "Total provision = (Number of men) * (Number of days)",
+        "Total provision = 12 men * 20 days = 240 man-days of food.",
+        "Now, we find how long this provision will last for 40 men.",
+        "Number of days = Total provision / Number of men",
+        "Number of days = 240 / 40 = 6 days.",
+        "Answer: The provision will last for 6 days."
+      ]
+    },
+    {
+      "question_no": "4",
+      "content": "Arunbabu used 16 ploughs to cultivate his whole land in 10 days. Let's find, if he wanted to cultivate the same land in 8 days, how many ploughs he would have needed.",
+      "solution": [
+        "This is a problem of inverse proportion. To finish the work in fewer days, more ploughs are needed.",
+        "Total work = (Number of ploughs) * (Number of days)",
+        "Total work = 16 ploughs * 10 days = 160 plough-days.",
+        "Now, we find the number of ploughs needed to complete the work in 8 days.",
+        "Number of ploughs = Total work / Number of days",
+        "Number of ploughs = 160 / 8 = 20 ploughs.",
+        "Answer: He would have needed 20 ploughs."
+      ]
+    },
+    {
+      "question_no": "5",
+      "content": "In a flood relief camp, there is a provision of food for 4000 people for 190 days. After 30 days, 800 people went away elsewhere. Let's find for how many days the remaining food lasts for the remaining people in this camp.",
+      "solution": [
+        "Initially, there is food for 4000 people for 190 days.",
+        "After 30 days, the remaining food is sufficient for 4000 people for (190 - 30) = 160 days.",
+        "Number of people who went away = 800.",
+        "Remaining number of people = 4000 - 800 = 3200 people.",
+        "Now we need to find how many days the food will last for 3200 people.",
+        "This is an inverse proportion problem. Let the number of days be x.",
+        "4000 people * 160 days = 3200 people * x days",
+        "x = (4000 * 160) / 3200",
+        "x = (40 * 160) / 32",
+        "x = 40 * 5 = 200 days.",
+        "Answer: The remaining food will last for 200 days for the remaining people."
+      ]
+    },
+    {
+      "question_no": "6",
+      "content": "The cost of 3 umbrellas or 1 chair is ₹600. Let's calculate the price of 2 umbrellas and 2 chairs.",
+      "solution": [
+        "From the problem statement, we have:",
+        "Cost of 3 umbrellas = ₹600",
+        "Cost of 1 chair = ₹600",
+        "First, let's find the cost of one umbrella.",
+        "Cost of 1 umbrella = ₹600 / 3 = ₹200.",
+        "Now, let's calculate the cost of 2 umbrellas and 2 chairs.",
+        "Cost of 2 umbrellas = 2 * ₹200 = ₹400.",
+        "Cost of 2 chairs = 2 * ₹600 = ₹1200.",
+        "Total cost = Cost of 2 umbrellas + Cost of 2 chairs",
+        "Total cost = ₹400 + ₹1200 = ₹1600.",
+        "Answer: The price of 2 umbrellas and 2 chairs is ₹1600."
+      ]
+    },
+    {
+      "question_no": "7",
+      "content": "Let's find the ratio of the number of present students and absent of students in our class today. We also find the ratio of number of present students and absent students today in class six. Let's find if the ratios are equal and also find if the four numbers are in proportion.",
+      "solution": [
+        "This question is an activity-based problem that requires specific data about the number of present and absent students for two different classes.",
+        "Since this data is not provided in the problem statement, the question cannot be solved numerically.",
+        "Answer: Data not provided."
+      ]
+    },
+    {
+      "question_no": "9",
+      "content": "In two types of 'sherbat' the ratios of syrup and water are 2 : 5 and 6 : 10. Let's find, which one is sweeter.",
+      "solution": [
+        "Sweetness is determined by the concentration of syrup in the mixture.",
+        "For the first type of sherbat:",
+        "Ratio of syrup to water = 2 : 5.",
+        "Total parts of the mixture = 2 (syrup) + 5 (water) = 7 parts.",
+        "Concentration of syrup = (parts of syrup) / (total parts) = 2/7.",
+        "For the second type of sherbat:",
+        "Ratio of syrup to water = 6 : 10, which can be simplified to 3 : 5.",
+        "Total parts of the mixture = 6 (syrup) + 10 (water) = 16 parts.",
+        "Concentration of syrup = 6/16 = 3/8.",
+        "Now we compare the two concentrations: 2/7 and 3/8.",
+        "To compare the fractions, we find a common denominator, which is 7 * 8 = 56.",
+        "2/7 = (2 * 8) / (7 * 8) = 16/56.",
+        "3/8 = (3 * 7) / (8 * 7) = 21/56.",
+        "Since 21/56 > 16/56, the second sherbat has a higher concentration of syrup.",
+        "Answer: The second sherbat (with ratio 6:10) is sweeter."
+      ]
+    },
+    {
+      "question_no": "10",
+      "content": "When water freezes to ice, its volume increases by 10%. Let's find the ratio of a certain volume of water and its corresponding volume of ice.",
+      "solution": [
+        "Let the initial volume of water be V.",
+        "The volume increases by 10% when it freezes into ice.",
+        "Increase in volume = 10% of V = (10/100) * V = 0.1V.",
+        "The volume of the corresponding ice = Initial volume of water + Increase in volume",
+        "Volume of ice = V + 0.1V = 1.1V.",
+        "We need to find the ratio of the volume of water to the volume of ice.",
+        "Ratio = (Volume of water) : (Volume of ice) = V : 1.1V.",
+        "To simplify the ratio, we can divide both sides by V.",
+        "Ratio = 1 : 1.1.",
+        "To express the ratio with whole numbers, we can multiply both sides by 10.",
+        "Ratio = (1 * 10) : (1.1 * 10) = 10 : 11.",
+        "Answer: The ratio of the volume of water to its corresponding volume of ice is 10 : 11."
+      ]
+    },
+    {
+      "question_no": "11",
+      "content": "My age is 12 years and my father's age is 42 years. Let's find the ratio of our ages.",
+      "solution": [
+        "My age = 12 years.",
+        "My father's age = 42 years.",
+        "The ratio of my age to my father's age is 12 : 42.",
+        "To simplify the ratio, we find the greatest common divisor (GCD) of 12 and 42.",
+        "The factors of 12 are 1, 2, 3, 4, 6, 12.",
+        "The factors of 42 are 1, 2, 3, 6, 7, 14, 21, 42.",
+        "The GCD is 6.",
+        "Divide both parts of the ratio by 6.",
+        "12 / 6 = 2.",
+        "42 / 6 = 7.",
+        "The simplified ratio is 2 : 7.",
+        "Answer: The ratio of our ages is 2 : 7."
+      ]
+    },
+    {
+      "question_no": "12",
+      "content": "The ratio of story books and text books of Preetam is 2 : 5. If Preetam has 4 story books, then let's find how many text books he has.",
+      "solution": [
+        "Let S be the number of story books and T be the number of text books.",
+        "The given ratio is S : T = 2 : 5, which means S/T = 2/5.",
+        "We are given that Preetam has 4 story books, so S = 4.",
+        "Substituting S = 4 into the ratio equation:",
+        "4 / T = 2 / 5.",
+        "To solve for T, we can cross-multiply:",
+        "4 * 5 = 2 * T",
+        "20 = 2T",
+        "T = 20 / 2",
+        "T = 10.",
+        "Answer: Preetam has 10 text books."
+      ]
+    },
+    {
+      "question_no": "13",
+      "content": "For making a flower garland of hibiscus and Indian marigold, 105 of these flowers were collected. If the ratio of hibiscus and marigold is 3 : 4, let's find how many hibiscus and marigolds are there. Let's also find how many more hibiscus must be collected so that the ratio of these two types of flowers become equal.",
+      "solution": [
+        "Part 1: Find the number of hibiscus and marigold flowers.",
+        "Total number of flowers = 105.",
+        "Ratio of hibiscus to marigold = 3 : 4.",
+        "The sum of the parts in the ratio is 3 + 4 = 7.",
+        "Number of hibiscus flowers = (3/7) * Total flowers = (3/7) * 105 = 3 * 15 = 45.",
+        "Number of marigold flowers = (4/7) * Total flowers = (4/7) * 105 = 4 * 15 = 60.",
+        "So, there are 45 hibiscus and 60 marigolds.",
+        "Part 2: Find how many more hibiscus are needed to make the ratio equal.",
+        "An equal ratio means a ratio of 1 : 1, so the number of hibiscus must equal the number of marigolds.",
+        "Number of marigolds = 60.",
+        "Current number of hibiscus = 45.",
+        "Additional hibiscus needed = Number of marigolds - Current number of hibiscus",
+        "Additional hibiscus needed = 60 - 45 = 15.",
+        "Answer: There are 45 hibiscus and 60 marigolds. 15 more hibiscus must be collected for the numbers to be equal."
+      ]
+    }
+  ]
+}

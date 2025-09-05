@@ -1,0 +1,181 @@
+{
+  "title": "Ganitprabha - VII",
+  "chapter": "Chapter 2: RATIO",
+  "questions": [
+{
+      "question_no": "1",
+      "content": "1 kg of rice costs ₹40 and 1 kg of pulse costs ₹100. Let's find the ratio of the prices of rice and pulse.",
+
+      "solution": [
+        "The cost of 1 kg of rice = ₹40.",
+        "The cost of 1 kg of pulse = ₹100.",
+        "The ratio of the prices of rice and pulse is $40 : 100$.",
+        "To simplify the ratio, we find the greatest common divisor (GCD) of 40 and 100, which is 20.",
+        "Dividing both parts of the ratio by 20: $\\frac{40}{20} : \\frac{100}{20}$.",
+        "The simplified ratio is $2 : 5$.",
+        "Answer: $2 : 5$"
+      ]
+    },
+    {
+      "question_no": "2",
+      "content": "In the given triangle ABC, ∠BAC = 60°, ∠ABC = 50°, ∠ACB = 70°. Find the ratio ∠BAC : ∠ABC : ∠ACB.",
+
+      "solution": [
+        "The given angles are ∠BAC = 60°, ∠ABC = 50°, and ∠ACB = 70°.",
+        "The ratio of the angles is $60 : 50 : 70$.",
+        "To simplify the ratio, we find the greatest common divisor (GCD) of 60, 50, and 70, which is 10.",
+        "Dividing each part of the ratio by 10: $\\frac{60}{10} : \\frac{50}{10} : \\frac{70}{10}$.",
+        "The simplified ratio is $6 : 5 : 7$.",
+        "Answer: $6 : 5 : 7$"
+      ]
+    },
+    {
+      "question_no": "3",
+      "content": "The price of a pencil is ₹3 and the cost of a toffee is 50 paise. Let's write the ratio of the prices of a pencil and a toffee.",
+
+      "solution": [
+        "The price of a pencil = ₹3.",
+        "The cost of a toffee = 50 paise.",
+        "To find the ratio, we must express both prices in the same unit. We convert rupees to paise.",
+        "Since ₹1 = 100 paise, the price of the pencil is $3 \\times 100 = 300$ paise.",
+        "The ratio of the prices is $300 : 50$.",
+        "To simplify, we divide both numbers by their GCD, which is 50.",
+        "$\\frac{300}{50} : \\frac{50}{50}$.",
+        "The simplified ratio is $6 : 1$.",
+        "Answer: $6 : 1$"
+      ]
+    },
+    {
+      "question_no": "4",
+      "content": "Let's find the ratio of the values of a 50 p coin, a rupee coin, and a two rupee coin.",
+
+      "solution": [
+        "First, we convert all values to the same unit, paise.",
+        "Value of the first coin = 50 paise.",
+        "Value of a rupee coin = 100 paise.",
+        "Value of a two rupee coin = 200 paise.",
+        "The ratio of the values is $50 : 100 : 200$.",
+        "The GCD of 50, 100, and 200 is 50.",
+        "Dividing each part by 50: $\\frac{50}{50} : \\frac{100}{50} : \\frac{200}{50}$.",
+        "The simplified ratio is $1 : 2 : 4$.",
+        "Answer: $1 : 2 : 4$"
+      ]
+    },
+    {
+      "question_no": "5",
+      "content": "Uma's age is 12 yrs 6 m, Ratul's age is 12 yrs 4 m and Noorjahan's age is 12 yrs. Let's write the ratio of their ages.",
+
+      "solution": [
+        "To find the ratio, we convert all ages to the same unit, months.",
+        "Since 1 year = 12 months:",
+        "Uma's age = $(12 \\times 12) + 6 = 144 + 6 = 150$ months.",
+        "Ratul's age = $(12 \\times 12) + 4 = 144 + 4 = 148$ months.",
+        "Noorjahan's age = $12 \\times 12 = 144$ months.",
+        "The ratio of their ages is $150 : 148 : 144$.",
+        "The GCD of 150, 148, and 144 is 2.",
+        "Dividing each part by 2: $\\frac{150}{2} : \\frac{148}{2} : \\frac{144}{2}$.",
+        "The simplified ratio is $75 : 74 : 72$.",
+        "Answer: $75 : 74 : 72$"
+      ]
+    },
+    {
+      "question_no": "6",
+      "content": "Let's write the ratio of the angles of a right angled isosceles triangle.",
+
+      "solution": [
+        "In a right-angled isosceles triangle, one angle is $90^\\circ$. The other two angles are equal and their sum is $180^\\circ - 90^\\circ = 90^\\circ$.",
+        "Therefore, each of the other two angles is $\\frac{90}{2} = 45^\\circ$.",
+        "The angles of the triangle are $45^\\circ, 45^\\circ, 90^\\circ$.",
+        "The ratio of the angles is $45 : 45 : 90$.",
+        "The GCD of 45, 45, and 90 is 45.",
+        "Dividing each part by 45: $\\frac{45}{45} : \\frac{45}{45} : \\frac{90}{45}$.",
+        "The simplified ratio is $1 : 1 : 2$.",
+        "Answer: $1 : 1 : 2$"
+      ]
+    },
+    {
+      "question_no": "7",
+      "content": "Let's write the ratio of the angles of an equilateral triangle.",
+
+      "solution": [
+        "In an equilateral triangle, all three angles are equal.",
+        "The sum of angles in a triangle is $180^\\circ$.",
+        "Each angle is $\\frac{180}{3} = 60^\\circ$.",
+        "The ratio of the angles is $60 : 60 : 60$.",
+        "Dividing each part by the GCD, 60, gives $1 : 1 : 1$.",
+        "Answer: $1 : 1 : 1$"
+      ]
+    },
+    {
+      "question_no": "8",
+      "content": "The ratio of the ages of Pulakbabu and Manikbabu is 7:9. If the age of Manikbabu is 72 yrs, let's find the age of Pulakbabu.",
+
+      "solution": [
+        "Let the age of Pulakbabu be $7x$ and the age of Manikbabu be $9x$.",
+        "Given that the age of Manikbabu is 72 years.",
+        "So, $9x = 72$.",
+        "$x = \\frac{72}{9} = 8$.",
+        "The age of Pulakbabu is $7x = 7 \\times 8 = 56$ years.",
+        "Answer: 56 years"
+      ]
+    },
+    {
+      "question_no": "9",
+      "content": "The ratio of the prices of two books is 2:5. If the price of the first book is ₹32.50, let's find the price of the other book.",
+
+      "solution": [
+        "Let the price of the first book be $2x$ and the price of the second book be $5x$.",
+        "Given that the price of the first book is ₹32.50.",
+        "So, $2x = 32.50$.",
+        "$x = \\frac{32.50}{2} = 16.25$.",
+        "The price of the other (second) book is $5x = 5 \\times 16.25 = 81.25$.",
+        "Answer: ₹81.25"
+      ]
+    },
+    {
+      "question_no": "10",
+      "content": "The ratio of the circumference and diameter of a circle is 22 : 7. If the length of the diameter of the circle is 2m 1dcm., let's calculate its circumference.",
+
+      "solution": [
+        "The ratio of Circumference (C) to Diameter (D) is $C : D = 22 : 7$.",
+        "The diameter is 2m 1dcm. We convert this to a single unit, decimeters (dcm).",
+        "Since 1m = 10 dcm, the diameter D = $(2 \\times 10) + 1 = 21$ dcm.",
+        "From the ratio, we have $\\frac{C}{D} = \\frac{22}{7}$.",
+        "$\\frac{C}{21} = \\frac{22}{7}$.",
+        "$C = \\frac{22}{7} \\times 21 = 22 \\times 3 = 66$ dcm.",
+        "Answer: 66 dcm"
+      ]
+    },
+    {
+      "question_no": "11",
+      "content": "From our class seven, out of 150 students, 90 students and from 140 students of class six, 80 students participated in a sit-in-draw competition. Let's express in ratio to find which of the two classes has greater participation.",
+
+      "solution": [
+        "Participation ratio for class seven is $90 : 150$, which is the fraction $\\frac{90}{150}$.",
+        "Simplifying the fraction: $\\frac{90}{150} = \\frac{9}{15} = \\frac{3}{5}$.",
+        "Participation ratio for class six is $80 : 140$, which is the fraction $\\frac{80}{140}$.",
+        "Simplifying the fraction: $\\frac{80}{140} = \\frac{8}{14} = \\frac{4}{7}$.",
+        "To compare $\\frac{3}{5}$ and $\\frac{4}{7}$, we find a common denominator, which is 35.",
+        "For class seven: $\\frac{3}{5} = \\frac{3 \\times 7}{5 \\times 7} = \\frac{21}{35}$.",
+        "For class six: $\\frac{4}{7} = \\frac{4 \\times 5}{7 \\times 5} = \\frac{20}{35}$.",
+        "Since $\\frac{21}{35} > \\frac{20}{35}$, class seven has greater participation.",
+        "Answer: Class seven has greater participation."
+      ]
+    },
+    {
+      "question_no": "12",
+      "content": "The ratio of two numbers is 5:7 and their H.C.F. is 13. Let us find the numbers.",
+
+      "solution": [
+        "Let the two numbers be $5x$ and $7x$.",
+        "The Highest Common Factor (H.C.F.) of $5x$ and $7x$ is $x$.",
+        "It is given that the H.C.F. is 13.",
+        "Therefore, $x = 13$.",
+        "The first number is $5x = 5 \\times 13 = 65$.",
+        "The second number is $7x = 7 \\times 13 = 91$.",
+        "Answer: The numbers are 65 and 91."
+      ]
+    }
+  ]
+}
+

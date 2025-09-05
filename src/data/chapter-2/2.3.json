@@ -1,0 +1,228 @@
+{
+  "title": "Ganitprabha - VII",
+  "chapter": "Chapter 2: RATIO",
+  "questions": [
+ {
+      "question_no": "1",
+      "content": "Last year, the ratio of literate and illiterate people of Rashkundu Village was 4:1. If the population of the village is 6550, let's find the numbers of literate and illiterate people.",
+
+      "solution": [
+        "The ratio of literate to illiterate people is $4 : 1$.",
+        "The sum of the ratio parts is $4 + 1 = 5$.",
+        "Total population is 6550.",
+        "Number of literate people = $\\frac{4}{5} \\times 6550 = 4 \\times 1310 = 5240$.",
+        "Number of illiterate people = $\\frac{1}{5} \\times 6550 = 1 \\times 1310 = 1310$.",
+        "Answer: There are 5240 literate and 1310 illiterate people."
+      ]
+    },
+    {
+      "question_no": "2",
+      "content": "If ₹640 is divided between Bishu and Aparna in the ratio of 5 : 3, let's find how much each would get.",
+
+      "solution": [
+        "The ratio of shares for Bishu and Aparna is $5 : 3$.",
+        "The sum of the ratio parts is $5 + 3 = 8$.",
+        "Total amount to be divided is ₹640.",
+        "Bishu's share = $\\frac{5}{8} \\times 640 = 5 \\times 80 = ₹400$.",
+        "Aparna's share = $\\frac{3}{8} \\times 640 = 3 \\times 80 = ₹240$.",
+        "Answer: Bishu gets ₹400 and Aparna gets ₹240."
+      ]
+    },
+    {
+      "question_no": "3",
+      "content": "In a particular type of steel, the ratio of iron and carbon is 49 : 1. Let's calculate to find, in 250 quintal of such steel how much iron is there.",
+
+      "solution": [
+        "The ratio of iron to carbon is $49 : 1$.",
+        "The sum of the ratio parts is $49 + 1 = 50$.",
+        "Total weight of steel is 250 quintal.",
+        "Amount of iron = $\\frac{49}{50} \\times 250 = 49 \\times 5 = 245$ quintal.",
+        "Answer: There is 245 quintal of iron."
+      ]
+    },
+    {
+      "question_no": "4",
+      "content": "Out of 143 girls of a school, the ratio of the number of girls who can only sing and those who can dance is 9:2. If 3 more girls were found to sing, then let's find the new ratio of girls who can sing and those who can dance.",
+
+      "solution": [
+        "The ratio of girls who sing to those who dance is $9 : 2$.",
+        "The sum of the ratio parts is $9 + 2 = 11$.",
+        "Total number of girls is 143.",
+        "Initial number of girls who can sing = $\\frac{9}{11} \\times 143 = 9 \\times 13 = 117$.",
+        "Initial number of girls who can dance = $\\frac{2}{11} \\times 143 = 2 \\times 13 = 26$.",
+        "3 more girls were found to sing.",
+        "New number of girls who can sing = $117 + 3 = 120$.",
+        "The number of girls who can dance remains 26.",
+        "The new ratio is $120 : 26$.",
+        "Simplifying the ratio by dividing by their GCD, 2: $\\frac{120}{2} : \\frac{26}{2} = 60 : 13$.",
+        "Answer: The new ratio is $60 : 13$."
+      ]
+    },
+    {
+      "question_no": "5",
+      "content": "In 240 ml of dettol - water, the ratio of the volumes of water and dettol is 1 : 3. If 60 ml of water is added to it, let's find the ratio of the volume of water and dettol in new mixture.",
+
+      "solution": [
+        "The ratio of water to dettol is $1 : 3$.",
+        "The sum of the ratio parts is $1 + 3 = 4$.",
+        "Total volume of the mixture is 240 ml.",
+        "Initial volume of water = $\\frac{1}{4} \\times 240 = 60$ ml.",
+        "Initial volume of dettol = $\\frac{3}{4} \\times 240 = 180$ ml.",
+        "60 ml of water is added to the mixture.",
+        "New volume of water = $60 + 60 = 120$ ml.",
+        "The volume of dettol remains 180 ml.",
+        "The new ratio of water to dettol is $120 : 180$.",
+        "Simplifying the ratio by dividing by their GCD, 60: $\\frac{120}{60} : \\frac{180}{60} = 2 : 3$.",
+        "Answer: The new ratio is $2 : 3$."
+      ]
+    },
+    {
+      "question_no": "6",
+      "content": "The monthly income of a man is ₹24,750. He pays house rent of ₹750 and the remaining money is spent for household expenses and the education of children in the ratio of 3:1. Let's find how much money is spent on household expenses.",
+
+      "solution": [
+        "Monthly income = ₹24,750.",
+        "House rent paid = ₹750.",
+        "Remaining money = $24,750 - 750 = ₹24,000$.",
+        "This remaining money is spent on household expenses and education in the ratio $3 : 1$.",
+        "The sum of the ratio parts is $3 + 1 = 4$.",
+        "Money spent on household expenses = $\\frac{3}{4} \\times 24,000 = 3 \\times 6,000 = ₹18,000$.",
+        "Answer: ₹18,000 is spent on household expenses."
+      ]
+    },
+    {
+      "question_no": "7",
+      "content": "In a certain year, Vivekananda Youth Library received a Govt. grant of ₹74,350 and collected a subscription of ₹4,350. Also, they got ₹1,300 by selling old papers etc. If the entire money is spent on buying new books, for binding of old books and paying salary to employees in the ratio of 15:3:2, let's calculate for how much money the new books were bought.",
+
+      "solution": [
+        "Total money collected = Govt. grant + Subscription + Sale of old papers.",
+        "Total money = $74,350 + 4,350 + 1,300 = ₹80,000$.",
+        "This money is spent on new books, binding, and salary in the ratio $15 : 3 : 2$.",
+        "The sum of the ratio parts is $15 + 3 + 2 = 20$.",
+        "The money spent on buying new books corresponds to the first part of the ratio.",
+        "Money for new books = $\\frac{15}{20} \\times 80,000 = \\frac{3}{4} \\times 80,000 = 3 \\times 20,000 = ₹60,000$.",
+        "Answer: ₹60,000 was spent on new books."
+      ]
+    },
+    {
+      "question_no": "8",
+      "content": "1050 people have come for a training at a training center. They were asked to sit in three big halls in the ratio of 11:3:3 ½. Let's find out how many people will sit in each room.",
+
+      "solution": [
+        "The given ratio is $11 : 3 : 3\\frac{1}{2}$.",
+        "First, convert the mixed fraction to an improper fraction: $3\\frac{1}{2} = \\frac{7}{2}$.",
+        "The ratio is $11 : 3 : \\frac{7}{2}$.",
+        "To get whole numbers, multiply all parts by 2: $11 \\times 2 : 3 \\times 2 : \\frac{7}{2} \\times 2$, which gives $22 : 6 : 7$.",
+        "The sum of the ratio parts is $22 + 6 + 7 = 35$.",
+        "Total number of people is 1050.",
+        "People in the first hall = $\\frac{22}{35} \\times 1050 = 22 \\times 30 = 660$.",
+        "People in the second hall = $\\frac{6}{35} \\times 1050 = 6 \\times 30 = 180$.",
+        "People in the third hall = $\\frac{7}{35} \\times 1050 = 7 \\times 30 = 210$.",
+        "Answer: 660, 180, and 210 people will sit in the three halls respectively."
+      ]
+    },
+    {
+      "question_no": "9",
+      "content": "₹12,100 is divided among Madhu, Manas, Kuntal and Indra in the ratio of 2:3:4:2, let's calculate how much each will get.",
+
+      "solution": [
+        "The ratio of shares is $2 : 3 : 4 : 2$.",
+        "The sum of the ratio parts is $2 + 3 + 4 + 2 = 11$.",
+        "Total amount is ₹12,100.",
+        "Madhu's share = $\\frac{2}{11} \\times 12,100 = 2 \\times 1,100 = ₹2,200$.",
+        "Manas's share = $\\frac{3}{11} \\times 12,100 = 3 \\times 1,100 = ₹3,300$.",
+        "Kuntal's share = $\\frac{4}{11} \\times 12,100 = 4 \\times 1,100 = ₹4,400$.",
+        "Indra's share = $\\frac{2}{11} \\times 12,100 = 2 \\times 1,100 = ₹2,200$.",
+        "Answer: Madhu gets ₹2,200, Manas gets ₹3,300, Kuntal gets ₹4,400, and Indra gets ₹2,200."
+      ]
+    },
+    {
+      "question_no": "10",
+      "content": "Sum of the three angles of a triangle ABC is 180°. The ratio of ∠BAC, ∠ABC and ∠ACB is 3:5:10. If the value of ∠BAC is decreased by 10° and the value of ∠ABC is increased by 10°. Let's calculate the new ratio of the three angles.",
+
+      "solution": [
+        "The initial ratio of angles is $3 : 5 : 10$. The sum of ratio parts is $3 + 5 + 10 = 18$.",
+        "Sum of angles in a triangle is $180^\\circ$.",
+        "Initial ∠BAC = $\\frac{3}{18} \\times 180^\\circ = 30^\\circ$.",
+        "Initial ∠ABC = $\\frac{5}{18} \\times 180^\\circ = 50^\\circ$.",
+        "Initial ∠ACB = $\\frac{10}{18} \\times 180^\\circ = 100^\\circ$.",
+        "Now, ∠BAC is decreased by 10°: New ∠BAC = $30^\\circ - 10^\\circ = 20^\\circ$.",
+        "And ∠ABC is increased by 10°: New ∠ABC = $50^\\circ + 10^\\circ = 60^\\circ$.",
+        "The sum of the new angles must still be $180^\\circ$. New ∠ACB = $180^\\circ - (20^\\circ + 60^\\circ) = 180^\\circ - 80^\\circ = 100^\\circ$.",
+        "The new angles are $20^\\circ, 60^\\circ, 100^\\circ$.",
+        "The new ratio is $20 : 60 : 100$.",
+        "Simplifying by dividing by the GCD, 20: $\\frac{20}{20} : \\frac{60}{20} : \\frac{100}{20} = 1 : 3 : 5$.",
+        "Answer: The new ratio is $1 : 3 : 5$."
+      ]
+    },
+    {
+      "question_no": "11",
+      "content": "Let's divide ₹9,000 among three friends in such a way that the second friend gets twice the amount than the first friend, and the third friend gets half of the total sum of money than the two friends have got. Let's calculate how much amount of money each friend will get.",
+
+      "solution": [
+        "Let the amount of the first friend be $x$.",
+        "The second friend gets twice the amount of the first, so the second friend gets $2x$.",
+        "The third friend gets half of the total sum of the first two, so the third friend gets $\\frac{x + 2x}{2} = \\frac{3x}{2}$.",
+        "The total amount is ₹9,000.",
+        "So, $x + 2x + \\frac{3x}{2} = 9000$.",
+        "$3x + \\frac{3x}{2} = 9000$.",
+        "To clear the fraction, multiply by 2: $6x + 3x = 18000$.",
+        "$9x = 18000$.",
+        "$x = \\frac{18000}{9} = 2000$.",
+        "First friend's share = $x = ₹2,000$.",
+        "Second friend's share = $2x = 2 \\times 2000 = ₹4,000$.",
+        "Third friend's share = $\\frac{3x}{2} = \\frac{3 \\times 2000}{2} = ₹3,000$.",
+        "Answer: The friends get ₹2,000, ₹4,000, and ₹3,000 respectively."
+      ]
+    },
+    {
+      "question_no": "12",
+      "content": "For constructing a road in our village, the ratio of the money spent for the last four years is 2:4:3:2. If the total money spent in those four years is ₹132 lakh, then let's find how much money was spent on the second year and total money spent on first and third year.",
+
+      "solution": [
+        "The ratio of money spent over four years is $2 : 4 : 3 : 2$.",
+        "The sum of the ratio parts is $2 + 4 + 3 + 2 = 11$.",
+        "Total money spent is ₹132 lakh.",
+        "Money spent in the second year (corresponding to ratio part 4) = $\\frac{4}{11} \\times 132 = 4 \\times 12 = ₹48$ lakh.",
+        "Money spent in the first year (ratio part 2) = $\\frac{2}{11} \\times 132 = 2 \\times 12 = ₹24$ lakh.",
+        "Money spent in the third year (ratio part 3) = $\\frac{3}{11} \\times 132 = 3 \\times 12 = ₹36$ lakh.",
+        "Total money spent in the first and third year = $₹24$ lakh + $₹36$ lakh = $₹60$ lakh.",
+        "Answer: ₹48 lakh was spent in the second year, and a total of ₹60 lakh was spent in the first and third years."
+      ]
+    },
+    {
+      "question_no": "13",
+      "content": "During retirement, Binoybabu get ₹1,96,150. He donated ₹20,000 for school library and the remaining amount he divided among his wife, son and daughter in the ratio of 5:4:4. Let's find how much money he gave to each of them.",
+
+      "solution": [
+        "Total retirement amount = ₹1,96,150.",
+        "Amount donated = ₹20,000.",
+        "Remaining amount to be divided = $1,96,150 - 20,000 = ₹1,76,150$.",
+        "This amount is divided among his wife, son, and daughter in the ratio $5 : 4 : 4$.",
+        "The sum of the ratio parts is $5 + 4 + 4 = 13$.",
+        "Wife's share = $\\frac{5}{13} \\times 1,76,150 = 5 \\times 13,550 = ₹67,750$.",
+        "Son's share = $\\frac{4}{13} \\times 1,76,150 = 4 \\times 13,550 = ₹54,200$.",
+        "Daughter's share = $\\frac{4}{13} \\times 1,76,150 = 4 \\times 13,550 = ₹54,200$.",
+        "Answer: He gave ₹67,750 to his wife, ₹54,200 to his son, and ₹54,200 to his daughter."
+      ]
+    },
+    {
+      "question_no": "14",
+      "content": "Aminoor uncle cultivated brinjal and potato in the ratio of 4:3 is his 35katha land. He made a profit of ₹150 per katha for brinjal and ₹125 per katha for potato. Let's calculate the total amount of profit of Aminoor uncle from his cultivation of brinjal and potato in his total land.",
+
+      "solution": [
+        "Total land = 35 katha.",
+        "The land is used for brinjal and potato in the ratio $4 : 3$.",
+        "The sum of the ratio parts is $4 + 3 = 7$.",
+        "Land used for brinjal = $\\frac{4}{7} \\times 35 = 4 \\times 5 = 20$ katha.",
+        "Land used for potato = $\\frac{3}{7} \\times 35 = 3 \\times 5 = 15$ katha.",
+        "Profit from brinjal = $20 \\text{ katha} \\times ₹150/\\text{katha} = ₹3,000$.",
+        "Profit from potato = $15 \\text{ katha} \\times ₹125/\\text{katha} = ₹1,875$.",
+        "Total profit = Profit from brinjal + Profit from potato = $₹3,000 + ₹1,875 = ₹4,875$.",
+        "Answer: The total profit is ₹4,875."
+      ]
+    }
+  ]
+}
+
+   

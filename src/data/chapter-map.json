@@ -2,10 +2,7 @@
   "class": 7,
   "book": "Ganitprabha",
   "chapters": [
-    {
-      "sl": 1,
-      "title": "Revision of previous knowledge"
-    },
+
     {
       "sl": 2,
       "title": "Ratio"
@@ -89,14 +86,6 @@
     {
       "sl": 22,
       "title": "Formation of Equation and its solutions"
-    },
-    {
-      "sl": 23,
-      "title": "Fun with Sums"
-    },
-    {
-      "sl": 24,
-      "title": "Let's match"
     }
   ]
 }

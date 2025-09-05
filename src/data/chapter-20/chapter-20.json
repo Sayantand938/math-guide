@@ -1,0 +1,85 @@
+{
+  "title": "Let's workout - 20",
+  "chapter": "Chapter : 20",
+  "questions": [
+    {
+      "question_no": "2",
+      "content": "Let us fill in the gaps -",
+      "sub_questions": [
+        {
+          "sub_question_no": "(i)",
+          "content": "Oblique sides of isosceles trapezium are ____ [equal/unequal].",
+          "solution": [
+            "In an isosceles trapezium, the non-parallel sides (oblique sides) are equal in length by definition.",
+            "Answer: equal"
+          ]
+        },
+        {
+          "sub_question_no": "(ii)",
+          "content": "If two pairs of opposite sides of a trapezium are equal it is a ____.",
+          "solution": [
+            "A trapezium has at least one pair of parallel sides. If a quadrilateral has two pairs of equal opposite sides, it is a parallelogram. A parallelogram is a special case of a trapezium.",
+            "Answer: parallelogram"
+          ]
+        },
+        {
+          "sub_question_no": "(iii)",
+          "content": "Opposite sides of a parallelogram are mutually ____ [parallel/not parallel].",
+          "solution": [
+            "By definition, a parallelogram is a quadrilateral with two pairs of parallel opposite sides.",
+            "Answer: parallel"
+          ]
+        },
+        {
+          "sub_question_no": "(iv)",
+          "content": "If one angle of a parallelogram is 90°, then it will be ____ [Rectangle/Rhombus].",
+          "solution": [
+            "A parallelogram with one right angle is a rectangle. In a parallelogram, consecutive angles are supplementary, so if one is 90°, all angles must be 90°.",
+            "Answer: Rectangle"
+          ]
+        },
+        {
+          "sub_question_no": "(v)",
+          "content": "Quadrilateral has ____ diagonals.",
+          "solution": [
+            "A diagonal is a line segment that connects two non-consecutive vertices. A quadrilateral has 4 vertices, and it has exactly 2 diagonals.",
+            "Answer: 2"
+          ]
+        },
+        {
+          "sub_question_no": "(vi)",
+          "content": "Diagonals of a rhombus bisect each other at ____.",
+          "solution": [
+            "A key property of a rhombus is that its diagonals are perpendicular bisectors of each other. This means they intersect at a 90° angle.",
+            "Answer: 90°"
+          ]
+        },
+        {
+          "sub_question_no": "(vii)",
+          "content": "The opposite sides of a rectangle are ____ [equal/unequal].",
+          "solution": [
+            "A rectangle is a parallelogram, and a fundamental property of parallelograms is that opposite sides are equal in length.",
+            "Answer: equal"
+          ]
+        },
+        {
+          "sub_question_no": "(viii)",
+          "content": "Rhombus is a special type of ____ [square/ parallel].",
+          "solution": [
+            "A rhombus is a parallelogram with four equal sides. The option 'parallel' likely refers to a parallelogram. A square is a special type of rhombus, but every rhombus is a special type of parallelogram.",
+            "Answer: parallelogram"
+          ]
+        },
+        {
+          "sub_question_no": "(ix)",
+          "content": "The diagonals of a parallelogram ____ each other.",
+          "solution": [
+            "A property of all parallelograms is that their diagonals bisect each other, meaning they intersect at their midpoints.",
+            "Answer: bisect"
+          ]
+        }
+      ]
+
+    }
+  ]
+}
