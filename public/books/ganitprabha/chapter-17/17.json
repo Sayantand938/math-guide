@@ -1,0 +1,553 @@
+[
+  {
+    "title": "AREAS OF RECTANGLES & SQUARES",
+    "chapter": "Chapter: 17",
+    "questions": [
+      {
+        "question_no": "2",
+        "content": "Let us calculate mentally and write.",
+        "sub_questions": [
+          {
+            "sub_question_no": "(i)",
+            "content": "Let's calculate the perimeter of a square of side 4 cm.",
+            "solution": [
+              "The formula for the perimeter of a square is $4 \\times \\text{side}$.",
+              "Given the side of the square is 4 cm.",
+              "Perimeter = $4 \\times 4$ cm.",
+              "Perimeter = 16 cm.",
+              "Answer: 16 cm"
+            ]
+          },
+          {
+            "sub_question_no": "(ii)",
+            "content": "Let's calculate the area of a square whose perimeter is 20 m.",
+            "solution": [
+              "The formula for the perimeter of a square is $4 \\times \\text{side}$.",
+              "Given the perimeter is 20 m.",
+              "$4 \\times \\text{side} = 20$ m.",
+              "Side = $\\frac{20}{4}$ m = 5 m.",
+              "The formula for the area of a square is $\\text{side}^2$.",
+              "Area = $(5 \\text{ m})^2 = 25$ sq m.",
+              "Answer: 25 sq m"
+            ]
+          },
+          {
+            "sub_question_no": "(iii)",
+            "content": "Let us write the value of the area of a rectangle whose length is 8 cm. and breadth is 5cm.",
+            "solution": [
+              "The formula for the area of a rectangle is $\\text{length} \\times \\text{breadth}$.",
+              "Given length = 8 cm and breadth = 5 cm.",
+              "Area = $8 \\text{ cm} \\times 5 \\text{ cm} = 40$ sq cm.",
+              "Answer: 40 sq cm"
+            ]
+          },
+          {
+            "sub_question_no": "(iv)",
+            "content": "1 sq km. = ? sq Dm.",
+            "solution": [
+              "We need to convert square kilometers (sq km) to square decameters (sq Dm).",
+              "1 kilometer (km) = 100 decameters (Dm).",
+              "Therefore, 1 square kilometer (sq km) = $(1 \\text{ km})^2 = (100 \\text{ Dm})^2$.",
+              "1 sq km = $10000$ sq Dm.",
+              "Answer: 10000"
+            ]
+          },
+          {
+            "sub_question_no": "(v)",
+            "content": "1 sq m. = ? sq Hm.",
+            "solution": [
+              "We need to convert square meters (sq m) to square hectometers (sq Hm).",
+              "1 hectometer (Hm) = 100 meters (m).",
+              "Therefore, 1 meter = $\\frac{1}{100}$ hectometers.",
+              "1 square meter (sq m) = $(1 \\text{ m})^2 = (\\frac{1}{100} \\text{ Hm})^2$.",
+              "1 sq m = $\\frac{1}{10000}$ sq Hm = 0.0001 sq Hm.",
+              "Answer: 0.0001"
+            ]
+          },
+          {
+            "sub_question_no": "(vi)",
+            "content": "Let us explain, what do 5 sq m. and 5 m. square mean.",
+            "solution": [
+              "\"5 sq m.\" refers to a measure of area. It represents a total area of 5 square meters. This area could be any shape, for example, a rectangle with dimensions 5 m by 1 m, or 2.5 m by 2 m.",
+              "\"5 m. square\" describes a specific geometric shape: a square whose sides are each 5 meters long.",
+              "The area of a \"5 m. square\" is calculated as side × side, which is $5 \\text{ m} \\times 5 \\text{ m} = 25$ sq m.",
+              "In summary, '5 sq m' is an area, while '5 m square' is a specific shape which has an area of 25 sq m.",
+              "Answer: '5 sq m' is a measure of area, while '5 m square' is a square with side 5 m and an area of 25 sq m."
+            ]
+          },
+          {
+            "sub_question_no": "(vii)",
+            "content": "If the area of a square is 2 cm. square then the length of its side is __ cm.",
+            "solution": [
+              "Let the side of the square be 's' cm.",
+              "The formula for the area of a square is $\\text{side}^2$ or $s^2$.",
+              "Given the area is 2 sq cm.",
+              "So, $s^2 = 2$.",
+              "To find the side 's', we take the square root of the area.",
+              "$s = \\sqrt{2}$ cm.",
+              "Answer: $\\sqrt{2}$ cm"
+            ]
+          },
+          {
+            "sub_question_no": "(viii)",
+            "content": "Let us draw a rectangle whose area is 30 sq cm. Let us find what are its possible lengths and breadths. Again, if the area of a rectangle is 40 sq cm. let us find its possible lengths and breadths.",
+            "solution": [
+              "For a rectangle with an area of 30 sq cm:",
+              "Area = length × breadth = 30. We need to find pairs of numbers that multiply to 30.",
+              "Possible integer pairs for (length, breadth) are: (30 cm, 1 cm), (15 cm, 2 cm), (10 cm, 3 cm), (6 cm, 5 cm).",
+              "For a rectangle with an area of 40 sq cm:",
+              "Area = length × breadth = 40. We need to find pairs of numbers that multiply to 40.",
+              "Possible integer pairs for (length, breadth) are: (40 cm, 1 cm), (20 cm, 2 cm), (10 cm, 4 cm), (8 cm, 5 cm).",
+              "Answer: For 30 sq cm, possible dimensions are (30,1), (15,2), (10,3), (6,5) cm. For 40 sq cm, possible dimensions are (40,1), (20,2), (10,4), (8,5) cm."
+            ]
+          },
+          {
+            "sub_question_no": "(ix)",
+            "content": "Mihir made a square card of cardboard whose one side is 6 cm. let's find the area of the card.",
+            "solution": [
+              "The card is a square with a side length of 6 cm.",
+              "The formula for the area of a square is $\\text{side}^2$.",
+              "Area = $(6 \\text{ cm})^2 = 36$ sq cm.",
+              "Answer: 36 sq cm"
+            ]
+          },
+          {
+            "sub_question_no": "(x)",
+            "content": "The area of a 5 m. square is __ sqm.",
+            "solution": [
+              "A \"5 m. square\" means a square shape with each side measuring 5 meters.",
+              "The formula for the area of a square is $\\text{side} \\times \\text{side}$.",
+              "Area = $5 \\text{ m} \\times 5 \\text{ m} = 25$ sq m.",
+              "Answer: 25 sqm"
+            ]
+          }
+        ],
+        "solution": []
+      },
+      {
+        "question_no": "3",
+        "content": "On a rectangular piece of white paper, I draw two pictures as shown in the figure. [Dimensions of white paper: 32cm x 20cm. Picture 1: 8cm x 8cm. Picture 2: 10cm x 6cm.]",
+        "sub_questions": [
+          {
+            "sub_question_no": "(a)",
+            "content": "Let us find how much space of white paper the No.1 picture is occupying.",
+            "solution": [
+              "Picture No.1 is a square with side 8 cm.",
+              "The space occupied is its area.",
+              "Area of Picture No.1 = $\\text{side}^2 = (8 \\text{ cm})^2 = 64$ sq cm.",
+              "Answer: 64 sq cm"
+            ]
+          },
+          {
+            "sub_question_no": "(b)",
+            "content": "Let us find how much space of white paper picture the No.2 is occupying.",
+            "solution": [
+              "Picture No.2 is a rectangle with length 10 cm and breadth 6 cm.",
+              "The space occupied is its area.",
+              "Area of Picture No.2 = $\\text{length} \\times \\text{breadth} = 10 \\text{ cm} \\times 6 \\text{ cm} = 60$ sq cm.",
+              "Answer: 60 sq cm"
+            ]
+          },
+          {
+            "sub_question_no": "(c)",
+            "content": "Let us calculate the area of white space is left in the white paper, after drawing the pictures (1) and (2).",
+            "solution": [
+              "The white paper is a rectangle with dimensions 32 cm by 20 cm.",
+              "Total area of the white paper = $32 \\text{ cm} \\times 20 \\text{ cm} = 640$ sq cm.",
+              "Total area occupied by both pictures = Area of Picture 1 + Area of Picture 2.",
+              "Total occupied area = $64 \\text{ sq cm} + 60 \\text{ sq cm} = 124$ sq cm.",
+              "The area of white space left = Total area of paper - Total occupied area.",
+              "Area left = $640 \\text{ sq cm} - 124 \\text{ sq cm} = 516$ sq cm.",
+              "Answer: 516 sq cm"
+            ]
+          }
+        ],
+        "solution": []
+      },
+      {
+        "question_no": "4",
+        "content": "The length and breadth of a page of my exercise book is 15 cm. and 12 cm. respectively. A margin of width 2 cm. is drawn on all sides, and wrote inside the margin. Let's also draw a rough sketch for the problem. Let us find the area of the portion on which I wrote. Let's also find the area of the portion on which I have not written.",
+        "solution": [
+          "Dimensions of the page (outer rectangle): Length = 15 cm, Breadth = 12 cm.",
+          "Total area of the page = $15 \\text{ cm} \\times 12 \\text{ cm} = 180$ sq cm.",
+          "A margin of 2 cm is drawn on all sides. This creates an inner rectangle for writing.",
+          "The length of the inner rectangle (writing area) = Outer Length - 2 × margin width = $15 - 2 \\times 2 = 15 - 4 = 11$ cm.",
+          "The breadth of the inner rectangle (writing area) = Outer Breadth - 2 × margin width = $12 - 2 \\times 2 = 12 - 4 = 8$ cm.",
+          "Area of the portion on which I wrote (inner area) = $11 \\text{ cm} \\times 8 \\text{ cm} = 88$ sq cm.",
+          "Area of the portion on which I have not written (margin area) = Total area - Writing area.",
+          "Margin area = $180 \\text{ sq cm} - 88 \\text{ sq cm} = 92$ sq cm.",
+          "Answer: The area for writing is 88 sq cm, and the area of the margin (not written on) is 92 sq cm."
+        ]
+      },
+      {
+        "question_no": "5",
+        "content": "Rajesh has a rectangular plot of land of length 36 m. and breadth 24m. There is a path 2 m. wide running all around the plot outside. Let us draw a rough sketch of the problem and calculate the following -",
+        "sub_questions": [
+          {
+            "sub_question_no": "(i)",
+            "content": "Length and breadth of the plot of land including the path.",
+            "solution": [
+              "Dimensions of the plot (inner rectangle): Length = 36 m, Breadth = 24 m.",
+              "The path is 2 m wide and runs outside the plot.",
+              "The new length including the path = Inner Length + 2 × path width = $36 + 2 \\times 2 = 36 + 4 = 40$ m.",
+              "The new breadth including the path = Inner Breadth + 2 × path width = $24 + 2 \\times 2 = 24 + 4 = 28$ m.",
+              "Answer: Length = 40 m, Breadth = 28 m"
+            ]
+          },
+          {
+            "sub_question_no": "(ii)",
+            "content": "The area of the plot of land without the path.",
+            "solution": [
+              "This is the area of the inner rectangular plot.",
+              "Area = Length × Breadth = $36 \\text{ m} \\times 24 \\text{ m} = 864$ sq m.",
+              "Answer: 864 sq m"
+            ]
+          },
+          {
+            "sub_question_no": "(iii)",
+            "content": "Area of the path.",
+            "solution": [
+              "The area of the path is the difference between the area of the outer rectangle (plot with path) and the inner rectangle (plot only).",
+              "Area of the outer rectangle = $40 \\text{ m} \\times 28 \\text{ m} = 1120$ sq m.",
+              "Area of the inner rectangle = 864 sq m (from part ii).",
+              "Area of the path = $1120 \\text{ sq m} - 864 \\text{ sq m} = 256$ sq m.",
+              "Answer: 256 sq m"
+            ]
+          }
+        ],
+        "solution": []
+      },
+      {
+        "question_no": "6",
+        "content": "Maria's family has a square plot of land of side 20 m. A path 1 m. wide runs all around it from outside. Let's find the area of the path.",
+        "solution": [
+          "Side of the square plot (inner square) = 20 m.",
+          "Area of the inner square plot = $(20 \\text{ m})^2 = 400$ sq m.",
+          "A path of 1 m width runs outside the plot.",
+          "Side of the outer square (plot with path) = Inner side + 2 × path width = $20 + 2 \\times 1 = 22$ m.",
+          "Area of the outer square = $(22 \\text{ m})^2 = 484$ sq m.",
+          "Area of the path = Area of outer square - Area of inner square.",
+          "Area of the path = $484 \\text{ sq m} - 400 \\text{ sq m} = 84$ sq m.",
+          "Answer: 84 sq m"
+        ]
+      },
+      {
+        "question_no": "7",
+        "content": "The area of a square piece of land is 6400 sq m. Let's find the cost of fencing all around the land at Rs. 3.50 per meter.",
+        "solution": [
+          "Area of the square land = 6400 sq m.",
+          "Let the side of the square be 's'. Then $s^2 = 6400$.",
+          "Side 's' = $\\sqrt{6400} = 80$ m.",
+          "Fencing is done along the perimeter of the land.",
+          "Perimeter of the square = $4 \\times \\text{side} = 4 \\times 80 = 320$ m.",
+          "Cost of fencing = Perimeter × Rate per meter.",
+          "Cost = $320 \\text{ m} \\times \\text{Rs. } 3.50/\\text{m} = \\text{Rs. } 1120$.",
+          "Answer: Rs. 1120"
+        ]
+      },
+      {
+        "question_no": "8",
+        "content": "The length of Karim uncle's plot of land is twice its breadth and its area is 578 sq m. Let us find the length, breadth and perimeter of karim uncle's land.",
+        "solution": [
+          "Let the breadth of the plot be 'b' meters.",
+          "The length of the plot is 'l' = 2b meters.",
+          "Area of the rectangular plot = length × breadth = $l \\times b$.",
+          "Given area = 578 sq m.",
+          "So, $(2b) \\times b = 578$.",
+          "$2b^2 = 578$.",
+          "$b^2 = \\frac{578}{2} = 289$.",
+          "$b = \\sqrt{289} = 17$ m.",
+          "So, the breadth is 17 m.",
+          "The length is $2b = 2 \\times 17 = 34$ m.",
+          "Perimeter of the plot = $2 \\times (l + b) = 2 \\times (34 + 17) = 2 \\times 51 = 102$ m.",
+          "Answer: Length = 34 m, Breadth = 17 m, Perimeter = 102 m"
+        ]
+      },
+      {
+        "question_no": "9",
+        "content": "The length of the rectangular stage of a theatre is twice its breadth. It costs Rs. 6048 to cover the whole stage with tarpaulin. If one sq m. of tarpanlin costs Rs 21. Let's find the length and breadth of the stage.",
+        "solution": [
+          "Total cost to cover the stage = Rs. 6048.",
+          "Cost of tarpaulin per sq m = Rs. 21.",
+          "Area of the stage = $\\frac{\\text{Total cost}}{\\text{Cost per sq m}} = \\frac{6048}{21} = 288$ sq m.",
+          "Let the breadth of the stage be 'b' meters.",
+          "The length of the stage is 'l' = 2b meters.",
+          "Area = $l \\times b = (2b) \\times b = 2b^2$.",
+          "So, $2b^2 = 288$.",
+          "$b^2 = \\frac{288}{2} = 144$.",
+          "$b = \\sqrt{144} = 12$ m.",
+          "The breadth is 12 m.",
+          "The length is $2b = 2 \\times 12 = 24$ m.",
+          "Answer: Length = 24 m, Breadth = 12 m"
+        ]
+      },
+      {
+        "question_no": "10",
+        "content": "Nazreen will put Jari border on her sari of length 5.5 m and breadth 1.25 m. She decides to put a border of width 2.5 cm., along the breadth of the sari. Let's find which portion of the sari will have Jari and which area of sari will be without Jari.",
+        "solution": [
+          "Dimensions of the sari: Length = 5.5 m, Breadth = 1.25 m.",
+          "Total area of the sari = $5.5 \\text{ m} \\times 1.25 \\text{ m} = 6.875$ sq m.",
+          "A Jari border of width 2.5 cm is put 'along the breadth'. This implies two border strips are added at the two ends of the sari (the shorter sides).",
+          "Width of border = 2.5 cm = 0.025 m.",
+          "Each border strip is a rectangle with dimensions: length = breadth of the sari = 1.25 m, and width = 0.025 m.",
+          "Area of one Jari border strip = $1.25 \\text{ m} \\times 0.025 \\text{ m} = 0.03125$ sq m.",
+          "Since there are two such strips, the total area with Jari = $2 \\times 0.03125 = 0.0625$ sq m.",
+          "The area of the sari without Jari = Total area of sari - Total area with Jari.",
+          "Area without Jari = $6.875 - 0.0625 = 6.8125$ sq m.",
+          "Answer: The area with Jari is 0.0625 sq m, and the area without Jari is 6.8125 sq m."
+        ]
+      },
+      {
+        "question_no": "11",
+        "content": "As seen in the figure, two 5m. wide path is dividing a rectangular garden into four equal parts. The length and breadth of the rectangular garden is 60m and 40m respectively. Let us calculate the cost of paving the path at Rs. 80 per sq meter. Let's also find the area of each part of land.",
+        "solution": [
+          "Dimensions of the garden: Length = 60 m, Breadth = 40 m.",
+          "There are two paths of 5 m width, one running parallel to the length and the other parallel to the breadth, intersecting at the center.",
+          "Area of the path parallel to the length = $60 \\text{ m} \\times 5 \\text{ m} = 300$ sq m.",
+          "Area of the path parallel to the breadth = $40 \\text{ m} \\times 5 \\text{ m} = 200$ sq m.",
+          "The paths overlap at the center in a square area of $5 \\text{ m} \\times 5 \\text{ m} = 25$ sq m.",
+          "Total area of the path = (Area of horizontal path) + (Area of vertical path) - (Area of overlap) = $300 + 200 - 25 = 475$ sq m.",
+          "Cost of paving the path = Total area of path × Rate = $475 \\times 80 = \\text{Rs. } 38000$.",
+          "To find the area of each part of land:",
+          "Total area of the garden = $60 \\text{ m} \\times 40 \\text{ m} = 2400$ sq m.",
+          "Total area of the four land parts = Total garden area - Total path area = $2400 - 475 = 1925$ sq m.",
+          "Since the four parts are equal, the area of each part = $\\frac{1925}{4} = 481.25$ sq m.",
+          "Answer: The cost of paving is Rs. 38000, and the area of each part of land is 481.25 sq m."
+        ]
+      },
+      {
+        "question_no": "12",
+        "content": "The path that leads to our house is 2 m wide. It divides our garden into two equal squares, as shown in the figure. The path is constructed for Rs. 8000 at the rate of Rs.500 per sq m. Let us calcu;ate the area of each square portion of garden. If the breadth of the whole plot of rectangular land on which the house is built is 4m, let us calculate the area occupied by the house itself.",
+        "solution": [
+          "The problem has conflicting information ('2m wide' vs '4m breadth'). We will use the information that makes the cost calculation consistent.",
+          "Let the width of the path be 'w'. The path divides the garden into two equal squares of side 's'. The length of the path is 's'.",
+          "Area of the path = $s \\times w$.",
+          "Total cost of path = Rs. 8000. Rate = Rs. 500 per sq m.",
+          "Area of the path = $\\frac{\\text{Total Cost}}{\\text{Rate}} = \\frac{8000}{500} = 16$ sq m.",
+          "The statement 'breadth of the whole plot... is 4m' suggests the width of the path is 4m. Let's check this.",
+          "If width $w=4$m, then Area = $s \\times 4 = 16$, which gives side $s=4$m.",
+          "Let's check the cost with these values: Area = 16 sq m. Cost = $16 \\times 500 = 8000$. This is consistent.",
+          "So, the side of each square garden is s = 4 m.",
+          "Area of each square portion of garden = $s^2 = 4^2 = 16$ sq m.",
+          "The plot on which the house is built is the central strip, which has a breadth of 4 m and a length of s = 4 m.",
+          "Assuming the house occupies this entire plot, the area occupied by the house is $4 \\text{ m} \\times 4 \\text{ m} = 16$ sq m.",
+          "Answer: The area of each square portion of the garden is 16 sq m. The area occupied by the house is 16 sq m."
+        ]
+      },
+      {
+        "question_no": "13",
+        "content": "The cost of cultivation of a 30 m long pieces of land is Rs. 150. If the breadth of the land be 5m less, the cost would have been Rs. 120. Let's calsulate the breadth of the land.",
+        "solution": [
+          "Let the length of the land be L = 30 m and the original breadth be B m.",
+          "The cost of cultivation is proportional to the area of the land.",
+          "Let 'C' be the cost of cultivation per square meter.",
+          "Original Area = $L \\times B = 30B$.",
+          "Original Cost = $C \\times (30B) = 150$. (Equation 1)",
+          "The new breadth is $B' = B - 5$ m.",
+          "New Area = $L \\times B' = 30(B - 5)$.",
+          "New Cost = $C \\times 30(B - 5) = 120$. (Equation 2)",
+          "Divide Equation 2 by Equation 1:",
+          "$\\frac{C \\times 30(B - 5)}{C \\times 30B} = \\frac{120}{150}$.",
+          "$\\frac{B - 5}{B} = \\frac{12}{15} = \\frac{4}{5}$.",
+          "Cross-multiply: $5(B - 5) = 4B$.",
+          "$5B - 25 = 4B$.",
+          "$5B - 4B = 25$.",
+          "B = 25 m.",
+          "Answer: The breadth of the land is 25 m."
+        ]
+      },
+      {
+        "question_no": "14",
+        "content": "The length and breadth of a rectangular hall is 30m and 18 m respectively. Let's find how many square tiles of side 3 dcm. will be required for flooring the hall.",
+        "solution": [
+          "Dimensions of the hall: Length = 30 m, Breadth = 18 m.",
+          "Area of the hall = $30 \\text{ m} \\times 18 \\text{ m} = 540$ sq m.",
+          "Side of one square tile = 3 decimeters (dcm).",
+          "We must use consistent units. We know that 1 meter = 10 decimeters.",
+          "So, side of tile in meters = $\\frac{3}{10}$ m = 0.3 m.",
+          "Area of one tile = $(\\text{side})^2 = (0.3 \\text{ m})^2 = 0.09$ sq m.",
+          "Number of tiles required = $\\frac{\\text{Area of hall}}{\\text{Area of one tile}}$.",
+          "Number of tiles = $\\frac{540}{0.09} = \\frac{54000}{9} = 6000$.",
+          "Answer: 6000 tiles"
+        ]
+      },
+      {
+        "question_no": "15",
+        "content": "Jakir has a 18m × 14m rectangular plot of land. There is a square portion of garden of sides 3.4m. Let's draw a rough sketch and calculate the area of the plot of land without the garden. Let's also find how many square tiles of side 2 dcm. will be required to cover this vacant portion of land.",
+        "solution": [
+          "Dimensions of the rectangular plot: 18 m × 14 m.",
+          "Total area of the plot = $18 \\text{ m} \\times 14 \\text{ m} = 252$ sq m.",
+          "Side of the square garden = 3.4 m.",
+          "Area of the garden = $(3.4 \\text{ m})^2 = 11.56$ sq m.",
+          "The area of the plot without the garden (vacant portion) = Total area - Garden area.",
+          "Vacant area = $252 - 11.56 = 240.44$ sq m.",
+          "Now, we need to tile this vacant portion.",
+          "Side of one square tile = 2 dcm = 0.2 m.",
+          "Area of one tile = $(0.2 \\text{ m})^2 = 0.04$ sq m.",
+          "Number of tiles required = $\\frac{\\text{Vacant area}}{\\text{Area of one tile}}$.",
+          "Number of tiles = $\\frac{240.44}{0.04} = \\frac{24044}{4} = 6011$.",
+          "Answer: The area without the garden is 240.44 sq m, and 6011 tiles are required to cover it."
+        ]
+      },
+      {
+        "question_no": "16",
+        "content": "In the figures given below, let us find the areas of the coloured portions.",
+        "sub_questions": [
+          {
+            "sub_question_no": "(Figure 1 - Cross)",
+            "content": "A red cross inside a 20 cm by 15 cm rectangle. The width of the cross's arms is 2 cm.",
+            "solution": [
+              "The coloured cross consists of a horizontal rectangle and a vertical rectangle.",
+              "Dimensions of horizontal rectangle: 20 cm × 2 cm. Area = $20 \\times 2 = 40$ sq cm.",
+              "Dimensions of vertical rectangle: 15 cm × 2 cm. Area = $15 \\times 2 = 30$ sq cm.",
+              "The rectangles overlap in a central square of 2 cm × 2 cm. Area of overlap = $2 \\times 2 = 4$ sq cm.",
+              "Total area of the cross = Area of horizontal rect + Area of vertical rect - Area of overlap.",
+              "Area = $40 + 30 - 4 = 66$ sq cm.",
+              "Answer: 66 sq cm"
+            ]
+          },
+          {
+            "sub_question_no": "(Figure 2 - Hollow Rectangle)",
+            "content": "A brown border within a 23 cm by 15 cm rectangle. The border width is 2 cm.",
+            "solution": [
+              "Outer dimensions: Length = 23 cm, Breadth = 15 cm. Outer Area = $23 \\times 15 = 345$ sq cm.",
+              "The border width is 2 cm on all sides.",
+              "Inner length = $23 - 2 \\times 2 = 19$ cm.",
+              "Inner breadth = $15 - 2 \\times 2 = 11$ cm.",
+              "Inner Area (white part) = $19 \\times 11 = 209$ sq cm.",
+              "Area of the coloured border = Outer Area - Inner Area = $345 - 209 = 136$ sq cm.",
+              "Answer: 136 sq cm"
+            ]
+          },
+          {
+            "sub_question_no": "(Figure 3 - L-shape)",
+            "content": "An L-shaped figure with outer dimensions 18m and 12m, and inner dimensions 9m and 4m.",
+            "solution": [
+              "Based on the labels, we can decompose the L-shape into two non-overlapping rectangles.",
+              "Let's assume the top horizontal bar has full width 18m and height (12-9)m, and the bottom-right vertical bar has width 4m and height 9m.",
+              "Area of top rectangle = $18 \\text{ m} \\times (12 - 9) \\text{ m} = 18 \\times 3 = 54$ sq m.",
+              "Area of bottom-right rectangle = $4 \\text{ m} \\times 9 \\text{ m} = 36$ sq m.",
+              "Total area = $54 + 36 = 90$ sq m.",
+              "Answer: 90 sq m"
+            ]
+          },
+          {
+            "sub_question_no": "(Figure 4 - H-shape)",
+            "content": "An H-shaped figure with total height 10cm. The vertical segments above and below the horizontal bar are 4cm each. The width of the vertical bars is 4cm and the gap between them is 5cm.",
+            "solution": [
+              "The labels suggest the total height is 10cm, and the top and bottom vertical sections are 4cm each.",
+              "Height of the central horizontal bar = Total height - height of top section - height of bottom section = $10 - 4 - 4 = 2$ cm.",
+              "The width of each vertical bar is 4 cm, and the gap between them is 5 cm.",
+              "The total width of the H-shape is $4 + 5 + 4 = 13$ cm.",
+              "We can calculate the area by adding three non-overlapping rectangles:",
+              "1. Two top prongs: $2 \\times (\\text{width} \\times \\text{height}) = 2 \\times (4 \\times 4) = 32$ sq cm.",
+              "2. The central horizontal bar: $1 \\times (\\text{total width} \\times \\text{height}) = 1 \\times (13 \\times 2) = 26$ sq cm.",
+              "3. Two bottom prongs: $2 \\times (\\text{width} \\times \\text{height}) = 2 \\times (4 \\times 4) = 32$ sq cm.",
+              "Total Area = $32 + 26 + 32 = 90$ sq cm.",
+              "Answer: 90 sq cm"
+            ]
+          },
+          {
+            "sub_question_no": "(Figure 5 - Blue portions)",
+            "content": "A figure asking to choose own values. It shows a large square with a cross removed from the center, leaving four smaller squares at the corners.",
+            "solution": [
+              "Let's assume the outer square has a side of 10 cm.",
+              "Let's assume the cross removed from the middle has arms of width 2 cm.",
+              "The coloured portions are the four squares left in the corners.",
+              "The side length of each small corner square will be $\\frac{(\\text{Total side} - \\text{cross width})}{2}$.",
+              "Side of small square = $\\frac{(10 - 2)}{2} = \\frac{8}{2} = 4$ cm.",
+              "Area of one small square = $4 \\times 4 = 16$ sq cm.",
+              "Since there are four such squares, the total coloured area = $4 \\times 16 = 64$ sq cm.",
+              "Answer: 64 sq cm (assuming a 10cm outer square and 2cm cross width)."
+            ]
+          }
+        ]
+      },
+      {
+        "question_no": "17",
+        "content": "The length, breadth and height of a room of my school are 8m, 6m and 5m respectively.",
+        "sub_questions": [
+          {
+            "sub_question_no": "(i)",
+            "content": "Find the cost of cementing the floor at Rs 75 per square metre.",
+            "solution": [
+              "The floor is a rectangle with length = 8 m and breadth = 6 m.",
+              "Area of the floor = $8 \\text{ m} \\times 6 \\text{ m} = 48$ sq m.",
+              "Cost of cementing = Area × Rate = $48 \\times 75 = \\text{Rs. } 3600$.",
+              "Answer: Rs. 3600"
+            ]
+          },
+          {
+            "sub_question_no": "(ii)",
+            "content": "Let's find the cost of white washing its ceiling at Rs 52 per Sq m.",
+            "solution": [
+              "The ceiling has the same area as the floor.",
+              "Area of the ceiling = 48 sq m.",
+              "Cost of white washing = Area × Rate = $48 \\times 52 = \\text{Rs. } 2496$.",
+              "Answer: Rs. 2496"
+            ]
+          },
+          {
+            "sub_question_no": "(iii)",
+            "content": "The room has 2 doors each 1.5 m wide and 1.8 m high and has 2 windows each 1.2 m wide and 1.4 m high. Let's calculate the cost of painting doors and windows at Rs 260 per square metre.",
+            "solution": [
+              "Area of one door = $1.5 \\text{ m} \\times 1.8 \\text{ m} = 2.7$ sq m.",
+              "Area of two doors = $2 \\times 2.7 = 5.4$ sq m.",
+              "Area of one window = $1.2 \\text{ m} \\times 1.4 \\text{ m} = 1.68$ sq m.",
+              "Area of two windows = $2 \\times 1.68 = 3.36$ sq m.",
+              "Total area of doors and windows = $5.4 + 3.36 = 8.76$ sq m.",
+              "Cost of painting = Total area × Rate = $8.76 \\times 260 = \\text{Rs. } 2277.60$.",
+              "Answer: Rs. 2277.60"
+            ]
+          },
+          {
+            "sub_question_no": "(iv)",
+            "content": "Let's also calculate the total cost of plastering the walls, without doors and windows at Rs 95 per sq m and cost of painting the walls at Rs. 40 per sq m.",
+            "solution": [
+              "First, find the area of the four walls.",
+              "Area of four walls = $2 \\times (\\text{length} + \\text{breadth}) \\times \\text{height}$.",
+              "Area of walls = $2 \\times (8 + 6) \\times 5 = 2 \\times 14 \\times 5 = 140$ sq m.",
+              "Area of doors and windows = 8.76 sq m (from part iii).",
+              "Area of walls to be plastered and painted = Area of four walls - Area of doors and windows.",
+              "Net wall area = $140 - 8.76 = 131.24$ sq m.",
+              "Cost of plastering = Net wall area × Plastering rate = $131.24 \\times 95 = \\text{Rs. } 12467.80$.",
+              "Cost of painting = Net wall area × Painting rate = $131.24 \\times 40 = \\text{Rs. } 5249.60$.",
+              "Total cost = Cost of plastering + Cost of painting = $12467.80 + 5249.60 = \\text{Rs. } 17717.40$.",
+              "Answer: Rs. 17717.40"
+            ]
+          }
+        ],
+        "solution": []
+      },
+      {
+        "question_no": "18",
+        "content": "Our local club room is square in shape of side 15 m long, and 5 m high. There are 4 doors in the club room each 1.5 m wide and 2 m high. Let's calculate the cost of oil painting its 4 walls without doors at Rs. 350 per sq m.",
+        "solution": [
+          "The room has a square base, so length = breadth = 15 m. Height = 5 m.",
+          "Area of the 4 walls = $2 \\times (\\text{length} + \\text{breadth}) \\times \\text{height}$.",
+          "Area of walls = $2 \\times (15 + 15) \\times 5 = 2 \\times 30 \\times 5 = 300$ sq m.",
+          "Area of one door = $1.5 \\text{ m} \\times 2 \\text{ m} = 3$ sq m.",
+          "Area of 4 doors = $4 \\times 3 = 12$ sq m.",
+          "Area to be painted = Area of walls - Area of doors = $300 - 12 = 288$ sq m.",
+          "Cost of oil painting = Area to be painted × Rate = $288 \\times 350$.",
+          "Cost = Rs. 100800.",
+          "Answer: Rs. 100800"
+        ]
+      },
+      {
+        "question_no": "19",
+        "content": "Let's draw figure and calculate - within a rectangular plot of land, there is a square shaped pond. There is a 3 m wide paved path along its edge and on three sides of it, and on the other side there is a 18 m broad garden. We calculated the area of the pond is __ sq m, the area of the path is __ sq m.",
+        "solution": [
+          "This question is incomplete as it does not provide the initial dimensions of the rectangular plot or the square pond. The values for area cannot be calculated without more information."
+        ]
+      },
+      {
+        "question_no": "20",
+        "content": "The length, breadth and heigth of my rectangular room is __ m, __ m and __ m. The areas of the 4 walls of my room inculding the doors and windows is __ sq m.",
+        "solution": [
+          "This is a fill-in-the-blanks question that requires specific measurements of a room. It cannot be solved as a general mathematical problem."
+        ]
+      }
+    ]
+  }
+]
